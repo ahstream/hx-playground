@@ -1,0 +1,22 @@
+{
+  "name": "hx-playground",
+  "version": "1.0.0",
+  "description": "Hx playground scripts and apps",
+  "author": "hstream",
+  "license": "UNLICENSED",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "null": ""
+  },
+  "devDependencies": {
+    "vite": "^4.5.0"
+  },
+  "dependencies": {
+    "hx-lib": "file:../hx-lib",
+    "hx-deca-lib": "file:../hx-deca-lib",
+    "hx-ethplorer-lib": "file:../hx-ethplorer-lib"
+  }
+}
