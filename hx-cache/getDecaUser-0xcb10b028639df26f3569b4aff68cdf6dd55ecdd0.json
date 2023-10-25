@@ -1,0 +1,20 @@
+{
+  "modified": 1698264563721,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xcb10b028639df26f3569b4aff68cdf6dd55ecdd0",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xcb10b028639df26f3569b4aff68cdf6dd55ecdd0"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3xhyf5g256109l3obj0aqgc",
+    "username": "KauriNFT",
+    "createdAt": "2022-06-02T20:55:36.244Z"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "modified": 1698264933292,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x8e611b4f46a353aae8fa55af10b5cec24f5f1db8",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x8e611b4f46a353aae8fa55af10b5cec24f5f1db8"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl8wiwfgi460209l5p3nhs8qg",
+    "username": "unzucc",
+    "createdAt": "2022-10-06T03:52:48.450Z"
+  }
+}

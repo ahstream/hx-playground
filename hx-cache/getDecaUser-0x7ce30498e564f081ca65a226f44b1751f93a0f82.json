@@ -1,0 +1,31 @@
+{
+  "modified": 1698264810282,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x1e8e749b2b578e181ca01962e9448006772b24a2",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1feVr12P95X7UeEwzvgd7tpiEfgdqByZjC",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0x7ce30498e564f081ca65a226f44b1751f93a0f82",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x1e8e749b2b578e181ca01962e9448006772b24a2",
+      "0x7ce30498e564f081ca65a226f44b1751f93a0f82"
+    ],
+    "walletsTez": [
+      "tz1feVr12P95X7UeEwzvgd7tpiEfgdqByZjC"
+    ],
+    "walletsOther": [],
+    "id": "cl3d9kxq2089007mll7ymk5k5",
+    "username": "brinkman",
+    "createdAt": "2022-05-19T17:05:46.682Z"
+  }
+}

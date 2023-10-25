@@ -1,0 +1,31 @@
+{
+  "modified": 1698264558404,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xad8d22b89e55490e72bb5b06971f47c4b329e8b2",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x31ee47a0bf557c4949baad97d798b6b156cbd231",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1Nu3YWkGQtqQJ6czFoviwRpNkqtdp7PBNF",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0xad8d22b89e55490e72bb5b06971f47c4b329e8b2",
+      "0x31ee47a0bf557c4949baad97d798b6b156cbd231"
+    ],
+    "walletsTez": [
+      "tz1Nu3YWkGQtqQJ6czFoviwRpNkqtdp7PBNF"
+    ],
+    "walletsOther": [],
+    "id": "cl3kixa9v002709lb0hkzd1vb",
+    "username": "PENN",
+    "createdAt": "2022-05-24T19:01:42.595Z"
+  }
+}

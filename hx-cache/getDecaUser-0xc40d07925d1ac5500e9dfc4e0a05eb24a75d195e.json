@@ -1,0 +1,31 @@
+{
+  "modified": 1698265065025,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xcadc7fcfd1c12da24be866d30be91b44cbff3914",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xc40d07925d1ac5500e9dfc4e0a05eb24a75d195e",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1XYSV48qdmN7UVMtrdjWaoDgFxd278ReoD",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0xcadc7fcfd1c12da24be866d30be91b44cbff3914",
+      "0xc40d07925d1ac5500e9dfc4e0a05eb24a75d195e"
+    ],
+    "walletsTez": [
+      "tz1XYSV48qdmN7UVMtrdjWaoDgFxd278ReoD"
+    ],
+    "walletsOther": [],
+    "id": "cl3bl18jt101609l8bs4mx0r0",
+    "username": "Uccio",
+    "createdAt": "2022-05-18T12:50:50.633Z"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "modified": 1698265172179,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x552f01d67b352aaa38bc675e30ced97f2451df63",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x993753f910ca1ecc93e3f32f013aa92c3b45aa94",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x20cdefd87340deb9533ae521a5d9aad06f4077b4",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xaac709a19274b53a9ce099e66c672422c019df7d",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1QfUs5txeak6RSBwFygYZXYmq77h6Petxo",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0xe772a8d5a9ca7c121f84e89ec934eca7c43b7ee0",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x0d18298b238f4d339ba0bccfe72d08274c2e5832",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x552f01d67b352aaa38bc675e30ced97f2451df63",
+      "0x993753f910ca1ecc93e3f32f013aa92c3b45aa94",
+      "0x20cdefd87340deb9533ae521a5d9aad06f4077b4",
+      "0xaac709a19274b53a9ce099e66c672422c019df7d",
+      "0xe772a8d5a9ca7c121f84e89ec934eca7c43b7ee0",
+      "0x0d18298b238f4d339ba0bccfe72d08274c2e5832"
+    ],
+    "walletsTez": [
+      "tz1QfUs5txeak6RSBwFygYZXYmq77h6Petxo"
+    ],
+    "walletsOther": [],
+    "id": "cku9dnj6k002708juqi3mlqwa",
+    "username": "gcan",
+    "createdAt": "2021-11-13T04:59:47.612Z"
+  }
+}

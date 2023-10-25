@@ -1,0 +1,20 @@
+{
+  "modified": 1698264719387,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x610d5267c83520cbe2491d822eb63bd16cb7d296",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x610d5267c83520cbe2491d822eb63bd16cb7d296"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3uo8ofk015409mduzp262h2",
+    "username": "Volcrypt",
+    "createdAt": "2022-05-31T21:28:14.000Z"
+  }
+}

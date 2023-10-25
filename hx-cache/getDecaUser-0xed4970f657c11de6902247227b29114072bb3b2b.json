@@ -1,0 +1,20 @@
+{
+  "modified": 1698265122006,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xed4970f657c11de6902247227b29114072bb3b2b",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xed4970f657c11de6902247227b29114072bb3b2b"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl4ayivin063309l440tp12wt",
+    "username": "goat",
+    "createdAt": "2022-06-12T07:00:24.719Z"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "modified": 1698264697191,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x9c46c7ad1b67e015fd3b45f7d1d740331bfa53ca",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz2Bfs176eP1ze5WEp1aDR2tCRUx655ejTpB",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0x9c46c7ad1b67e015fd3b45f7d1d740331bfa53ca"
+    ],
+    "walletsTez": [
+      "tz2Bfs176eP1ze5WEp1aDR2tCRUx655ejTpB"
+    ],
+    "walletsOther": [],
+    "id": "clav4lpzj0004mk08ge3g43or",
+    "username": "ChiliMili",
+    "createdAt": "2022-11-24T13:44:12.717Z"
+  }
+}

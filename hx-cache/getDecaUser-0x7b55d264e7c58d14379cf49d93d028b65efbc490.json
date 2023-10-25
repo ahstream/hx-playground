@@ -1,0 +1,31 @@
+{
+  "modified": 1698263519647,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x7b55d264e7c58d14379cf49d93d028b65efbc490",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1eqDvUUGeJKmyZAqzV4zmq8wzU4QXH7TGE",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0xf51a9be8c5e06f4ef58b3735e82019020835e793",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x7b55d264e7c58d14379cf49d93d028b65efbc490",
+      "0xf51a9be8c5e06f4ef58b3735e82019020835e793"
+    ],
+    "walletsTez": [
+      "tz1eqDvUUGeJKmyZAqzV4zmq8wzU4QXH7TGE"
+    ],
+    "walletsOther": [],
+    "id": "cl3thzp5y136209l1eas30hpm",
+    "username": "fnkl",
+    "createdAt": "2022-05-31T01:45:31.174Z"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "modified": 1698264895743,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xff91128081043dceb6c0bd3f752fa447fbaa9335",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xf98ed10e4389e02546e2842358f9a4ed43e4b929",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xff91128081043dceb6c0bd3f752fa447fbaa9335",
+      "0xf98ed10e4389e02546e2842358f9a4ed43e4b929"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3k6j6we05220al05b5i3ly4",
+    "username": "MELLIA",
+    "createdAt": "2022-05-24T13:14:49.646Z"
+  }
+}

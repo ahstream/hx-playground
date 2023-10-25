@@ -1,0 +1,31 @@
+{
+  "modified": 1698264852170,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xdf36b093cbc06522b68105c3d9141db188e980b6",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xee3aa3fa5b780bc73da73a82d47fa2d8cdc1a647",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1b6fJMNcC6ScLxVAqq5wyqdnT7jAsw9WX8",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0xdf36b093cbc06522b68105c3d9141db188e980b6",
+      "0xee3aa3fa5b780bc73da73a82d47fa2d8cdc1a647"
+    ],
+    "walletsTez": [
+      "tz1b6fJMNcC6ScLxVAqq5wyqdnT7jAsw9WX8"
+    ],
+    "walletsOther": [],
+    "id": "cl3ujcq8f319809k37wcxc0k2",
+    "username": "gmmoney",
+    "createdAt": "2022-05-31T19:11:24.879Z"
+  }
+}

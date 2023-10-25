@@ -1,0 +1,20 @@
+{
+  "modified": 1698265087943,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x402dfd31837bfac49a73596a717642d48f220038",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x402dfd31837bfac49a73596a717642d48f220038"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl9q20ops040008mchw7jdks5",
+    "username": "Jerome31",
+    "createdAt": "2022-10-26T19:53:18.880Z"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "modified": 1698265218461,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x793619465bda3476ea8bc2cca0038bde084a6bba",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x793619465bda3476ea8bc2cca0038bde084a6bba"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl40vyl0d323409mh0guvwsdn",
+    "username": "hanhanhan",
+    "createdAt": "2022-06-05T05:50:56.989Z"
+  }
+}

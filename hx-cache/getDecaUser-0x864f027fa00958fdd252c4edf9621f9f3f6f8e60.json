@@ -1,0 +1,20 @@
+{
+  "modified": 1698265131188,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x864f027fa00958fdd252c4edf9621f9f3f6f8e60",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x864f027fa00958fdd252c4edf9621f9f3f6f8e60"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "clang93080006l308sdp131iz",
+    "username": "whimzical",
+    "createdAt": "2022-11-19T04:48:09.069Z"
+  }
+}

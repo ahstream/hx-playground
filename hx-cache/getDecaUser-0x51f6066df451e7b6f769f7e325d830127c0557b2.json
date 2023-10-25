@@ -1,0 +1,20 @@
+{
+  "modified": 1698264902281,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x51f6066df451e7b6f769f7e325d830127c0557b2",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x51f6066df451e7b6f769f7e325d830127c0557b2"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl420qhb1087309l7ei8mwzs4",
+    "username": "jeyyr",
+    "createdAt": "2022-06-06T00:52:23.197Z"
+  }
+}

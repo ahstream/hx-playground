@@ -1,0 +1,31 @@
+{
+  "modified": 1698263491174,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x269d89631ba588a6994bf5a0dccb2a86573781fc",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x99086bb5f3801d274a17022b4838a76f506f50b0",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1L6dqokGgGVH5Z1oamGPzY2ZTzbMk2cpw1",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0x269d89631ba588a6994bf5a0dccb2a86573781fc",
+      "0x99086bb5f3801d274a17022b4838a76f506f50b0"
+    ],
+    "walletsTez": [
+      "tz1L6dqokGgGVH5Z1oamGPzY2ZTzbMk2cpw1"
+    ],
+    "walletsOther": [],
+    "id": "cl3dagxw7122109mmya37rdmd",
+    "username": "kcdilla",
+    "createdAt": "2022-05-19T17:30:39.895Z"
+  }
+}

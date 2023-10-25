@@ -1,0 +1,20 @@
+{
+  "modified": 1698264925515,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x519f95380bed75a307dd16d53842d83f342efa3d",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x519f95380bed75a307dd16d53842d83f342efa3d"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "clb7tphw8000njt08z762682g",
+    "username": "Nicolas1er",
+    "createdAt": "2022-12-03T11:00:13.382Z"
+  }
+}

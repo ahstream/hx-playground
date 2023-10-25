@@ -1,0 +1,36 @@
+{
+  "modified": 1698264571826,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xb102b8d5c04e9127602f13f3f084b2cdafa67273",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1ZXDkRUik7svkWnMCwt4agxCk2WQ2GbpET",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0x2ec4a2bcd4f33c7c9aafab7cfa865ec15508bf62",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xbfc3c19d3be0b0f54dca49fb136d08eea86a0229",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xb102b8d5c04e9127602f13f3f084b2cdafa67273",
+      "0x2ec4a2bcd4f33c7c9aafab7cfa865ec15508bf62",
+      "0xbfc3c19d3be0b0f54dca49fb136d08eea86a0229"
+    ],
+    "walletsTez": [
+      "tz1ZXDkRUik7svkWnMCwt4agxCk2WQ2GbpET"
+    ],
+    "walletsOther": [],
+    "id": "cl4h3f5sp423309mnm9zl78lc",
+    "username": "BillyBob",
+    "createdAt": "2022-06-16T14:04:06.553Z"
+  }
+}

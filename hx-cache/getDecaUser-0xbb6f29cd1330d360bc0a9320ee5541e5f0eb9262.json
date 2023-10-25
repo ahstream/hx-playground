@@ -1,0 +1,20 @@
+{
+  "modified": 1698264789274,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xbb6f29cd1330d360bc0a9320ee5541e5f0eb9262",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xbb6f29cd1330d360bc0a9320ee5541e5f0eb9262"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl59dhl8g19890amdo95krfmy",
+    "username": "Litizen",
+    "createdAt": "2022-07-06T09:03:28.960Z"
+  }
+}

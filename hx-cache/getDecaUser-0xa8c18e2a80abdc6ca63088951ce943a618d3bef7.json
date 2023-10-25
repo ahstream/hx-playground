@@ -1,0 +1,20 @@
+{
+  "modified": 1698263538186,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xa8c18e2a80abdc6ca63088951ce943a618d3bef7",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xa8c18e2a80abdc6ca63088951ce943a618d3bef7"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cln2pq3p50001mi0ho12h815k",
+    "username": "tonydenza",
+    "createdAt": "2023-09-28T05:06:19.866Z"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "modified": 1698262053948,
+  "value": {
+    "address": "0x2f0117c38f1027d7f7a87d1f0483899eb393a14e",
+    "name": "Decal by AD_AD",
+    "owner": "0x70feeec90d37dc73d9ded8cfafd7ede3f697b70b",
+    "symbol": "DECAL",
+    "totalSupply": "100",
+    "transfersCount": 0,
+    "txsCount": 197,
+    "issuancesCount": 0,
+    "lastUpdated": 1697462318,
+    "price": false,
+    "holdersCount": 71,
+    "ethTransfersCount": 0,
+    "decimals": "0",
+    "countOps": 0
+  }
+}

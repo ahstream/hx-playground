@@ -1,0 +1,20 @@
+{
+  "modified": 1698265185285,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x826547bb2ec83f7d70b8ff9755c106e1c6f51c1f",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x826547bb2ec83f7d70b8ff9755c106e1c6f51c1f"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl4vv6rv1011409lfqmj7brcc",
+    "username": "0xfractal",
+    "createdAt": "2022-06-26T22:10:10.957Z"
+  }
+}

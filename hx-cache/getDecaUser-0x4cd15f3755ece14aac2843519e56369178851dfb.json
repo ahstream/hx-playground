@@ -1,0 +1,30 @@
+{
+  "modified": 1698264476674,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x4cd15f3755ece14aac2843519e56369178851dfb",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x9a360644b16edaa11bd2e0da4c920910e27bd7a2",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xdf2aeb07dbe6a89b7adb562e626a4a9e63afdf16",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x4cd15f3755ece14aac2843519e56369178851dfb",
+      "0x9a360644b16edaa11bd2e0da4c920910e27bd7a2",
+      "0xdf2aeb07dbe6a89b7adb562e626a4a9e63afdf16"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl67mwoq2027609l5nazgqwx9",
+    "username": "happylolohappy",
+    "createdAt": "2022-07-30T08:31:19.850Z"
+  }
+}

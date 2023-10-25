@@ -1,0 +1,25 @@
+{
+  "modified": 1698264843933,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x786cabb5e602d47dc8365ef014412d6e4ee63427",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x93c96e37d133b4cc7bf3def9486e4c533c098f21",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x786cabb5e602d47dc8365ef014412d6e4ee63427",
+      "0x93c96e37d133b4cc7bf3def9486e4c533c098f21"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3vsvzgr116509mdskx1f353",
+    "username": "squeeze",
+    "createdAt": "2022-06-01T16:26:06.027Z"
+  }
+}

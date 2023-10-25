@@ -1,0 +1,20 @@
+{
+  "modified": 1698264935712,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x9112a517d9fcb115b3f387b845351aa309747c18",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x9112a517d9fcb115b3f387b845351aa309747c18"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cldm4d5xa000qkt0fp29p9qtl",
+    "username": "Asemen",
+    "createdAt": "2023-02-01T20:26:44.916Z"
+  }
+}

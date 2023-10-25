@@ -1,0 +1,20 @@
+{
+  "modified": 1698264698739,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xaf615b81293837751bf93beddcbd8fceb8428f49",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xaf615b81293837751bf93beddcbd8fceb8428f49"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3xygglh117709l0zrlzdauw",
+    "username": "RiverBlues",
+    "createdAt": "2022-06-03T04:37:31.781Z"
+  }
+}

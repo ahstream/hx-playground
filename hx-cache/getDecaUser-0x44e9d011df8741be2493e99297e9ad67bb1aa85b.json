@@ -1,0 +1,20 @@
+{
+  "modified": 1698264750365,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x44e9d011df8741be2493e99297e9ad67bb1aa85b",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x44e9d011df8741be2493e99297e9ad67bb1aa85b"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3vxxaes235509kz6w65egid",
+    "username": "wizardx1",
+    "createdAt": "2022-06-01T18:47:04.948Z"
+  }
+}

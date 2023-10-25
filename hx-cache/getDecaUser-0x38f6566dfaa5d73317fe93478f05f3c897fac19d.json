@@ -1,0 +1,20 @@
+{
+  "modified": 1698264572571,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x38f6566dfaa5d73317fe93478f05f3c897fac19d",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x38f6566dfaa5d73317fe93478f05f3c897fac19d"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3d4ux8q019509l8zgvjiwg2",
+    "username": "LFGooo",
+    "createdAt": "2022-05-19T14:53:34.539Z"
+  }
+}

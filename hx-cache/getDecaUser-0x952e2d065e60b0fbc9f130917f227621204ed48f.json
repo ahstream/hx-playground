@@ -1,0 +1,20 @@
+{
+  "modified": 1698264866840,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x952e2d065E60b0fBc9f130917f227621204ed48F",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x952e2d065E60b0fBc9f130917f227621204ed48F"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "clfzdtrpk000cmo0i4yunezvy",
+    "username": "plrl",
+    "createdAt": "2023-04-02T12:31:59.981Z"
+  }
+}

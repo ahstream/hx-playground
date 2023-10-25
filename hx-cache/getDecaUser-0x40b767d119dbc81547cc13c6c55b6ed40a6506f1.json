@@ -1,0 +1,26 @@
+{
+  "modified": 1698263501158,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x40b767d119dbc81547cc13c6c55b6ed40a6506f1",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1SgeJufU8sZKkSLoeEjam6nfqUqS6cnvKC",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0x40b767d119dbc81547cc13c6c55b6ed40a6506f1"
+    ],
+    "walletsTez": [
+      "tz1SgeJufU8sZKkSLoeEjam6nfqUqS6cnvKC"
+    ],
+    "walletsOther": [],
+    "id": "cl1gjxvsn027409mikvps1m9i",
+    "username": "coolranch",
+    "createdAt": "2022-04-01T14:59:40.727Z"
+  }
+}

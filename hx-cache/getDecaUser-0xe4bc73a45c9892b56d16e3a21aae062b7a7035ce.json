@@ -1,0 +1,36 @@
+{
+  "modified": 1698265101966,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xe4bc73a45c9892b56d16e3a21aae062b7a7035ce",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1eto3Z8nEQPgi9TYYQiQ8j7fWMgW5DhmyA",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0xc90e98986607f7bc46e1ceee65fd1d5ede887a4d",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x32dc588584894d5e5a256bf5417650cf18bef424",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xe4bc73a45c9892b56d16e3a21aae062b7a7035ce",
+      "0xc90e98986607f7bc46e1ceee65fd1d5ede887a4d",
+      "0x32dc588584894d5e5a256bf5417650cf18bef424"
+    ],
+    "walletsTez": [
+      "tz1eto3Z8nEQPgi9TYYQiQ8j7fWMgW5DhmyA"
+    ],
+    "walletsOther": [],
+    "id": "cl3azygq9044409lavlgliqxp",
+    "username": "astamcloud",
+    "createdAt": "2022-05-18T03:00:49.329Z"
+  }
+}

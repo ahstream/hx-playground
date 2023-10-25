@@ -1,0 +1,25 @@
+{
+  "modified": 1698264948225,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x0d08c74268c1260d9b50175c41738e1a45819700",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xf8fd6a5fa90940432e5c7921e332f0c5d33f2d38",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x0d08c74268c1260d9b50175c41738e1a45819700",
+      "0xf8fd6a5fa90940432e5c7921e332f0c5d33f2d38"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl10sifty006109mgz8vucwvq",
+    "username": "HaruKomoda",
+    "createdAt": "2022-03-21T14:15:17.926Z"
+  }
+}

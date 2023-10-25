@@ -1,0 +1,31 @@
+{
+  "modified": 1698265233829,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xe553fe5b71a236a8d6b03cbddde8be48c5fc5402",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1e4BHQb1VEPsNXvP8RwgSdz4zFVJYMmGVJ",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0x886478d3cf9581b624cb35b5446693fc8a58b787",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xe553fe5b71a236a8d6b03cbddde8be48c5fc5402",
+      "0x886478d3cf9581b624cb35b5446693fc8a58b787"
+    ],
+    "walletsTez": [
+      "tz1e4BHQb1VEPsNXvP8RwgSdz4zFVJYMmGVJ"
+    ],
+    "walletsOther": [],
+    "id": "cl10irurt005609mf1wkumago",
+    "username": "Zeneca",
+    "createdAt": "2022-03-21T09:42:41.033Z"
+  }
+}

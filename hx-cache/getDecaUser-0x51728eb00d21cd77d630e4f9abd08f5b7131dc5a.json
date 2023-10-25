@@ -1,0 +1,25 @@
+{
+  "modified": 1698264717948,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x51728eb00d21cd77d630e4f9abd08f5b7131dc5a",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x6b17ff4622dc1684f1b28ede8f15f8042559822a",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x51728eb00d21cd77d630e4f9abd08f5b7131dc5a",
+      "0x6b17ff4622dc1684f1b28ede8f15f8042559822a"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl732jl4n137309jqqdbr0xne",
+    "username": "Boukal",
+    "createdAt": "2022-08-21T08:29:53.975Z"
+  }
+}

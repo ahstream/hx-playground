@@ -1,0 +1,20 @@
+{
+  "modified": 1698264769594,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x05dba3798520986ae5ae4e7ecd3af0ef80b65278",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x05dba3798520986ae5ae4e7ecd3af0ef80b65278"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3czky6i124009ji12nrelwn",
+    "username": "LadyCham",
+    "createdAt": "2022-05-19T12:25:51.114Z"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "modified": 1698264762307,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xac62b7b2c2c51fd548b42adc15be68e8fcbb7b94",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1feMcGwjomdn1mRCpZh9pgjMkBZkRy7jEZ",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0x00acaeeeed981bdc594ccf2a200d4231874b00d3",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1eJMNTxyW1GaxGVcn6UXF1Q6VGkN8QkraE",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0xac62b7b2c2c51fd548b42adc15be68e8fcbb7b94",
+      "0x00acaeeeed981bdc594ccf2a200d4231874b00d3"
+    ],
+    "walletsTez": [
+      "tz1feMcGwjomdn1mRCpZh9pgjMkBZkRy7jEZ",
+      "tz1eJMNTxyW1GaxGVcn6UXF1Q6VGkN8QkraE"
+    ],
+    "walletsOther": [],
+    "id": "cl367nnzk004609jqo1zrfnn6",
+    "username": "Ferdi",
+    "createdAt": "2022-05-14T18:37:31.568Z"
+  }
+}

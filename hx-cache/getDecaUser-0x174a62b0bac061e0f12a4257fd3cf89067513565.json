@@ -1,0 +1,20 @@
+{
+  "modified": 1698263488792,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x174a62b0bac061e0f12a4257fd3cf89067513565",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x174a62b0bac061e0f12a4257fd3cf89067513565"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3e67nbd086409l45pulpyu0",
+    "username": "Couloir",
+    "createdAt": "2022-05-20T08:19:13.993Z"
+  }
+}

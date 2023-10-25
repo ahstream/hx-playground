@@ -1,0 +1,26 @@
+{
+  "modified": 1698264512794,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xd605f2f768e012dbbe66edcd1ecd59c81aed752f",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1MrmAFpiMsgkKwYPWvHiJGkZnMupX45n6f",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0xd605f2f768e012dbbe66edcd1ecd59c81aed752f"
+    ],
+    "walletsTez": [
+      "tz1MrmAFpiMsgkKwYPWvHiJGkZnMupX45n6f"
+    ],
+    "walletsOther": [],
+    "id": "cl6j8o2gv03720gl976sjz8bs",
+    "username": "Homeopathy",
+    "createdAt": "2022-08-07T11:25:57.247Z"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "modified": 1698264870278,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xae51c6e34a3201531666edb027dbf7de9f1913b1",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x2d35a11b29b3ad121ffe1eed812ae6bd46ab6f26",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xae51c6e34a3201531666edb027dbf7de9f1913b1",
+      "0x2d35a11b29b3ad121ffe1eed812ae6bd46ab6f26"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5i87gx1648409lfub46w2qr",
+    "username": "CapSix",
+    "createdAt": "2022-07-12T13:45:34.309Z"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "modified": 1698265169792,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x90da43e2bab2354033513375e0cc83f35cf316ca",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x90da43e2bab2354033513375e0cc83f35cf316ca"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3azeycu026509jprsd7zetn",
+    "username": "pablofosho",
+    "createdAt": "2022-05-18T02:45:39.054Z"
+  }
+}

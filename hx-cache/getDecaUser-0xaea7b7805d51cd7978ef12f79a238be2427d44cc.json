@@ -1,0 +1,20 @@
+{
+  "modified": 1698264499164,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xaea7b7805d51cd7978ef12f79a238be2427d44cc",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xaea7b7805d51cd7978ef12f79a238be2427d44cc"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl7ad6qif079009ml0mebgqj5",
+    "username": "J0M4N",
+    "createdAt": "2022-08-26T11:02:13.431Z"
+  }
+}

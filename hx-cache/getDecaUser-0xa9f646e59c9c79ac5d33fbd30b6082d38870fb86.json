@@ -1,0 +1,31 @@
+{
+  "modified": 1698264761493,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xa183ec434301d4964409c4beee5ad9cfbab5b70b",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xa9f646e59c9c79ac5d33fbd30b6082d38870fb86",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1WT1iiS5m3QYKqwBi6HSZvGqkbSF4C4KYP",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0xa183ec434301d4964409c4beee5ad9cfbab5b70b",
+      "0xa9f646e59c9c79ac5d33fbd30b6082d38870fb86"
+    ],
+    "walletsTez": [
+      "tz1WT1iiS5m3QYKqwBi6HSZvGqkbSF4C4KYP"
+    ],
+    "walletsOther": [],
+    "id": "clhq10oul000gmq0foi0rbmng",
+    "username": "Cyanogen",
+    "createdAt": "2023-05-16T08:42:58.112Z"
+  }
+}

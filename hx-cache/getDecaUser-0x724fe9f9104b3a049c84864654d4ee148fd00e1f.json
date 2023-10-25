@@ -1,0 +1,26 @@
+{
+  "modified": 1698265164524,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x724fe9f9104b3a049c84864654d4ee148fd00e1f",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1XS5UrJZZ6uByjRxSbaKaP7Tt48fMGXMeh",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0x724fe9f9104b3a049c84864654d4ee148fd00e1f"
+    ],
+    "walletsTez": [
+      "tz1XS5UrJZZ6uByjRxSbaKaP7Tt48fMGXMeh"
+    ],
+    "walletsOther": [],
+    "id": "clbr1sj970005mm08ipp8hxco",
+    "username": "chevor",
+    "createdAt": "2022-12-16T21:54:09.391Z"
+  }
+}

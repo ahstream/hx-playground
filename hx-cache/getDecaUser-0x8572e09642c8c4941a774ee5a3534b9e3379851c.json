@@ -1,0 +1,26 @@
+{
+  "modified": 1698264725070,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x8572e09642c8c4941a774ee5a3534b9e3379851c",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1cv4CjZC9iriprzyogjMVD3TfFE4rP3X46",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0x8572e09642c8c4941a774ee5a3534b9e3379851c"
+    ],
+    "walletsTez": [
+      "tz1cv4CjZC9iriprzyogjMVD3TfFE4rP3X46"
+    ],
+    "walletsOther": [],
+    "id": "cl3fpsndl025909lknvkr49lu",
+    "username": "TurTasta",
+    "createdAt": "2022-05-21T10:15:12.729Z"
+  }
+}

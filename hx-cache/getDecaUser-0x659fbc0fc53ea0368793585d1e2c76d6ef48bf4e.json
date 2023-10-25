@@ -1,0 +1,20 @@
+{
+  "modified": 1698264585696,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x659fbc0fc53ea0368793585d1e2c76d6ef48bf4e",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x659fbc0fc53ea0368793585d1e2c76d6ef48bf4e"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl46ruu80148509l00q6wlqjd",
+    "username": "Edigius",
+    "createdAt": "2022-06-09T08:42:40.896Z"
+  }
+}

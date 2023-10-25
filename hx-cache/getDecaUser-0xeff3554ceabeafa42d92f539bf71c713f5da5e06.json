@@ -1,0 +1,41 @@
+{
+  "modified": 1698265103456,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xeff3554ceabeafa42d92f539bf71c713f5da5e06",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1fL2ZxiVVBUuFed61Zoi1M2iD7NfTKPJKQ",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "tz1gdPNHJtziMxyBMM59oKjyBqbRUDCt2GW7",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0xfea60461324cfa6d07cfe1551599f2bb139c3543",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xc47ee19858C4c7B437E7383b3F05aE005F3428AD",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xeff3554ceabeafa42d92f539bf71c713f5da5e06",
+      "0xfea60461324cfa6d07cfe1551599f2bb139c3543",
+      "0xc47ee19858C4c7B437E7383b3F05aE005F3428AD"
+    ],
+    "walletsTez": [
+      "tz1fL2ZxiVVBUuFed61Zoi1M2iD7NfTKPJKQ",
+      "tz1gdPNHJtziMxyBMM59oKjyBqbRUDCt2GW7"
+    ],
+    "walletsOther": [],
+    "id": "ckuigx3y4002708l7urqf9yvj",
+    "username": "mat",
+    "createdAt": "2021-11-13T04:59:47.612Z"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "modified": 1698264956626,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x4cb72456e82aedd8b1ef0f08d03cc6bff96c6291",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1f45GeVpUZpMHr6Q8R5gn5VNTzUGGew9d5",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0x4cb72456e82aedd8b1ef0f08d03cc6bff96c6291"
+    ],
+    "walletsTez": [
+      "tz1f45GeVpUZpMHr6Q8R5gn5VNTzUGGew9d5"
+    ],
+    "walletsOther": [],
+    "id": "cl3era05i00690amo1jvmyi1h",
+    "username": "BandgangCoop",
+    "createdAt": "2022-05-20T18:08:55.878Z"
+  }
+}

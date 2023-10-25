@@ -1,0 +1,26 @@
+{
+  "modified": 1698265015981,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x8b171a124199dce6f80362b7d8d03cdd15becd8c",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1axRGU568fy7tshkPoSEKcRFAW4FUhCVQZ",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0x8b171a124199dce6f80362b7d8d03cdd15becd8c"
+    ],
+    "walletsTez": [
+      "tz1axRGU568fy7tshkPoSEKcRFAW4FUhCVQZ"
+    ],
+    "walletsOther": [],
+    "id": "cl3xm3q53090509mhedm8x1bq",
+    "username": "rata_yonqui",
+    "createdAt": "2022-06-02T22:51:42.231Z"
+  }
+}

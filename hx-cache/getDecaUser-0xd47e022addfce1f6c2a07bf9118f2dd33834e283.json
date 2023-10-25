@@ -1,0 +1,20 @@
+{
+  "modified": 1698264704891,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xd47e022addfce1f6c2a07bf9118f2dd33834e283",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xd47e022addfce1f6c2a07bf9118f2dd33834e283"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3xqapgv025409moyby8qinx",
+    "username": "toofargone",
+    "createdAt": "2022-06-03T00:49:06.415Z"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "modified": 1698265192441,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xc6884e3f814c010b1e8fde4e479650f1f4c3101a",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xc6884e3f814c010b1e8fde4e479650f1f4c3101a"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl42cj232554309kzz9lsv9qj",
+    "username": "lsp",
+    "createdAt": "2022-06-06T06:22:32.270Z"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "modified": 1698264774188,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x392dbc88383b541a9fbf2ee40ae1aeed2c9e9e17",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x45543784b190af743c6631aaac1b77a107f4c6ce",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x392dbc88383b541a9fbf2ee40ae1aeed2c9e9e17",
+      "0x45543784b190af743c6631aaac1b77a107f4c6ce"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5ha7nwn033709josfnpvoy5",
+    "username": "AvalonXT",
+    "createdAt": "2022-07-11T21:53:56.423Z"
+  }
+}

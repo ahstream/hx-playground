@@ -1,0 +1,31 @@
+{
+  "modified": 1698264793388,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "tz1XMYyXTn3FmnJKJGh55ivepRPqNpQqeE7x",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0x587f226712df16caaaf4f1e5ddb9fdcfa80a6789",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xe0050f2A8aa898Da5829C5F1A270315062C56D30",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x587f226712df16caaaf4f1e5ddb9fdcfa80a6789",
+      "0xe0050f2A8aa898Da5829C5F1A270315062C56D30"
+    ],
+    "walletsTez": [
+      "tz1XMYyXTn3FmnJKJGh55ivepRPqNpQqeE7x"
+    ],
+    "walletsOther": [],
+    "id": "cl0sa8m7u104909jse7mxpi6o",
+    "username": "StudioYorktown",
+    "createdAt": "2022-03-15T15:21:37.146Z"
+  }
+}

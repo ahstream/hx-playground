@@ -1,0 +1,20 @@
+{
+  "modified": 1698264586794,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x667bedb9211dbe0dd20d4f00b51682be1e3f41ed",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x667bedb9211dbe0dd20d4f00b51682be1e3f41ed"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl7eh2bnu883209l813vh7cvf",
+    "username": "ZeArtPump",
+    "createdAt": "2022-08-29T08:01:50.730Z"
+  }
+}

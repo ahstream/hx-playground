@@ -1,0 +1,36 @@
+{
+  "modified": 1698264790849,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xc7a3f4476dc712b78fc5bf1415ec25a12960e1da",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1gSQuwcbbRNS2aaPbYDcisgw5LeraPzDVH",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0x44bc1291c319a9dad26bd2f5d61a6b5bc5737cf4",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xce162e8e5ae565e3f72e543d9ab19e6c9cada25d",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xc7a3f4476dc712b78fc5bf1415ec25a12960e1da",
+      "0x44bc1291c319a9dad26bd2f5d61a6b5bc5737cf4",
+      "0xce162e8e5ae565e3f72e543d9ab19e6c9cada25d"
+    ],
+    "walletsTez": [
+      "tz1gSQuwcbbRNS2aaPbYDcisgw5LeraPzDVH"
+    ],
+    "walletsOther": [],
+    "id": "cl70qzryq772109mbt7xa9lg7",
+    "username": "aotearoan",
+    "createdAt": "2022-08-19T17:31:01.586Z"
+  }
+}

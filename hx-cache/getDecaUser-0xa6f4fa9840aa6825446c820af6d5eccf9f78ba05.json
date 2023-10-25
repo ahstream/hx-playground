@@ -1,0 +1,26 @@
+{
+  "modified": 1698265134157,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xa6f4fa9840aa6825446c820af6d5eccf9f78ba05",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1e5tZ1iYEHy8GGn6ZgccGqaaANSVadkCoL",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0xa6f4fa9840aa6825446c820af6d5eccf9f78ba05"
+    ],
+    "walletsTez": [
+      "tz1e5tZ1iYEHy8GGn6ZgccGqaaANSVadkCoL"
+    ],
+    "walletsOther": [],
+    "id": "cl0ti1e60065109inhnvl2lf6",
+    "username": "FedKassad",
+    "createdAt": "2022-03-16T11:47:43.224Z"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "modified": 1698264814704,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xa6134eb7381978804646088df4bb42c5232d82da",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x8c289148342568705095a9bcf27ec157fa767b3d",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xa6134eb7381978804646088df4bb42c5232d82da",
+      "0x8c289148342568705095a9bcf27ec157fa767b3d"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3av8gs2033909l6a7azm2p2",
+    "username": "Nessi",
+    "createdAt": "2022-05-18T00:48:37.874Z"
+  }
+}

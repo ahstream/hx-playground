@@ -1,0 +1,20 @@
+{
+  "modified": 1698264509905,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xd1bbfdf92d3deed749bd60ca603333d789defa8f",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xd1bbfdf92d3deed749bd60ca603333d789defa8f"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "clmlbvwv50001l50furg229zt",
+    "username": "oeuvre-by-ryak",
+    "createdAt": "2023-09-16T01:06:51.607Z"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "modified": 1698264548468,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x5ff97f965079b980c4a409d2db62be0e21b1fdd9",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1Qe89qNyUUEjpPwjW64AWvneHxVrd5wYqw",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0x5ff97f965079b980c4a409d2db62be0e21b1fdd9"
+    ],
+    "walletsTez": [
+      "tz1Qe89qNyUUEjpPwjW64AWvneHxVrd5wYqw"
+    ],
+    "walletsOther": [],
+    "id": "cl3x7gsmo363109mg99jtsie8",
+    "username": "MonciL",
+    "createdAt": "2022-06-02T16:01:57.744Z"
+  }
+}

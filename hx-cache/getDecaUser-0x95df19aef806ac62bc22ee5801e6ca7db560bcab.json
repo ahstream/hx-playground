@@ -1,0 +1,20 @@
+{
+  "modified": 1698264938295,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x95df19aef806ac62bc22ee5801e6ca7db560bcab",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x95df19aef806ac62bc22ee5801e6ca7db560bcab"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cldop855y0002l50gs59do1wz",
+    "username": "happyy",
+    "createdAt": "2023-02-03T15:46:14.937Z"
+  }
+}

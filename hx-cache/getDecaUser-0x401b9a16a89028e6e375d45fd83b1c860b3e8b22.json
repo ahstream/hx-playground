@@ -1,0 +1,20 @@
+{
+  "modified": 1698264715723,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x401b9a16a89028e6e375d45fd83b1c860b3e8b22",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x401b9a16a89028e6e375d45fd83b1c860b3e8b22"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl59sb50v635909mtjps7vk24",
+    "username": "barba",
+    "createdAt": "2022-07-06T15:58:22.255Z"
+  }
+}

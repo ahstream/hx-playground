@@ -1,0 +1,41 @@
+{
+  "modified": 1698264509106,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xccb4e229fc4ebe2c8034960ca9a4b3ae5ef3a7bb",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1UBdgrTps9unPWx6ebwGRSCTL8W7hS5y4U",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0x9d75d2f3c33f93468689fc2ba0dddbca831d5b8d",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1UB9xrGaK2vrhpRCnKjpF3naEoGb36mC17",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0xe34d8f174739821c7f0a32e88058bc9aa4030546",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xccb4e229fc4ebe2c8034960ca9a4b3ae5ef3a7bb",
+      "0x9d75d2f3c33f93468689fc2ba0dddbca831d5b8d",
+      "0xe34d8f174739821c7f0a32e88058bc9aa4030546"
+    ],
+    "walletsTez": [
+      "tz1UBdgrTps9unPWx6ebwGRSCTL8W7hS5y4U",
+      "tz1UB9xrGaK2vrhpRCnKjpF3naEoGb36mC17"
+    ],
+    "walletsOther": [],
+    "id": "cl3yfan8h1691909mg6on6tpqx",
+    "username": "Chuck",
+    "createdAt": "2022-06-03T12:28:53.921Z"
+  }
+}

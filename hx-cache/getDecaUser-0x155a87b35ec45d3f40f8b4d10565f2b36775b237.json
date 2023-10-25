@@ -1,0 +1,36 @@
+{
+  "modified": 1698264802071,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x155a87b35ec45d3f40f8b4d10565f2b36775b237",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x75256a46e98eb0f9c4eefc197eb3dd88d559a771",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1Y7b4Cn4zvb3tz4Lk5rDjhZd8GVAKYphAx",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0xb3b16685ca2d2a764882e2bb2a8d3d769cd74145",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x155a87b35ec45d3f40f8b4d10565f2b36775b237",
+      "0x75256a46e98eb0f9c4eefc197eb3dd88d559a771",
+      "0xb3b16685ca2d2a764882e2bb2a8d3d769cd74145"
+    ],
+    "walletsTez": [
+      "tz1Y7b4Cn4zvb3tz4Lk5rDjhZd8GVAKYphAx"
+    ],
+    "walletsOther": [],
+    "id": "cl3emj3rz050109lehmkf35b2",
+    "username": "Yoss",
+    "createdAt": "2022-05-20T15:56:02.399Z"
+  }
+}

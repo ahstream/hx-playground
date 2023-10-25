@@ -1,0 +1,31 @@
+{
+  "modified": 1698263560968,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x13c39b3e6e6159bc233fad90825f1f9f84fcb102",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1e8BJPMoTH2FC6rJiRUNwg518nRu4haRvW",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0xcce5ad053b8a02c2ecaa8c00412ef9915339542f",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x13c39b3e6e6159bc233fad90825f1f9f84fcb102",
+      "0xcce5ad053b8a02c2ecaa8c00412ef9915339542f"
+    ],
+    "walletsTez": [
+      "tz1e8BJPMoTH2FC6rJiRUNwg518nRu4haRvW"
+    ],
+    "walletsOther": [],
+    "id": "cl3b3jl21090109mnydr6dj39",
+    "username": "ricardotakamura",
+    "createdAt": "2022-05-18T04:41:13.561Z"
+  }
+}

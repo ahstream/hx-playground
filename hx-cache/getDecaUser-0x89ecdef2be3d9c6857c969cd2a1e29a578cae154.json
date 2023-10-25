@@ -1,0 +1,25 @@
+{
+  "modified": 1698265114417,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x89ecdef2be3d9c6857c969cd2a1e29a578cae154",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x0a8566b762b485be403318b55f832d9946c816c2",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x89ecdef2be3d9c6857c969cd2a1e29a578cae154",
+      "0x0a8566b762b485be403318b55f832d9946c816c2"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3w6yxg3019509l5isguavhq",
+    "username": "mitsos",
+    "createdAt": "2022-06-01T23:00:18.003Z"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "modified": 1698265001783,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xe96fccc51560cad9f712ed2bc9de564f13b0d8c1",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xe96fccc51560cad9f712ed2bc9de564f13b0d8c1"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl6glo4pt073509l4i5pwypm6",
+    "username": "Tedium",
+    "createdAt": "2022-08-05T15:06:36.641Z"
+  }
+}

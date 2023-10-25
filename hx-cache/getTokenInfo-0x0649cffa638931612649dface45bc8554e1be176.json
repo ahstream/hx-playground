@@ -1,0 +1,19 @@
+{
+  "modified": 1698261373484,
+  "value": {
+    "address": "0x0649cffa638931612649dface45bc8554e1be176",
+    "lastUpdated": 1697605572,
+    "name": "Decal by Andy Shaw",
+    "owner": "0x70feeec90d37dc73d9ded8cfafd7ede3f697b70b",
+    "price": false,
+    "symbol": "DECAL",
+    "totalSupply": "100",
+    "transfersCount": 0,
+    "txsCount": 142,
+    "issuancesCount": 0,
+    "holdersCount": 90,
+    "ethTransfersCount": 0,
+    "decimals": "0",
+    "countOps": 0
+  }
+}

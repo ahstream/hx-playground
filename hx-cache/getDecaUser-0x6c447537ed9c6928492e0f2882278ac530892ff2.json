@@ -1,0 +1,30 @@
+{
+  "modified": 1698263513037,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x6ce52498047b8279ccc7c25b41c95cd482525e54",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x6c95362d58d3e9fd0b773d85332ffea961608852",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x6c447537ed9c6928492e0f2882278ac530892ff2",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x6ce52498047b8279ccc7c25b41c95cd482525e54",
+      "0x6c95362d58d3e9fd0b773d85332ffea961608852",
+      "0x6c447537ed9c6928492e0f2882278ac530892ff2"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "clbe0bfmt000ik108ukw46xjm",
+    "username": "montyreport",
+    "createdAt": "2022-12-07T18:51:51.634Z"
+  }
+}

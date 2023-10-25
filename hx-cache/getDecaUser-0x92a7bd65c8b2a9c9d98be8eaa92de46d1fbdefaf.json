@@ -1,0 +1,20 @@
+{
+  "modified": 1698263529399,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x92a7bd65c8b2a9c9d98be8eaa92de46d1fbdefaf",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x92a7bd65c8b2a9c9d98be8eaa92de46d1fbdefaf"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl48wpypa045109k22jperml8",
+    "username": "threepanelcrimes",
+    "createdAt": "2022-06-10T20:34:23.854Z"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "modified": 1698264982455,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x4c560c8953af511f625b9e1ca90c5399619c7323",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x4c560c8953af511f625b9e1ca90c5399619c7323"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3av53va075809kztldys6tz",
+    "username": "CrispyCreme",
+    "createdAt": "2022-05-18T00:46:01.174Z"
+  }
+}

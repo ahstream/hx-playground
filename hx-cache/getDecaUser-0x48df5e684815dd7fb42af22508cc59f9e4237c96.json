@@ -1,0 +1,20 @@
+{
+  "modified": 1698264924450,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x48df5e684815dd7fb42af22508cc59f9e4237c96",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x48df5e684815dd7fb42af22508cc59f9e4237c96"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl9ziqj8v215608l7cpye9i0o",
+    "username": "GusTheBus",
+    "createdAt": "2022-11-02T10:51:14.287Z"
+  }
+}

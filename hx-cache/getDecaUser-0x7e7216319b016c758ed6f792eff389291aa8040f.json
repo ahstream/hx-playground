@@ -1,0 +1,36 @@
+{
+  "modified": 1698264694017,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x7e7216319b016c758ed6f792eff389291aa8040f",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1Vh4tnDqhWi1ipptQH678jJ6dDkXGpXuSo",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0x23f70c505334867b24e52edbaee69fb13bc910e7",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x77e8001a83e5175e36b0d80c11fe8b5a65ab5ca3",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x7e7216319b016c758ed6f792eff389291aa8040f",
+      "0x23f70c505334867b24e52edbaee69fb13bc910e7",
+      "0x77e8001a83e5175e36b0d80c11fe8b5a65ab5ca3"
+    ],
+    "walletsTez": [
+      "tz1Vh4tnDqhWi1ipptQH678jJ6dDkXGpXuSo"
+    ],
+    "walletsOther": [],
+    "id": "cl677p873651709mo42dj2t1q",
+    "username": "_Unk_",
+    "createdAt": "2022-07-30T01:25:37.599Z"
+  }
+}

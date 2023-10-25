@@ -1,0 +1,20 @@
+{
+  "modified": 1698264564483,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xd3fd5c2f754591a3c9148bc72cc4d28b9e88283e",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xd3fd5c2f754591a3c9148bc72cc4d28b9e88283e"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl4uk495y262709mdek2wcby3",
+    "username": "xv",
+    "createdAt": "2022-06-26T00:12:31.462Z"
+  }
+}

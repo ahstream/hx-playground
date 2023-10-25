@@ -1,0 +1,25 @@
+{
+  "modified": 1698264615062,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xa34e06568e3df88f538f946ed21b28f81775cd32",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x7cfce02171ed77742c033f067ad660b9964f002c",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xa34e06568e3df88f538f946ed21b28f81775cd32",
+      "0x7cfce02171ed77742c033f067ad660b9964f002c"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3y9qi4o125309l8hy8sl81y",
+    "username": "McGriddles",
+    "createdAt": "2022-06-03T09:53:16.104Z"
+  }
+}

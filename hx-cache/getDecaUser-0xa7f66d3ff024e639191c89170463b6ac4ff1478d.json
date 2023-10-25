@@ -1,0 +1,26 @@
+{
+  "modified": 1698265117557,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xa7f66d3ff024e639191c89170463b6ac4ff1478d",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1WFEA5GZ3otnQXgaJNyqxzhcP88uhgQje9",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0xa7f66d3ff024e639191c89170463b6ac4ff1478d"
+    ],
+    "walletsTez": [
+      "tz1WFEA5GZ3otnQXgaJNyqxzhcP88uhgQje9"
+    ],
+    "walletsOther": [],
+    "id": "cl69xj22f096209kzzmu0c09c",
+    "username": "AVALON",
+    "createdAt": "2022-07-31T23:04:12.087Z"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "modified": 1698264670808,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xe92d2a4255bc7e468d355644d24ec5d9ac6ef13d",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xe92d2a4255bc7e468d355644d24ec5d9ac6ef13d"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3unf6cp027609l2fe2ji6cr",
+    "username": "0xnoise",
+    "createdAt": "2022-05-31T21:05:17.545Z"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "modified": 1698263484992,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x0C192889C5a96Fb5a541Df829b5233B9DF3418e6",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x0C192889C5a96Fb5a541Df829b5233B9DF3418e6"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "clfzfytai000ojk0hvz4im4zp",
+    "username": "sarah_ridgley",
+    "createdAt": "2023-04-02T13:31:54.179Z"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "modified": 1698263516712,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x72e00700f3f3994001603ee494c0a2d6bfcf8d78",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x72e00700f3f3994001603ee494c0a2d6bfcf8d78"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3avlndg062109mhcgx9a39a",
+    "username": "Moog",
+    "createdAt": "2022-05-18T00:58:52.948Z"
+  }
+}

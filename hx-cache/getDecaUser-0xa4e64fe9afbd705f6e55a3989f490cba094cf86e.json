@@ -1,0 +1,20 @@
+{
+  "modified": 1698263536191,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xa4e64fe9afbd705f6e55a3989f490cba094cf86e",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xa4e64fe9afbd705f6e55a3989f490cba094cf86e"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl8cak0ds079209l0hmmue7mm",
+    "username": "ZaynahEdmonds",
+    "createdAt": "2022-09-22T00:03:48.592Z"
+  }
+}

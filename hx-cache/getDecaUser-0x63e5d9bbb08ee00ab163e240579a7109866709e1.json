@@ -1,0 +1,25 @@
+{
+  "modified": 1698265183102,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x388067e2b1a6ce3675acd0697863671045f41906",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x63e5d9bbb08ee00ab163e240579a7109866709e1",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x388067e2b1a6ce3675acd0697863671045f41906",
+      "0x63e5d9bbb08ee00ab163e240579a7109866709e1"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl4kcpm4j021609l7agaa1jo7",
+    "username": "Yesboy",
+    "createdAt": "2022-06-18T20:47:29.347Z"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "modified": 1698265159977,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x1cb65b78c71606090917e425dada70e976f28fc7",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1Te8Vb34CB5enR1DBGQDhoTaDpe6PoDaoz",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0x1cb65b78c71606090917e425dada70e976f28fc7"
+    ],
+    "walletsTez": [
+      "tz1Te8Vb34CB5enR1DBGQDhoTaDpe6PoDaoz"
+    ],
+    "walletsOther": [],
+    "id": "cl3bezynf004509l9u432ecx3",
+    "username": "Virg_eth",
+    "createdAt": "2022-05-18T10:01:53.451Z"
+  }
+}

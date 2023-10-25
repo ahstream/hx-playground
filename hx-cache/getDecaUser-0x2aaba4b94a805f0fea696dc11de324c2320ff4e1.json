@@ -1,0 +1,25 @@
+{
+  "modified": 1698264570353,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x5b00f3d1644ff3106248b2c50505a67abf31efff",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x2AaBa4b94A805F0feA696dC11DE324C2320ff4e1",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x5b00f3d1644ff3106248b2c50505a67abf31efff",
+      "0x2AaBa4b94A805F0feA696dC11DE324C2320ff4e1"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cldpc2z4n003yl20fkxyozl3y",
+    "username": "defianceworks",
+    "createdAt": "2023-02-04T02:26:05.005Z"
+  }
+}

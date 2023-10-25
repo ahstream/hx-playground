@@ -1,0 +1,35 @@
+{
+  "modified": 1698264863028,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x6c0040bda93e4cf433c0aa8498bd624397aece30",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xb40e296d1eb1aa2ce72bf687fff1a77c9c42c9f1",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xe126731c09e9388e0375243b91a5a9a3fcc64b8c",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x3c657b19cf000fe5969938a75f122f7a3be421af",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x6c0040bda93e4cf433c0aa8498bd624397aece30",
+      "0xb40e296d1eb1aa2ce72bf687fff1a77c9c42c9f1",
+      "0xe126731c09e9388e0375243b91a5a9a3fcc64b8c",
+      "0x3c657b19cf000fe5969938a75f122f7a3be421af"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl4uib9cv077909mpv7zdbyw8",
+    "username": "TJThorne",
+    "createdAt": "2022-06-25T23:21:59.071Z"
+  }
+}

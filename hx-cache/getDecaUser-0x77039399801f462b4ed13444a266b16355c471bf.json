@@ -1,0 +1,26 @@
+{
+  "modified": 1698264651685,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x77039399801f462b4ed13444a266b16355c471bf",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz2PDqXSoCZNisNeu7uJMji5WoyDsjiTNbu2",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0x77039399801f462b4ed13444a266b16355c471bf"
+    ],
+    "walletsTez": [
+      "tz2PDqXSoCZNisNeu7uJMji5WoyDsjiTNbu2"
+    ],
+    "walletsOther": [],
+    "id": "cl7qxrzyf112709lf7gbedikb",
+    "username": "PinstripedGator",
+    "createdAt": "2022-09-07T01:22:56.583Z"
+  }
+}

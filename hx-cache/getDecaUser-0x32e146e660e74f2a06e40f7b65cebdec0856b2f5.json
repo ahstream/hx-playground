@@ -1,0 +1,36 @@
+{
+  "modified": 1698264641991,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x32e146e660e74f2a06e40f7b65cebdec0856b2f5",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x56c5b452acbf48e1f2e25a190f21b76e33a4f321",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1iwsZKrR5Kjv4m6ekac8yWMtQcrMc8rqpz",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0x7e85a5c8af139f7663e4ab6ea4fc526da75214cb",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x32e146e660e74f2a06e40f7b65cebdec0856b2f5",
+      "0x56c5b452acbf48e1f2e25a190f21b76e33a4f321",
+      "0x7e85a5c8af139f7663e4ab6ea4fc526da75214cb"
+    ],
+    "walletsTez": [
+      "tz1iwsZKrR5Kjv4m6ekac8yWMtQcrMc8rqpz"
+    ],
+    "walletsOther": [],
+    "id": "cl430nxi6017009melz93fsvg",
+    "username": "cult",
+    "createdAt": "2022-06-06T17:38:10.398Z"
+  }
+}

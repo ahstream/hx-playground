@@ -1,0 +1,20 @@
+{
+  "modified": 1698264752104,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x58ddfe9e7a8718e023742e87ad928f51c7990741",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x58ddfe9e7a8718e023742e87ad928f51c7990741"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "clbcr26qa0017mn082639uyh0",
+    "username": "DavidBell",
+    "createdAt": "2022-12-06T21:44:57.478Z"
+  }
+}

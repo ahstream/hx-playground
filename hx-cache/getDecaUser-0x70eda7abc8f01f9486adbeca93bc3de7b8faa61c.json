@@ -1,0 +1,30 @@
+{
+  "modified": 1698264755156,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x70eda7abc8f01f9486adbeca93bc3de7b8faa61c",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x34582e98f3f7f7864a03c388f14c311d445f5c86",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x9ad96d9ea77b7aabf839c24cc984876128aeef83",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x70eda7abc8f01f9486adbeca93bc3de7b8faa61c",
+      "0x34582e98f3f7f7864a03c388f14c311d445f5c86",
+      "0x9ad96d9ea77b7aabf839c24cc984876128aeef83"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3uiz32p002709miqe2rvnen",
+    "username": "alexsorb",
+    "createdAt": "2022-05-31T19:00:48.337Z"
+  }
+}

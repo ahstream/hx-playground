@@ -1,0 +1,26 @@
+{
+  "modified": 1698264685888,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "tz1LAz7tPtCAVyZ1gJ9BQSY5tCEG649VdZ6t",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0x38e5ea79d5cedef119fc780e78a0d8b0759f816c",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x38e5ea79d5cedef119fc780e78a0d8b0759f816c"
+    ],
+    "walletsTez": [
+      "tz1LAz7tPtCAVyZ1gJ9BQSY5tCEG649VdZ6t"
+    ],
+    "walletsOther": [],
+    "id": "cl3icgirn136109mdy52qmcai",
+    "username": "YellowMorty",
+    "createdAt": "2022-05-23T06:25:10.403Z"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "modified": 1698262060831,
+  "value": {
+    "address": "0xc3c415be22282859fbfc04ddd382685dfe7ed7f8",
+    "name": "Decal by Grant Yun",
+    "owner": "0x70feeec90d37dc73d9ded8cfafd7ede3f697b70b",
+    "symbol": "DECAL",
+    "totalSupply": "100",
+    "transfersCount": 0,
+    "txsCount": 392,
+    "issuancesCount": 0,
+    "lastUpdated": 1698126410,
+    "price": false,
+    "holdersCount": 73,
+    "ethTransfersCount": 0,
+    "decimals": "0",
+    "countOps": 0
+  }
+}

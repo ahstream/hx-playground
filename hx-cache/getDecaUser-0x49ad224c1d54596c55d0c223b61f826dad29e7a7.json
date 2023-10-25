@@ -1,0 +1,20 @@
+{
+  "modified": 1698265142427,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x49ad224c1d54596c55d0c223b61f826dad29e7a7",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x49ad224c1d54596c55d0c223b61f826dad29e7a7"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cldrw0as5000smn0fvgryoa26",
+    "username": "Semenka",
+    "createdAt": "2023-02-05T21:19:24.810Z"
+  }
+}

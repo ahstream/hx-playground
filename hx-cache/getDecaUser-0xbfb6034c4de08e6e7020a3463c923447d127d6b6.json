@@ -1,0 +1,25 @@
+{
+  "modified": 1698264561477,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xbfb6034c4de08e6e7020a3463c923447d127d6b6",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x5222653504109cb749e85f83b9ecd9cfd238600a",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xbfb6034c4de08e6e7020a3463c923447d127d6b6",
+      "0x5222653504109cb749e85f83b9ecd9cfd238600a"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl4vh1dkx164209mmnfievnjs",
+    "username": "netlancer",
+    "createdAt": "2022-06-26T15:34:04.545Z"
+  }
+}

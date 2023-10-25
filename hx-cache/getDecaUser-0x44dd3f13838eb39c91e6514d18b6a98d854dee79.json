@@ -1,0 +1,20 @@
+{
+  "modified": 1698264644216,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x44dd3f13838eb39c91e6514d18b6a98d854dee79",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x44dd3f13838eb39c91e6514d18b6a98d854dee79"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "clcg8326q000rl10f94zglew3",
+    "username": "LeCharmout",
+    "createdAt": "2023-01-03T12:44:32.582Z"
+  }
+}

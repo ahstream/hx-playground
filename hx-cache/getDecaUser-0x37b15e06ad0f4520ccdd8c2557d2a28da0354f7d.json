@@ -1,0 +1,25 @@
+{
+  "modified": 1698264900042,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x37b15e06ad0f4520ccdd8c2557d2a28da0354f7d",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x9a8367020c33592e14a6c04a09362c960409f796",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x37b15e06ad0f4520ccdd8c2557d2a28da0354f7d",
+      "0x9a8367020c33592e14a6c04a09362c960409f796"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl4kmzmir082509jpmdr46ud9",
+    "username": "jazure",
+    "createdAt": "2022-06-19T01:35:12.579Z"
+  }
+}

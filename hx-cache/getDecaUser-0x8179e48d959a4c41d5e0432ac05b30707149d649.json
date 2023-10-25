@@ -1,0 +1,35 @@
+{
+  "modified": 1698264757361,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x140ce4fc34487ac55838316373eeb87dd10b65c7",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x8179e48d959a4c41d5e0432ac05b30707149d649",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x6711e5c038851cbf27c34b297f16e55eb24a7379",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x97b28d2190beb7BD652E11ce0e1A17D9Af41C99a",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x140ce4fc34487ac55838316373eeb87dd10b65c7",
+      "0x8179e48d959a4c41d5e0432ac05b30707149d649",
+      "0x6711e5c038851cbf27c34b297f16e55eb24a7379",
+      "0x97b28d2190beb7BD652E11ce0e1A17D9Af41C99a"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl4xswq60510009mgwqqi4fpp",
+    "username": "Andre-Messina",
+    "createdAt": "2022-06-28T06:41:55.320Z"
+  }
+}

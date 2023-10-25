@@ -1,0 +1,30 @@
+{
+  "modified": 1698265169003,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x8dbbca57ea56290efa14d835bbfd34faf1d89753",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x8c57e23cbf902ed01a7600fef1b8d083efb24909",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x94bfb1fa83a78de2856dc7c3273ca7e37522ad6c",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x8dbbca57ea56290efa14d835bbfd34faf1d89753",
+      "0x8c57e23cbf902ed01a7600fef1b8d083efb24909",
+      "0x94bfb1fa83a78de2856dc7c3273ca7e37522ad6c"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cky39im9j299308l2vrvz94kw",
+    "username": "VonMises",
+    "createdAt": "2022-01-06T17:47:45.079Z"
+  }
+}

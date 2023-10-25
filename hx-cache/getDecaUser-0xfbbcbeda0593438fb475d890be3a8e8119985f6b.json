@@ -1,0 +1,20 @@
+{
+  "modified": 1698264673314,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xfbbcbeda0593438fb475d890be3a8e8119985f6b",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xfbbcbeda0593438fb475d890be3a8e8119985f6b"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3dx1ay3380709l10nkvh344",
+    "username": "avax",
+    "createdAt": "2022-05-20T04:02:21.483Z"
+  }
+}

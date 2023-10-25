@@ -1,0 +1,41 @@
+{
+  "modified": 1698264680528,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x207f17204c721e0d5e4c390d0662d68e282556d1",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x7a0a2db807003811833c254ab7a4c5f52b726ffe",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xb1e4b15635becf67490e687550e9e9f213d022dc",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1ZT2cbCv1AscYgJG7yU2LYjQR1jvSymZov",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "tz1TevEmvfUbcQhSEcvH5i17iMobnVJVQg5c",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0x207f17204c721e0d5e4c390d0662d68e282556d1",
+      "0x7a0a2db807003811833c254ab7a4c5f52b726ffe",
+      "0xb1e4b15635becf67490e687550e9e9f213d022dc"
+    ],
+    "walletsTez": [
+      "tz1ZT2cbCv1AscYgJG7yU2LYjQR1jvSymZov",
+      "tz1TevEmvfUbcQhSEcvH5i17iMobnVJVQg5c"
+    ],
+    "walletsOther": [],
+    "id": "cl3o210et049109jv87e6lo7n",
+    "username": "anynft",
+    "createdAt": "2022-05-27T06:19:47.669Z"
+  }
+}

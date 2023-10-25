@@ -1,0 +1,30 @@
+{
+  "modified": 1698264688714,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x4f492b2a3ed9bf0c65d508dab4f7c5f5c04ca6c3",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xe04da86529bc2078c8ae3474b2d67bedf1139c95",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x87d234ebd04022b6f32c7ce6cc6c63e78175c35b",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x4f492b2a3ed9bf0c65d508dab4f7c5f5c04ca6c3",
+      "0xe04da86529bc2078c8ae3474b2d67bedf1139c95",
+      "0x87d234ebd04022b6f32c7ce6cc6c63e78175c35b"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3ayg0k8303609l4qrukqk8p",
+    "username": "NotRealFranc",
+    "createdAt": "2022-05-18T02:18:28.952Z"
+  }
+}

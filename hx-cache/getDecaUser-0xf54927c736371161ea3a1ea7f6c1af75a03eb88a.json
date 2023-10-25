@@ -1,0 +1,26 @@
+{
+  "modified": 1698264520323,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xf54927c736371161ea3a1ea7f6c1af75a03eb88a",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1cTAFv9f24rqg45vUf4YgDyPoYkLonDMuA",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0xf54927c736371161ea3a1ea7f6c1af75a03eb88a"
+    ],
+    "walletsTez": [
+      "tz1cTAFv9f24rqg45vUf4YgDyPoYkLonDMuA"
+    ],
+    "walletsOther": [],
+    "id": "cljrjv0fc0002l80fl584zs6c",
+    "username": "Humping",
+    "createdAt": "2023-07-06T19:37:36.622Z"
+  }
+}

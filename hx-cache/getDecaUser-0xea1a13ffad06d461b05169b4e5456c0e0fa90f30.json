@@ -1,0 +1,20 @@
+{
+  "modified": 1698264707117,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xea1a13ffad06d461b05169b4e5456c0e0fa90f30",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xea1a13ffad06d461b05169b4e5456c0e0fa90f30"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3vrqx93434109l0792jygwr",
+    "username": "VERMOND",
+    "createdAt": "2022-06-01T15:54:10.263Z"
+  }
+}

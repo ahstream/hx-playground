@@ -1,0 +1,20 @@
+{
+  "modified": 1698264594671,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x8ffa49d8d80870b75b41717f83307590106b25c2",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x8ffa49d8d80870b75b41717f83307590106b25c2"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5dzdaqr685909jsjbn1ci56",
+    "username": "AKhabxv",
+    "createdAt": "2022-07-09T14:27:04.995Z"
+  }
+}

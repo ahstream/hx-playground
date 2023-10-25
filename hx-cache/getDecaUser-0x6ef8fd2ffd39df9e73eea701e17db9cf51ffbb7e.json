@@ -1,0 +1,20 @@
+{
+  "modified": 1698265012953,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x6ef8fd2ffd39df9e73eea701e17db9cf51ffbb7e",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x6ef8fd2ffd39df9e73eea701e17db9cf51ffbb7e"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl4vx9zds028307k2x030opc4",
+    "username": "Serwinston",
+    "createdAt": "2022-06-26T23:08:39.904Z"
+  }
+}

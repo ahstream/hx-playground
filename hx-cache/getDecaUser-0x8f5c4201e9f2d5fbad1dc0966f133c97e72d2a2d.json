@@ -1,0 +1,20 @@
+{
+  "modified": 1698263527282,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x8f5c4201e9f2d5fbad1dc0966f133c97e72d2a2d",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x8f5c4201e9f2d5fbad1dc0966f133c97e72d2a2d"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3e6esx5046309lg7ca0ks6i",
+    "username": "Point_Nemo",
+    "createdAt": "2022-05-20T08:24:47.849Z"
+  }
+}

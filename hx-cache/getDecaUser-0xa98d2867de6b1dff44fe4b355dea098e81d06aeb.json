@@ -1,0 +1,25 @@
+{
+  "modified": 1698265171342,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xa98d2867de6b1dff44fe4b355dea098e81d06aeb",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xd5ab35680bf779be56fa01b5dfdf11b2d9749f06",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xa98d2867de6b1dff44fe4b355dea098e81d06aeb",
+      "0xd5ab35680bf779be56fa01b5dfdf11b2d9749f06"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3aujoyr012709lbbg8g7wzt",
+    "username": "WorshipVaalt",
+    "createdAt": "2022-05-18T00:29:22.083Z"
+  }
+}

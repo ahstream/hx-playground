@@ -1,0 +1,20 @@
+{
+  "modified": 1698263507118,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x4f764a08c66251e13bdd85b4bb0652b739736328",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x4f764a08c66251e13bdd85b4bb0652b739736328"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5cy0qsc073009mlnou20swg",
+    "username": "funghibull",
+    "createdAt": "2022-07-08T21:01:33.468Z"
+  }
+}

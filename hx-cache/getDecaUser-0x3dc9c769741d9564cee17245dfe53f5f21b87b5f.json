@@ -1,0 +1,41 @@
+{
+  "modified": 1698264686607,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x3dc9c769741d9564cee17245dfe53f5f21b87b5f",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1ZuhCMnA1gZHfNzgKNFm1B2mjSDKJsQfJN",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0x2ee5bed2575f9ce0f777eec4b8e7d31d5c854380",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1i6Dex29u4Ko9SGiN4mge5Cgk6Tw5yg4Kb",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "tz1M2MmdQMGURKDBu7aPUtLHorfPSh36Vecx",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0x3dc9c769741d9564cee17245dfe53f5f21b87b5f",
+      "0x2ee5bed2575f9ce0f777eec4b8e7d31d5c854380"
+    ],
+    "walletsTez": [
+      "tz1ZuhCMnA1gZHfNzgKNFm1B2mjSDKJsQfJN",
+      "tz1i6Dex29u4Ko9SGiN4mge5Cgk6Tw5yg4Kb",
+      "tz1M2MmdQMGURKDBu7aPUtLHorfPSh36Vecx"
+    ],
+    "walletsOther": [],
+    "id": "cl3uh46zz132609l5z4l0z2fn",
+    "username": "AmaliaVersaci",
+    "createdAt": "2022-05-31T18:08:47.471Z"
+  }
+}

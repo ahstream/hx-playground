@@ -1,0 +1,20 @@
+{
+  "modified": 1698265163096,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x48daa95c19f23eac61f2bd0dc15180ae1af05978",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x48daa95c19f23eac61f2bd0dc15180ae1af05978"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "clccjj2l5000ela0fta9q8qqz",
+    "username": "buggy",
+    "createdAt": "2022-12-31T22:53:50.667Z"
+  }
+}

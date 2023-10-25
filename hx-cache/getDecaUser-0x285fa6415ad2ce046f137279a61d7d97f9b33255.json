@@ -1,0 +1,30 @@
+{
+  "modified": 1698264876928,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xf4ad0e79ca264b45ba97a34e4554d5587449deb3",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xaff8b18c43ac0b558473436c920c560c1abfce0e",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x285fa6415ad2ce046f137279a61d7d97f9b33255",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xf4ad0e79ca264b45ba97a34e4554d5587449deb3",
+      "0xaff8b18c43ac0b558473436c920c560c1abfce0e",
+      "0x285fa6415ad2ce046f137279a61d7d97f9b33255"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3w55ioy428109l8pxs0apap",
+    "username": "rugzbunny",
+    "createdAt": "2022-06-01T22:09:26.242Z"
+  }
+}

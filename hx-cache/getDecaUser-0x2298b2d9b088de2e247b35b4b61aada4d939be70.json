@@ -1,0 +1,26 @@
+{
+  "modified": 1698264530202,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x2298b2d9b088de2e247b35b4b61aada4d939be70",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz29ogHJqE9QYLQpef5USZVuRBGUd9f1fewR",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0x2298b2d9b088de2e247b35b4b61aada4d939be70"
+    ],
+    "walletsTez": [
+      "tz29ogHJqE9QYLQpef5USZVuRBGUd9f1fewR"
+    ],
+    "walletsOther": [],
+    "id": "cl4z55awi1888409jwbi302dev",
+    "username": "Mynas",
+    "createdAt": "2022-06-29T05:12:17.010Z"
+  }
+}

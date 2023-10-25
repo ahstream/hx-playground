@@ -1,0 +1,25 @@
+{
+  "modified": 1698264890231,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xbadda2e018c0d56356b90650153b9ce56a6e72ed",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xa463e01152ad6a9d3b5130b4f1668bbc105ec608",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xbadda2e018c0d56356b90650153b9ce56a6e72ed",
+      "0xa463e01152ad6a9d3b5130b4f1668bbc105ec608"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3e12o2t440909mlpqlhcw0a",
+    "username": "Soul_Salon",
+    "createdAt": "2022-05-20T05:55:23.621Z"
+  }
+}

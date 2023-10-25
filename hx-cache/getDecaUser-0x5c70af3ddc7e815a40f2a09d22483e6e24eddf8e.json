@@ -1,0 +1,20 @@
+{
+  "modified": 1698264837071,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x5c70af3ddc7e815a40f2a09d22483e6e24eddf8e",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x5c70af3ddc7e815a40f2a09d22483e6e24eddf8e"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3x7zkc7073208l168rj4bje",
+    "username": "batzdu",
+    "createdAt": "2022-06-02T16:16:33.463Z"
+  }
+}

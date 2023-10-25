@@ -1,0 +1,26 @@
+{
+  "modified": 1698264710710,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x053e6294400a9268e35df445624f58087c7f388f",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1YRxt4GjqDxDjjN6WiDuf1w9c2Ct8B62wC",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0x053e6294400a9268e35df445624f58087c7f388f"
+    ],
+    "walletsTez": [
+      "tz1YRxt4GjqDxDjjN6WiDuf1w9c2Ct8B62wC"
+    ],
+    "walletsOther": [],
+    "id": "cl50ngroz218909l7hj5hzxml",
+    "username": "Robapuros",
+    "createdAt": "2022-06-30T06:32:51.251Z"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "modified": 1698264886652,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x829949946ab1e87ebf9431207ab8d5cf8f1372c6",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x829949946ab1e87ebf9431207ab8d5cf8f1372c6"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3cmp7p0006907mlqv7dvjve",
+    "username": "magnets",
+    "createdAt": "2022-05-19T06:25:15.060Z"
+  }
+}

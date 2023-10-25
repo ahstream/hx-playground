@@ -1,0 +1,20 @@
+{
+  "modified": 1698264951899,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x292b72edc7bc94c0ccffb1df098ba2971a3212df",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x292b72edc7bc94c0ccffb1df098ba2971a3212df"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cldkelkrj0001lc0fivlyjdez",
+    "username": "oinoice",
+    "createdAt": "2023-01-31T15:37:41.201Z"
+  }
+}

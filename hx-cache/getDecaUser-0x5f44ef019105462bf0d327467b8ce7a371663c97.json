@@ -1,0 +1,36 @@
+{
+  "modified": 1698264883616,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x5f44ef019105462bf0d327467b8ce7a371663c97",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1L4xh5Js84U9kmhzefpUsiBebgSe5nFkoj",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "tz1NVQNyoPNqYhEGZC5rWy7oxGDb6SKjn4z8",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "tz1Xc1ZiREiefzkEbuB3z6W3hcHWqokVnxbG",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0x5f44ef019105462bf0d327467b8ce7a371663c97"
+    ],
+    "walletsTez": [
+      "tz1L4xh5Js84U9kmhzefpUsiBebgSe5nFkoj",
+      "tz1NVQNyoPNqYhEGZC5rWy7oxGDb6SKjn4z8",
+      "tz1Xc1ZiREiefzkEbuB3z6W3hcHWqokVnxbG"
+    ],
+    "walletsOther": [],
+    "id": "ckyel8tco007409mjumgqxvkl",
+    "username": "towslee",
+    "createdAt": "2022-01-14T16:01:31.032Z"
+  }
+}

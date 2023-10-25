@@ -1,0 +1,36 @@
+{
+  "modified": 1698264988357,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x722e9468d7f8c2710b6dbfdf70f01b045aca1851",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1X4uKyScBjBBRhopuyrsiQbybpCJDYUzAG",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0x773d715200ab5c07f39db9772e3c83c48534a585",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1gDHqtgb3hCmhR5yftqb2qzmQsbvmUVr5P",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0x722e9468d7f8c2710b6dbfdf70f01b045aca1851",
+      "0x773d715200ab5c07f39db9772e3c83c48534a585"
+    ],
+    "walletsTez": [
+      "tz1X4uKyScBjBBRhopuyrsiQbybpCJDYUzAG",
+      "tz1gDHqtgb3hCmhR5yftqb2qzmQsbvmUVr5P"
+    ],
+    "walletsOther": [],
+    "id": "cl43g490f524409mh81v63t0w",
+    "username": "rhynotic",
+    "createdAt": "2022-06-07T00:50:46.047Z"
+  }
+}

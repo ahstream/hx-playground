@@ -1,0 +1,25 @@
+{
+  "modified": 1698265202597,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x637d7dcbeea475ff91a1fbc86daf78035498373b",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x04129a1aec2b7c457e497e77ef00c4700d2aebc8",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x637d7dcbeea475ff91a1fbc86daf78035498373b",
+      "0x04129a1aec2b7c457e497e77ef00c4700d2aebc8"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3b2q9t402930amndogo6fal",
+    "username": "shakil",
+    "createdAt": "2022-05-18T04:18:25.960Z"
+  }
+}

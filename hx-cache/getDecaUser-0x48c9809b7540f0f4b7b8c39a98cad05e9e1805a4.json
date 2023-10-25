@@ -1,0 +1,20 @@
+{
+  "modified": 1698263502600,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x48c9809b7540f0f4b7b8c39a98cad05e9e1805a4",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x48c9809b7540f0f4b7b8c39a98cad05e9e1805a4"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5crv8mp1260009mhq71m62ei",
+    "username": "TheLoveApe",
+    "createdAt": "2022-07-08T18:09:18.961Z"
+  }
+}

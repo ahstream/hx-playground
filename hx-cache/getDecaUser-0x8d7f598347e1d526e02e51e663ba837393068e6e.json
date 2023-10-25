@@ -1,0 +1,20 @@
+{
+  "modified": 1698264864624,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x8d7f598347e1d526e02e51e663ba837393068e6e",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x8d7f598347e1d526e02e51e663ba837393068e6e"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3yg8mqx015309l2la4y162u",
+    "username": "antonmarrast",
+    "createdAt": "2022-06-03T12:55:19.593Z"
+  }
+}

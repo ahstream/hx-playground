@@ -1,0 +1,31 @@
+{
+  "modified": 1698264797831,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xfb39a75697b375daba7bf3b109c31c4a271abad6",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xc3956f9e14e62bfe00672ac5a4b5d11f84d8b5b2",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1YMcte9wybvc13Mkus9jV5KSFqrfQNrgEz",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0xfb39a75697b375daba7bf3b109c31c4a271abad6",
+      "0xc3956f9e14e62bfe00672ac5a4b5d11f84d8b5b2"
+    ],
+    "walletsTez": [
+      "tz1YMcte9wybvc13Mkus9jV5KSFqrfQNrgEz"
+    ],
+    "walletsOther": [],
+    "id": "cl3ul6aqk1031309jjkqgw2rmd",
+    "username": "Punk3129",
+    "createdAt": "2022-05-31T20:02:24.092Z"
+  }
+}

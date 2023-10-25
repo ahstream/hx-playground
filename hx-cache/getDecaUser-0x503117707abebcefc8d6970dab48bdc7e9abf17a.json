@@ -1,0 +1,20 @@
+{
+  "modified": 1698264645706,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x503117707abebcefc8d6970dab48bdc7e9abf17a",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x503117707abebcefc8d6970dab48bdc7e9abf17a"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3av75yn096209mso3ojs13b",
+    "username": "The_Kenadian",
+    "createdAt": "2022-05-18T00:47:37.199Z"
+  }
+}

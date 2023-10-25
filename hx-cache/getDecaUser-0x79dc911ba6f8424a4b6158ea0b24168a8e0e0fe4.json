@@ -1,0 +1,20 @@
+{
+  "modified": 1698263518889,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x79dc911ba6f8424a4b6158ea0b24168a8e0e0fe4",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x79dc911ba6f8424a4b6158ea0b24168a8e0e0fe4"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "ckz5methe001809la8o5d3h52",
+    "username": "aramunu",
+    "createdAt": "2022-02-02T14:03:57.506Z"
+  }
+}

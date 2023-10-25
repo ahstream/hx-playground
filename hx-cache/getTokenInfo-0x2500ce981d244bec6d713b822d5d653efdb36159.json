@@ -1,0 +1,19 @@
+{
+  "modified": 1698262050356,
+  "value": {
+    "address": "0x2500ce981d244bec6d713b822d5d653efdb36159",
+    "name": "Decal by Three Panel Crimes",
+    "owner": "0x70feeec90d37dc73d9ded8cfafd7ede3f697b70b",
+    "price": false,
+    "symbol": "DECAL",
+    "totalSupply": "100",
+    "transfersCount": 0,
+    "txsCount": 156,
+    "issuancesCount": 0,
+    "lastUpdated": 1697954582,
+    "holdersCount": 74,
+    "ethTransfersCount": 0,
+    "decimals": "0",
+    "countOps": 0
+  }
+}

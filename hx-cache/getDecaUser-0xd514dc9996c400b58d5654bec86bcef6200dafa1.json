@@ -1,0 +1,26 @@
+{
+  "modified": 1698264965944,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xd514dc9996c400b58d5654bec86bcef6200dafa1",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1UJExaNFW8xHd9RVkRjKsByne4H4Ragy6x",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0xd514dc9996c400b58d5654bec86bcef6200dafa1"
+    ],
+    "walletsTez": [
+      "tz1UJExaNFW8xHd9RVkRjKsByne4H4Ragy6x"
+    ],
+    "walletsOther": [],
+    "id": "claexype6000elg08ug8jgafl",
+    "username": "CryptoAnaes",
+    "createdAt": "2022-11-13T05:54:02.382Z"
+  }
+}

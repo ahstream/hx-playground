@@ -1,0 +1,20 @@
+{
+  "modified": 1698265111305,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x56616a6dac6252fdbbacc8ef5e739f4b26119f92",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x56616a6dac6252fdbbacc8ef5e739f4b26119f92"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "ckyxktuqv199009mle50kd8zg",
+    "username": "awayiflew",
+    "createdAt": "2022-01-27T22:57:30.343Z"
+  }
+}

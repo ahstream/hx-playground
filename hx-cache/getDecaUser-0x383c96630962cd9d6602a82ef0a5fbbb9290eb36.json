@@ -1,0 +1,20 @@
+{
+  "modified": 1698264715017,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x383c96630962cd9d6602a82ef0a5fbbb9290eb36",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x383c96630962cd9d6602a82ef0a5fbbb9290eb36"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl69tzlxb074009l4z5iqvaq9",
+    "username": "ronnie",
+    "createdAt": "2022-07-31T21:25:05.855Z"
+  }
+}

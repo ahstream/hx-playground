@@ -1,0 +1,26 @@
+{
+  "modified": 1698263504736,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x4ac21c597fbe55f363abdd698f1fb07d5f04c9f9",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1N9xHVaRigdgVefjrBMna7WngoJDYXLEYh",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0x4ac21c597fbe55f363abdd698f1fb07d5f04c9f9"
+    ],
+    "walletsTez": [
+      "tz1N9xHVaRigdgVefjrBMna7WngoJDYXLEYh"
+    ],
+    "walletsOther": [],
+    "id": "cl59vbz4o025909mqxiufv4cs",
+    "username": "chapsMX",
+    "createdAt": "2022-07-06T17:23:00.120Z"
+  }
+}

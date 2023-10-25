@@ -1,0 +1,20 @@
+{
+  "modified": 1698264803609,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x18824181d8f032fc5e989ffa960023479e26b9e7",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x18824181d8f032fc5e989ffa960023479e26b9e7"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl59wtlun001809jo7m0sgtss",
+    "username": "mdzera",
+    "createdAt": "2022-07-06T18:04:42.335Z"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "modified": 1698263564921,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x1e227911af7eb6ba32ddff2615af2bf5cebabca5",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1SejxRSH9nPgEsrnbZ3EMiGo6LLScwoohS",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0x1e227911af7eb6ba32ddff2615af2bf5cebabca5"
+    ],
+    "walletsTez": [
+      "tz1SejxRSH9nPgEsrnbZ3EMiGo6LLScwoohS"
+    ],
+    "walletsOther": [],
+    "id": "cl09n1fey018209mqe2ocrb0q",
+    "username": "Moumoumout",
+    "createdAt": "2022-03-02T14:12:19.402Z"
+  }
+}

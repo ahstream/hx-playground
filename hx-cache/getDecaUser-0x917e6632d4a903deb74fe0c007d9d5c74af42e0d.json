@@ -1,0 +1,26 @@
+{
+  "modified": 1698263528284,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "tz1aTHPgADTSw2a7kZe9b1ASpYvNmkc1vNDB",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0x917e6632d4a903deb74fe0c007d9d5c74af42e0d",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x917e6632d4a903deb74fe0c007d9d5c74af42e0d"
+    ],
+    "walletsTez": [
+      "tz1aTHPgADTSw2a7kZe9b1ASpYvNmkc1vNDB"
+    ],
+    "walletsOther": [],
+    "id": "cl6f2ub2t721709jqyvzpiazk",
+    "username": "Jbarbeau-art",
+    "createdAt": "2022-08-04T13:31:45.941Z"
+  }
+}

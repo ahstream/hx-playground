@@ -1,0 +1,20 @@
+{
+  "modified": 1698265124199,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x0c10f0286bde8628718efb7c29e5e7ddfd6fc2a0",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x0c10f0286bde8628718efb7c29e5e7ddfd6fc2a0"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl63zvddd119609m85kafqjyu",
+    "username": "Parsifal",
+    "createdAt": "2022-07-27T19:23:08.785Z"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "modified": 1698264871843,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xe15ef397a43465800ddfcb7c9bf2d6d069c93a23",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xacab3f8f17eb5e9d00b951843e9323df889d9714",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xe15ef397a43465800ddfcb7c9bf2d6d069c93a23",
+      "0xacab3f8f17eb5e9d00b951843e9323df889d9714"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "clbl6gjec000tmq08wi49eyn7",
+    "username": "griftersgift",
+    "createdAt": "2022-12-12T19:18:10.666Z"
+  }
+}

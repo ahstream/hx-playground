@@ -1,0 +1,20 @@
+{
+  "modified": 1698265091739,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x8ed55d7ae8a86032bfb78eedfd318086f9bc43bc",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x8ed55d7ae8a86032bfb78eedfd318086f9bc43bc"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl6jstsvx42130gmr73yfmdvc",
+    "username": "alexjbaum10",
+    "createdAt": "2022-08-07T20:50:17.085Z"
+  }
+}

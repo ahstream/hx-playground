@@ -1,0 +1,25 @@
+{
+  "modified": 1698264813242,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x9df408fc4cf8e3390102f02ad98248ac07886a71",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xdf2afe8d5674f757dfece3a81e9b241ef7596569",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x9df408fc4cf8e3390102f02ad98248ac07886a71",
+      "0xdf2afe8d5674f757dfece3a81e9b241ef7596569"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3ipnj1j006309lagtg6uty5",
+    "username": "MajorTea",
+    "createdAt": "2022-05-23T12:34:32.359Z"
+  }
+}

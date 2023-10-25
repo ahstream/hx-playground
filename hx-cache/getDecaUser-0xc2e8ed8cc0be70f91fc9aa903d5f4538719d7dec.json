@@ -1,0 +1,31 @@
+{
+  "modified": 1698264764476,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xa16977865ab1e2eeab1068e71890b36de4bf95f3",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1SoQGQdTdwk6uS2vxaHnyCGkzzY2mdBkA8",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0xc2e8ed8cc0be70f91fc9aa903d5f4538719d7dec",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xa16977865ab1e2eeab1068e71890b36de4bf95f3",
+      "0xc2e8ed8cc0be70f91fc9aa903d5f4538719d7dec"
+    ],
+    "walletsTez": [
+      "tz1SoQGQdTdwk6uS2vxaHnyCGkzzY2mdBkA8"
+    ],
+    "walletsOther": [],
+    "id": "cl3b2fxjt194209l1swsxclxe",
+    "username": "amtwo",
+    "createdAt": "2022-05-18T04:10:23.513Z"
+  }
+}

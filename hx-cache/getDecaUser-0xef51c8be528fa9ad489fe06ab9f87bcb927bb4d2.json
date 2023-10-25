@@ -1,0 +1,35 @@
+{
+  "modified": 1698264946803,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xef51c8be528fa9ad489fe06ab9f87bcb927bb4d2",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xa83b9131192Ca58091EAaD4e67df69a36192b659",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x8E4Fe596D87f5E2232A1F81f137447CD8DA1279e",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xEEA291C93c474768E657CBE29b08755A17c4bcA4",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xef51c8be528fa9ad489fe06ab9f87bcb927bb4d2",
+      "0xa83b9131192Ca58091EAaD4e67df69a36192b659",
+      "0x8E4Fe596D87f5E2232A1F81f137447CD8DA1279e",
+      "0xEEA291C93c474768E657CBE29b08755A17c4bcA4"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3d2skzm012509l3pii07qc7",
+    "username": "Hern",
+    "createdAt": "2022-05-19T13:55:46.114Z"
+  }
+}

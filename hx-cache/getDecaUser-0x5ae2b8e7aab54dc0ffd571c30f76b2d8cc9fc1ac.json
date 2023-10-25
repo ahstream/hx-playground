@@ -1,0 +1,20 @@
+{
+  "modified": 1698263509353,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x5ae2b8e7aab54dc0ffd571c30f76b2d8cc9fc1ac",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x5ae2b8e7aab54dc0ffd571c30f76b2d8cc9fc1ac"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cldwf6nkr0001mk0f7t6gc3zi",
+    "username": "postwook",
+    "createdAt": "2023-02-09T01:27:18.727Z"
+  }
+}

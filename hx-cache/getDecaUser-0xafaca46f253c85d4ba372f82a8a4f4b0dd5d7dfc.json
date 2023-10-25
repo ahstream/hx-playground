@@ -1,0 +1,20 @@
+{
+  "modified": 1698264699486,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xafaca46f253c85d4ba372f82a8a4f4b0dd5d7dfc",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xafaca46f253c85d4ba372f82a8a4f4b0dd5d7dfc"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl4uklkzm339009mksy3xblmm",
+    "username": "peternitsch",
+    "createdAt": "2022-06-26T00:25:59.938Z"
+  }
+}

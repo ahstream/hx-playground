@@ -1,0 +1,20 @@
+{
+  "modified": 1698264506822,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xc8bc8b83d592f9c72ea3ff494907280aaf096605",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xc8bc8b83d592f9c72ea3ff494907280aaf096605"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl4roisan288009lhims1zbcm",
+    "username": "JohnnyDanger",
+    "createdAt": "2022-06-23T23:52:29.375Z"
+  }
+}

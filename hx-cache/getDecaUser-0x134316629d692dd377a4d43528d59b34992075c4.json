@@ -1,0 +1,20 @@
+{
+  "modified": 1698264712126,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x134316629d692dd377a4d43528d59b34992075c4",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x134316629d692dd377a4d43528d59b34992075c4"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl6fnp4fm062909l9915u2gz3",
+    "username": "DecAddict",
+    "createdAt": "2022-08-04T23:15:35.986Z"
+  }
+}

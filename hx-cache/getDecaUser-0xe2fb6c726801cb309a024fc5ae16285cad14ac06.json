@@ -1,0 +1,20 @@
+{
+  "modified": 1698264738234,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xe2fb6c726801cb309a024fc5ae16285cad14ac06",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xe2fb6c726801cb309a024fc5ae16285cad14ac06"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl9vri6ki181708jktirx0d3z",
+    "username": "IkeAndrews",
+    "createdAt": "2022-10-30T19:45:36.450Z"
+  }
+}

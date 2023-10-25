@@ -1,0 +1,20 @@
+{
+  "modified": 1698263521101,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x7e1d89efe0d75b659fece9159801fd9df37c0ac0",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x7e1d89efe0d75b659fece9159801fd9df37c0ac0"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3xtzvgr147109mlxg0t65gh",
+    "username": "DARKSOUL",
+    "createdAt": "2022-06-03T02:32:39.435Z"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "modified": 1698265019665,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xc04144b89ad20ab5aa96ba3cbcce54ba5a107669",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xc04144b89ad20ab5aa96ba3cbcce54ba5a107669"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "clcpavnix000gjs0f3tg39acd",
+    "username": "BLAIRE",
+    "createdAt": "2023-01-09T21:12:41.421Z"
+  }
+}

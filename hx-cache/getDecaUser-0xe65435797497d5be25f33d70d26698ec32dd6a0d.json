@@ -1,0 +1,26 @@
+{
+  "modified": 1698264669919,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xe65435797497d5be25f33d70d26698ec32dd6a0d",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1ioH9MWthwXXgkeASJPEGfh4xfdaesvv6w",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0xe65435797497d5be25f33d70d26698ec32dd6a0d"
+    ],
+    "walletsTez": [
+      "tz1ioH9MWthwXXgkeASJPEGfh4xfdaesvv6w"
+    ],
+    "walletsOther": [],
+    "id": "cl3czubqr019209jv28axmn5x",
+    "username": "Krypto-J",
+    "createdAt": "2022-05-19T12:33:08.595Z"
+  }
+}

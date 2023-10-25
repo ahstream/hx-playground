@@ -1,0 +1,31 @@
+{
+  "modified": 1698265160832,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x20be2aff79b1f330a798983c78c0e056f8627623",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x1935700882fa70e7f14a70b21b5905a1e296daaa",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1URvuQkkXciFjLSr16M9vyDUqgxyYCX4xh",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0x20be2aff79b1f330a798983c78c0e056f8627623",
+      "0x1935700882fa70e7f14a70b21b5905a1e296daaa"
+    ],
+    "walletsTez": [
+      "tz1URvuQkkXciFjLSr16M9vyDUqgxyYCX4xh"
+    ],
+    "walletsOther": [],
+    "id": "cl3zc9kum053209jkx3xf1zx6",
+    "username": "jasonagogo",
+    "createdAt": "2022-06-04T03:51:51.502Z"
+  }
+}

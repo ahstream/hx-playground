@@ -1,0 +1,25 @@
+{
+  "modified": 1698265159237,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x1b37cb362986e1da8a83342bd5906ef5078efa38",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x5a10e5954806a420bf573a924c8b0a8a4c392c8c",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x1b37cb362986e1da8a83342bd5906ef5078efa38",
+      "0x5a10e5954806a420bf573a924c8b0a8a4c392c8c"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3x6v53q76340ai8zklmjmta",
+    "username": "robotbear",
+    "createdAt": "2022-06-02T15:45:07.478Z"
+  }
+}

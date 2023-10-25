@@ -1,0 +1,36 @@
+{
+  "modified": 1698264943498,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xcbfb9a917c2b45fbd8e820e66602ef26dff9cd40",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1LXDCFqmufzG2797vNA61tUC2h8k6gio2t",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0x1b591e98dc0ed3f967359242064c76161fb4c0dc",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x84c269cabb9dd0bb854e21cc2e75600e5eff9ccd",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xcbfb9a917c2b45fbd8e820e66602ef26dff9cd40",
+      "0x1b591e98dc0ed3f967359242064c76161fb4c0dc",
+      "0x84c269cabb9dd0bb854e21cc2e75600e5eff9ccd"
+    ],
+    "walletsTez": [
+      "tz1LXDCFqmufzG2797vNA61tUC2h8k6gio2t"
+    ],
+    "walletsOther": [],
+    "id": "cl42yghjq059209mil74vhycz",
+    "username": "raithy",
+    "createdAt": "2022-06-06T16:36:23.894Z"
+  }
+}

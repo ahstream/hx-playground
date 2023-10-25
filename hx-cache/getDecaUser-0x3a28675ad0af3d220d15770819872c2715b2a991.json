@@ -1,0 +1,36 @@
+{
+  "modified": 1698265007164,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xb93f356a6dcedfed94be81523e5365c422d62267",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x3a28675ad0af3d220d15770819872c2715b2a991",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1S2p8UWM1bM4yZ2Ur6MqvDp7NFG8uRrq4Y",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0xa98d9eed02aace81c52e8991439827d7fcbd35fc",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xb93f356a6dcedfed94be81523e5365c422d62267",
+      "0x3a28675ad0af3d220d15770819872c2715b2a991",
+      "0xa98d9eed02aace81c52e8991439827d7fcbd35fc"
+    ],
+    "walletsTez": [
+      "tz1S2p8UWM1bM4yZ2Ur6MqvDp7NFG8uRrq4Y"
+    ],
+    "walletsOther": [],
+    "id": "cl3cih7c4027109l6h9c7tw8d",
+    "username": "SplashofHenny",
+    "createdAt": "2022-05-19T04:27:02.884Z"
+  }
+}

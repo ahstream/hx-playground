@@ -1,0 +1,20 @@
+{
+  "modified": 1698264559260,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xb4c5add881c0b0e8ee444ee54a17535fa8ea311e",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xb4c5add881c0b0e8ee444ee54a17535fa8ea311e"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl6ordh3902690gl1lrqy4ya8",
+    "username": "Bluemagic",
+    "createdAt": "2022-08-11T08:08:26.565Z"
+  }
+}

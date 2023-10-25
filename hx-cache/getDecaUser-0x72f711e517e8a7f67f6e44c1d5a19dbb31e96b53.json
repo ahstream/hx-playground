@@ -1,0 +1,20 @@
+{
+  "modified": 1698265217554,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x72f711e517e8a7f67f6e44c1d5a19dbb31e96b53",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x72f711e517e8a7f67f6e44c1d5a19dbb31e96b53"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "clblicpz30001jo086vr19l3m",
+    "username": "Trotta",
+    "createdAt": "2022-12-13T00:51:08.014Z"
+  }
+}

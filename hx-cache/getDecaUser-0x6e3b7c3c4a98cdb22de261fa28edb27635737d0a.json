@@ -1,0 +1,20 @@
+{
+  "modified": 1698264885112,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x6e3b7c3c4a98cdb22de261fa28edb27635737d0a",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x6e3b7c3c4a98cdb22de261fa28edb27635737d0a"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl7e4pot5153208ld7qm19fy6",
+    "username": "MisterPinkJunior",
+    "createdAt": "2022-08-29T02:16:05.849Z"
+  }
+}

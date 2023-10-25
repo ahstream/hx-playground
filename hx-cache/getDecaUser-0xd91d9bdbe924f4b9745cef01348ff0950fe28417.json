@@ -1,0 +1,20 @@
+{
+  "modified": 1698264515052,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xd91d9bdbe924f4b9745cef01348ff0950fe28417",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xd91d9bdbe924f4b9745cef01348ff0950fe28417"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "clbcowto90007jm08aczcpjpt",
+    "username": "N0Limits",
+    "createdAt": "2022-12-06T20:44:48.042Z"
+  }
+}

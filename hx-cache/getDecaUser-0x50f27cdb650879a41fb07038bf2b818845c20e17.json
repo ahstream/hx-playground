@@ -1,0 +1,26 @@
+{
+  "modified": 1698264985083,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x50f27cdb650879a41fb07038bf2b818845c20e17",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1canE4FPNPjhQ1AL6fpoJv1kqG4fssdCcR",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0x50f27cdb650879a41fb07038bf2b818845c20e17"
+    ],
+    "walletsTez": [
+      "tz1canE4FPNPjhQ1AL6fpoJv1kqG4fssdCcR"
+    ],
+    "walletsOther": [],
+    "id": "ckz7npknt078809jg02tn2yxa",
+    "username": "buyingyourstops",
+    "createdAt": "2022-02-04T00:15:51.257Z"
+  }
+}

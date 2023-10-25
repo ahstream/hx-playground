@@ -1,0 +1,20 @@
+{
+  "modified": 1698264525832,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x15ef9bb5d59fc204caab300d0c23d28da34e3535",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x15ef9bb5d59fc204caab300d0c23d28da34e3535"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3d023gu066309jm9ku7otxd",
+    "username": "OJ",
+    "createdAt": "2022-05-19T12:39:11.118Z"
+  }
+}

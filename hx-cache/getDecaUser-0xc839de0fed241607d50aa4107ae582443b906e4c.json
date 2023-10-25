@@ -1,0 +1,25 @@
+{
+  "modified": 1698265096160,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xc839de0fed241607d50aa4107ae582443b906e4c",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x47d539d4dd9B6f21CcABc5C96BBbf7071290938E",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xc839de0fed241607d50aa4107ae582443b906e4c",
+      "0x47d539d4dd9B6f21CcABc5C96BBbf7071290938E"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3vmrkjt692309l7wuzqxd8h",
+    "username": "HugoFaz",
+    "createdAt": "2022-06-01T13:34:42.377Z"
+  }
+}

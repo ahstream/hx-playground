@@ -1,0 +1,20 @@
+{
+  "modified": 1698264916460,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xc99c0f17fdf7fff53063f86ba2355902dec4007f",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xc99c0f17fdf7fff53063f86ba2355902dec4007f"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl59yof7v032609l9ll1pk7by",
+    "username": "Zabouria",
+    "createdAt": "2022-07-06T18:56:39.691Z"
+  }
+}

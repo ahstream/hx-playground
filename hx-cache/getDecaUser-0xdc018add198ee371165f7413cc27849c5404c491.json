@@ -1,0 +1,31 @@
+{
+  "modified": 1698264706374,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xdc018add198ee371165f7413cc27849c5404c491",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1U1Zzpu1FDY4qhBH7JMi6oSxGuXMiMbFDG",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0x2b2c0407b4bf879e1075a3a57c23cf63fed9265d",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xdc018add198ee371165f7413cc27849c5404c491",
+      "0x2b2c0407b4bf879e1075a3a57c23cf63fed9265d"
+    ],
+    "walletsTez": [
+      "tz1U1Zzpu1FDY4qhBH7JMi6oSxGuXMiMbFDG"
+    ],
+    "walletsOther": [],
+    "id": "cl3x2z341261309maj3h2qu2x",
+    "username": "Mnopxart",
+    "createdAt": "2022-06-02T13:56:13.057Z"
+  }
+}

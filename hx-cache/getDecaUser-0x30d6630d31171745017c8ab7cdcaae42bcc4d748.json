@@ -1,0 +1,20 @@
+{
+  "modified": 1698263496440,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x30d6630d31171745017c8ab7cdcaae42bcc4d748",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x30d6630d31171745017c8ab7cdcaae42bcc4d748"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3bnjov7009309l8vk42ev9v",
+    "username": "TiagoBatistaNFT",
+    "createdAt": "2022-05-18T14:01:10.819Z"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "modified": 1698264542649,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x50ba55bf41580f0ba7df31d9d20b129e6d2df6ae",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1ce4PvxTbvpSJPosDZ5gb5JuEkJT94Nqbc",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0x50ba55bf41580f0ba7df31d9d20b129e6d2df6ae"
+    ],
+    "walletsTez": [
+      "tz1ce4PvxTbvpSJPosDZ5gb5JuEkJT94Nqbc"
+    ],
+    "walletsOther": [],
+    "id": "cl3kin3ko062809mmwssyjqzr",
+    "username": "semenov",
+    "createdAt": "2022-05-24T18:53:47.352Z"
+  }
+}

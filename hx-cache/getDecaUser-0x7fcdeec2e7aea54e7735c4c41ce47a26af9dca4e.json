@@ -1,0 +1,20 @@
+{
+  "modified": 1698264694769,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x7fcdeec2e7aea54e7735c4c41ce47a26af9dca4e",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x7fcdeec2e7aea54e7735c4c41ce47a26af9dca4e"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl6o4t19541900gjt0ow48zj3",
+    "username": "Tessis",
+    "createdAt": "2022-08-10T21:36:41.369Z"
+  }
+}

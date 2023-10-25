@@ -1,0 +1,20 @@
+{
+  "modified": 1698264994099,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xa49f7990f784e74ab8085ae2671ecd75aa4aa7e9",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xa49f7990f784e74ab8085ae2671ecd75aa4aa7e9"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl78xwhm0577409mgq0pl38h7",
+    "username": "binny",
+    "createdAt": "2022-08-25T11:06:34.920Z"
+  }
+}

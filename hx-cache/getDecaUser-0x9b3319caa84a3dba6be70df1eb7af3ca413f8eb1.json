@@ -1,0 +1,20 @@
+{
+  "modified": 1698265017423,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x9b3319caa84a3dba6be70df1eb7af3ca413f8eb1",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x9b3319caa84a3dba6be70df1eb7af3ca413f8eb1"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl43csgf0440009mhvhevo1w0",
+    "username": "Cryptodude",
+    "createdAt": "2022-06-06T23:17:36.924Z"
+  }
+}

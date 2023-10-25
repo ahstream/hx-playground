@@ -1,0 +1,25 @@
+{
+  "modified": 1698264837798,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xe3ec7347f7a2031be31c84c279159db18627b224",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x5e777730a1b0218eca21ab87dfc2eb673ca88a61",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xe3ec7347f7a2031be31c84c279159db18627b224",
+      "0x5e777730a1b0218eca21ab87dfc2eb673ca88a61"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cleowxfvd0001l20fxm2hcr3w",
+    "username": "Reef1",
+    "createdAt": "2023-03-01T00:01:34.861Z"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "modified": 1698264728438,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xa478e7a8792b584845cfe27819761e16422154b4",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xc70a09dd6944cbb4ebd02db4fc506d407b095a29",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xd2cbbcc72feab581a4e85bea3f3f3e074959e190",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1UnQ7VEu2d86Bt5KEm2QntcKYrveap1sRF",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0xa478e7a8792b584845cfe27819761e16422154b4",
+      "0xc70a09dd6944cbb4ebd02db4fc506d407b095a29",
+      "0xd2cbbcc72feab581a4e85bea3f3f3e074959e190"
+    ],
+    "walletsTez": [
+      "tz1UnQ7VEu2d86Bt5KEm2QntcKYrveap1sRF"
+    ],
+    "walletsOther": [],
+    "id": "cl3ujhmym294409l0utryisla",
+    "username": "lol",
+    "createdAt": "2022-05-31T19:15:13.918Z"
+  }
+}

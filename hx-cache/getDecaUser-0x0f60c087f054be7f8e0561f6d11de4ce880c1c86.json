@@ -1,0 +1,31 @@
+{
+  "modified": 1698264800604,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x4e848cb280ba065f44e64f923a78a52141033f09",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1Xzckt6caPhPv7m8WqCEX22bLaNwbrVu4p",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0x0f60c087f054be7f8e0561f6d11de4ce880c1c86",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x4e848cb280ba065f44e64f923a78a52141033f09",
+      "0x0f60c087f054be7f8e0561f6d11de4ce880c1c86"
+    ],
+    "walletsTez": [
+      "tz1Xzckt6caPhPv7m8WqCEX22bLaNwbrVu4p"
+    ],
+    "walletsOther": [],
+    "id": "cl3vegp7r292709ibuy9jwm33",
+    "username": "D3CA",
+    "createdAt": "2022-06-01T09:42:18.279Z"
+  }
+}

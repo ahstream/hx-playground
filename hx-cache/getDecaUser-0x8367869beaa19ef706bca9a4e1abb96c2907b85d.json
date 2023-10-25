@@ -1,0 +1,41 @@
+{
+  "modified": 1698265166829,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x8367869beaa19ef706bca9a4e1abb96c2907b85d",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x5e3d8dada7515e8f9fa294c1341a3758c7a6c64e",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x6290c100f68b2862dbb39a5d58b5450794c7ecf5",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1XG9GCKt6YyPhdVokVzLhAG3DkoxdTnK5A",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0x73095fb91a48e9b157038f4821245b88023107d0",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x8367869beaa19ef706bca9a4e1abb96c2907b85d",
+      "0x5e3d8dada7515e8f9fa294c1341a3758c7a6c64e",
+      "0x6290c100f68b2862dbb39a5d58b5450794c7ecf5",
+      "0x73095fb91a48e9b157038f4821245b88023107d0"
+    ],
+    "walletsTez": [
+      "tz1XG9GCKt6YyPhdVokVzLhAG3DkoxdTnK5A"
+    ],
+    "walletsOther": [],
+    "id": "cl3bd7g5i053809mqn6re9gh2",
+    "username": "nopsta",
+    "createdAt": "2022-05-18T09:11:43.494Z"
+  }
+}

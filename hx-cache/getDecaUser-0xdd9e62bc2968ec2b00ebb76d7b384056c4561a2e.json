@@ -1,0 +1,25 @@
+{
+  "modified": 1698264668111,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xdd9e62bc2968ec2b00ebb76d7b384056c4561a2e",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x1aBcd3f6e97657684B9c125488C80aD6F5f6F284",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xdd9e62bc2968ec2b00ebb76d7b384056c4561a2e",
+      "0x1aBcd3f6e97657684B9c125488C80aD6F5f6F284"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "clbldjn0f0006l508b1xm5vrs",
+    "username": "Panter-Xhita",
+    "createdAt": "2022-12-12T22:36:32.691Z"
+  }
+}

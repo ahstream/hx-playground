@@ -1,0 +1,25 @@
+{
+  "modified": 1698265080672,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x882ebe579e11104ffa610fad8b0b947955cf3d3d",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x0289e908cfd2320becf0aafc5b7e99d61d1c608d",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x882ebe579e11104ffa610fad8b0b947955cf3d3d",
+      "0x0289e908cfd2320becf0aafc5b7e99d61d1c608d"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3w4r9lc628809mi8l7gpdpj",
+    "username": "ApolloDoge",
+    "createdAt": "2022-06-01T21:58:21.264Z"
+  }
+}

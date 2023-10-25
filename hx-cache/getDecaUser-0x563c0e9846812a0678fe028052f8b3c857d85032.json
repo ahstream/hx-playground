@@ -1,0 +1,56 @@
+{
+  "modified": 1698264835696,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x268f5fa2adeb3a904fa60d4ffb904738f0dfe3b4",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x34df5e2952ded2c258b1e7861f972b4ab4f9056e",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1Sbx1bBAdSyoMxbCafix5oXvVnKJk6CF12",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0x09de8d17a807ac836d80f8b629bfe88656e0c8f5",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xd91544c56c85b57c09c799c647c9ec7d6582f04f",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x160ff60d34c9579929925b1b201f0c767d6b1814",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x0b0faac8b33a6f73a82398853aa1646e12fa9480",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x563c0e9846812a0678fe028052f8b3c857d85032",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x268f5fa2adeb3a904fa60d4ffb904738f0dfe3b4",
+      "0x34df5e2952ded2c258b1e7861f972b4ab4f9056e",
+      "0x09de8d17a807ac836d80f8b629bfe88656e0c8f5",
+      "0xd91544c56c85b57c09c799c647c9ec7d6582f04f",
+      "0x160ff60d34c9579929925b1b201f0c767d6b1814",
+      "0x0b0faac8b33a6f73a82398853aa1646e12fa9480",
+      "0x563c0e9846812a0678fe028052f8b3c857d85032"
+    ],
+    "walletsTez": [
+      "tz1Sbx1bBAdSyoMxbCafix5oXvVnKJk6CF12"
+    ],
+    "walletsOther": [],
+    "id": "cl125g0gp003209mkyf92yest",
+    "username": "PUBLIKFRUIT",
+    "createdAt": "2022-03-22T13:05:05.881Z"
+  }
+}

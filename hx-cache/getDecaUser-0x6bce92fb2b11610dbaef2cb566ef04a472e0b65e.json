@@ -1,0 +1,36 @@
+{
+  "modified": 1698264692500,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x6bce92fb2b11610dbaef2cb566ef04a472e0b65e",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x7b5af6790381f932abae790e8b0d0ff50e287f8e",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1TKzF9twugw7XAFwjJZrryemiw21dNrGPb",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0x330dc8f805326d1050d604664defa04b2ac30b2d",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x6bce92fb2b11610dbaef2cb566ef04a472e0b65e",
+      "0x7b5af6790381f932abae790e8b0d0ff50e287f8e",
+      "0x330dc8f805326d1050d604664defa04b2ac30b2d"
+    ],
+    "walletsTez": [
+      "tz1TKzF9twugw7XAFwjJZrryemiw21dNrGPb"
+    ],
+    "walletsOther": [],
+    "id": "cl3y9z166862209latcsj1ov3",
+    "username": "RegularDad",
+    "createdAt": "2022-06-03T09:59:54.030Z"
+  }
+}

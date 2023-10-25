@@ -1,0 +1,40 @@
+{
+  "modified": 1698265141729,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x2f1390ec03a03e57a1406bdef57c9cf487f62b78",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x138247544b52c60c5884ee2525887707b5410650",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xc4a843ddf533540474fddb7a9a03342348f6742b",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xd65f442fe455c687f010ca35124342c6ca0761d0",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xe7896a1724da8f616de8a0ecb0eaec8e552f4bc3",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x2f1390ec03a03e57a1406bdef57c9cf487f62b78",
+      "0x138247544b52c60c5884ee2525887707b5410650",
+      "0xc4a843ddf533540474fddb7a9a03342348f6742b",
+      "0xd65f442fe455c687f010ca35124342c6ca0761d0",
+      "0xe7896a1724da8f616de8a0ecb0eaec8e552f4bc3"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl6gw9dcg14130gme7r065e76",
+    "username": "ivxxeth",
+    "createdAt": "2022-08-05T20:03:03.760Z"
+  }
+}

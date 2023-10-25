@@ -1,0 +1,19 @@
+{
+  "modified": 1698262049240,
+  "value": {
+    "address": "0x5ae2e07c8d6f82e04a73b2cec3bda96727ef20f0",
+    "name": "Decal by Looooopable",
+    "owner": "0x70feeec90d37dc73d9ded8cfafd7ede3f697b70b",
+    "price": false,
+    "symbol": "DECAL",
+    "totalSupply": "100",
+    "transfersCount": 0,
+    "txsCount": 148,
+    "issuancesCount": 0,
+    "lastUpdated": 1698136106,
+    "holdersCount": 86,
+    "ethTransfersCount": 0,
+    "decimals": "0",
+    "countOps": 0
+  }
+}

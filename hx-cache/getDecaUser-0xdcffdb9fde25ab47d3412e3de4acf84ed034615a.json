@@ -1,0 +1,26 @@
+{
+  "modified": 1698264736529,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xdcffdb9fde25ab47d3412e3de4acf84ed034615a",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz2Fm2Ax1h2cAuFo996rptPW279HSzThdzSy",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0xdcffdb9fde25ab47d3412e3de4acf84ed034615a"
+    ],
+    "walletsTez": [
+      "tz2Fm2Ax1h2cAuFo996rptPW279HSzThdzSy"
+    ],
+    "walletsOther": [],
+    "id": "cl1v8ba2n001809l7po8bo0k0",
+    "username": "Benizm",
+    "createdAt": "2022-04-11T21:30:43.007Z"
+  }
+}

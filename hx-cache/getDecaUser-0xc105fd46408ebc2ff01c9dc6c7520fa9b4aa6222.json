@@ -1,0 +1,36 @@
+{
+  "modified": 1698265135690,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x764abe778aa96cd04972444a8e1db83df13f7e66",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz2NAzkxj8NnDEoxfNxS8CegdC4jRHz5AHWU",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0x878D47079b17F72cBFEea1f1C8B1c967bEF25a61",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xc105FD46408ebc2fF01C9dC6C7520fa9B4aA6222",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x764abe778aa96cd04972444a8e1db83df13f7e66",
+      "0x878D47079b17F72cBFEea1f1C8B1c967bEF25a61",
+      "0xc105FD46408ebc2fF01C9dC6C7520fa9B4aA6222"
+    ],
+    "walletsTez": [
+      "tz2NAzkxj8NnDEoxfNxS8CegdC4jRHz5AHWU"
+    ],
+    "walletsOther": [],
+    "id": "cky1yf066779409l0r6yyzawt",
+    "username": "rap",
+    "createdAt": "2022-01-05T19:49:14.526Z"
+  }
+}

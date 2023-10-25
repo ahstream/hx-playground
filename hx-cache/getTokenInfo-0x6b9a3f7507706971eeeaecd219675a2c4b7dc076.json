@@ -1,0 +1,19 @@
+{
+  "modified": 1698262052163,
+  "value": {
+    "address": "0x6b9a3f7507706971eeeaecd219675a2c4b7dc076",
+    "name": "Decal by postwook",
+    "owner": "0x70feeec90d37dc73d9ded8cfafd7ede3f697b70b",
+    "price": false,
+    "symbol": "DECAL",
+    "totalSupply": "100",
+    "transfersCount": 0,
+    "txsCount": 153,
+    "issuancesCount": 0,
+    "lastUpdated": 1697107335,
+    "holdersCount": 79,
+    "ethTransfersCount": 0,
+    "decimals": "0",
+    "countOps": 0
+  }
+}

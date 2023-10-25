@@ -1,0 +1,26 @@
+{
+  "modified": 1698264807363,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x5ed94c46a3df9f4fd81a657d2ad4c18ec6218cb8",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1hRnjfQaqrpih92m814ycSoaxwTp2Zh9M7",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0x5ed94c46a3df9f4fd81a657d2ad4c18ec6218cb8"
+    ],
+    "walletsTez": [
+      "tz1hRnjfQaqrpih92m814ycSoaxwTp2Zh9M7"
+    ],
+    "walletsOther": [],
+    "id": "cl3bd1doz019109jnlujjqvrr",
+    "username": "IIZZA",
+    "createdAt": "2022-05-18T09:07:00.371Z"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "modified": 1698265047892,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x584aa82e6ad7ca8861d20ad73ccb58e7d167eb6a",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x584aa82e6ad7ca8861d20ad73ccb58e7d167eb6a"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "claj6ksqo001imh08hzlpzqx1",
+    "username": "Moonbirdoddity",
+    "createdAt": "2022-11-16T05:06:14.774Z"
+  }
+}

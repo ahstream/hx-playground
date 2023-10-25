@@ -1,0 +1,20 @@
+{
+  "modified": 1698264952626,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x34bbf3b83f82342f16ac3c5d7d3256f9be9441bc",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x34bbf3b83f82342f16ac3c5d7d3256f9be9441bc"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3xewxfj1382908msrujih8i2",
+    "username": "isko",
+    "createdAt": "2022-06-02T19:30:27.775Z"
+  }
+}

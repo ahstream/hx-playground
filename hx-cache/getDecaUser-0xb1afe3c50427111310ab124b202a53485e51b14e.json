@@ -1,0 +1,20 @@
+{
+  "modified": 1698265228630,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xb1afe3c50427111310ab124b202a53485e51b14e",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xb1afe3c50427111310ab124b202a53485e51b14e"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl518rtyp753809mm1nk0o0rp",
+    "username": "Serpen",
+    "createdAt": "2022-06-30T16:29:19.345Z"
+  }
+}

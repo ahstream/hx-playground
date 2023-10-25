@@ -1,0 +1,20 @@
+{
+  "modified": 1698264494481,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xa76e4a70531edd1bbf03ef5b3ef2db15577fd9c3",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xa76e4a70531edd1bbf03ef5b3ef2db15577fd9c3"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl687e8dv018709jxgvxu3fwv",
+    "username": "Samka",
+    "createdAt": "2022-07-30T18:04:50.803Z"
+  }
+}

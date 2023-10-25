@@ -1,0 +1,20 @@
+{
+  "modified": 1698265231317,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xd47cb3e2f680fe4cf9891b977187da9e6ade9660",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xd47cb3e2f680fe4cf9891b977187da9e6ade9660"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl4pbq0ug086109l5ddbo4n49",
+    "username": "Umeshh",
+    "createdAt": "2022-06-22T08:18:39.688Z"
+  }
+}

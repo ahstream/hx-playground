@@ -1,0 +1,20 @@
+{
+  "modified": 1698264536701,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x3819660cb4d48b192b4973cb8323d6cb1404d930",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x3819660cb4d48b192b4973cb8323d6cb1404d930"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "ckyxrwnss014609l7dme3eznj",
+    "username": "TaraWorkman",
+    "createdAt": "2022-01-28T02:15:38.620Z"
+  }
+}

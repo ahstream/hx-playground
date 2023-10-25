@@ -1,0 +1,30 @@
+{
+  "modified": 1698264991718,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x971e207f8f63a5572ae74a92a48465585771db34",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xa631dcc3f8ba948ea7e611aa4487dfca2dd59881",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x9454d881fd346de3c54b77bcc21cdbc5b1f38a9d",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x971e207f8f63a5572ae74a92a48465585771db34",
+      "0xa631dcc3f8ba948ea7e611aa4487dfca2dd59881",
+      "0x9454d881fd346de3c54b77bcc21cdbc5b1f38a9d"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5ym3667316209l3zeflj4s9",
+    "username": "AlleyTac",
+    "createdAt": "2022-07-24T00:58:27.199Z"
+  }
+}

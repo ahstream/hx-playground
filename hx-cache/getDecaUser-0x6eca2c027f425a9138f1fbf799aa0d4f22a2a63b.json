@@ -1,0 +1,20 @@
+{
+  "modified": 1698264909673,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x6eca2c027f425a9138f1fbf799aa0d4f22a2a63b",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x6eca2c027f425a9138f1fbf799aa0d4f22a2a63b"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl59mnzfa559709jsj2zsk3ob",
+    "username": "keikokitahara1",
+    "createdAt": "2022-07-06T13:20:23.830Z"
+  }
+}
