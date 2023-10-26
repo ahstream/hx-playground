@@ -1,0 +1,36 @@
+{
+  "modified": 1698332513926,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x6f2148034c9615c0dc0d06589caf73d526d000e4",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x5bc05eb9ae6efea565438d88f02c80950ccd7040",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1fu7WmTqiWGBAZXqygUQ7yFUxuD5aLrVGa",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0x0E1B70c0cE9BfEc166550aA6795c8600eDE117B5",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x6f2148034c9615c0dc0d06589caf73d526d000e4",
+      "0x5bc05eb9ae6efea565438d88f02c80950ccd7040",
+      "0x0E1B70c0cE9BfEc166550aA6795c8600eDE117B5"
+    ],
+    "walletsTez": [
+      "tz1fu7WmTqiWGBAZXqygUQ7yFUxuD5aLrVGa"
+    ],
+    "walletsOther": [],
+    "id": "ckxhu2ojh036909mmtc0rw4nu",
+    "username": "Crypwillother",
+    "createdAt": "2021-12-22T17:52:17.597Z"
+  }
+}

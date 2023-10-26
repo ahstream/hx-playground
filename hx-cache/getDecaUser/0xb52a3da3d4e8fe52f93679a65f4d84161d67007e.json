@@ -1,0 +1,25 @@
+{
+  "modified": 1698332906439,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x260dc397ed840301d823f6cb0c28e99d35e6b14b",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xb52a3da3d4e8fe52f93679a65f4d84161d67007e",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x260dc397ed840301d823f6cb0c28e99d35e6b14b",
+      "0xb52a3da3d4e8fe52f93679a65f4d84161d67007e"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5d0jinp160409l7lzyfvysj",
+    "username": "TheNFTShark",
+    "createdAt": "2022-07-08T22:12:08.629Z"
+  }
+}

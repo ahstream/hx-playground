@@ -1,0 +1,20 @@
+{
+  "modified": 1698333843525,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xcb54a831f1f2a0fc19842a86df3ceba1be4bc67f",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xcb54a831f1f2a0fc19842a86df3ceba1be4bc67f"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl4ruqs0y430309mi7cmz9a7o",
+    "username": "rlmeme",
+    "createdAt": "2022-06-24T02:46:39.970Z"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "modified": 1698333883677,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x4eff5437fadc252cbeb982be65a97423a80b93d1",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x4eff5437fadc252cbeb982be65a97423a80b93d1"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl482v7cp331809mhsq8hz2uv",
+    "username": "ProofOD",
+    "createdAt": "2022-06-10T06:38:39.865Z"
+  }
+}

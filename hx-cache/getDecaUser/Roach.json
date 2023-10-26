@@ -1,0 +1,31 @@
+{
+  "modified": 1698334349773,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x8ab913a71a9f181c4dfd051a52a9ec91dce41855",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1LrrGSrfouU8n4G3HcyB8KQzukuLZpKoaY",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0x0002e98993f83FF61bad90294480335F2F6c4980",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x8ab913a71a9f181c4dfd051a52a9ec91dce41855",
+      "0x0002e98993f83FF61bad90294480335F2F6c4980"
+    ],
+    "walletsTez": [
+      "tz1LrrGSrfouU8n4G3HcyB8KQzukuLZpKoaY"
+    ],
+    "walletsOther": [],
+    "id": "cl3aw575z298209jqt857qeb6",
+    "username": "Roach",
+    "createdAt": "2022-05-18T01:14:05.063Z"
+  }
+}

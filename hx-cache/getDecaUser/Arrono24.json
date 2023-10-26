@@ -1,0 +1,20 @@
+{
+  "modified": 1698334409970,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x5464bf9a714051d05dae3b645417ca86c265af8a",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x5464bf9a714051d05dae3b645417ca86c265af8a"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl6ozm7if26030gmsg38ttbd1",
+    "username": "Arrono24",
+    "createdAt": "2022-08-11T11:59:10.983Z"
+  }
+}

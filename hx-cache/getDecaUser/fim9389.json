@@ -1,0 +1,20 @@
+{
+  "modified": 1698333952820,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x8157ef8e9e8d1cb862c9bff28bb86a1dad164bb4",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x8157ef8e9e8d1cb862c9bff28bb86a1dad164bb4"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl4tmtbfg718809mfqy3sdc8n",
+    "username": "fim9389",
+    "createdAt": "2022-06-25T08:40:13.852Z"
+  }
+}

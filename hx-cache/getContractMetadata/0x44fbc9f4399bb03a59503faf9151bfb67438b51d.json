@@ -1,0 +1,17 @@
+{
+  "modified": 1698351241085,
+  "value": {
+    "address": "0x44fbc9f4399bb03a59503faf9151bfb67438b51d",
+    "contractMetadata": {
+      "name": "Decal by Darkfarms",
+      "symbol": "DECAL",
+      "totalSupply": "100",
+      "tokenType": "ERC721",
+      "contractDeployer": "0x70feeec90d37dc73d9ded8cfafd7ede3f697b70b",
+      "deployedBlockNumber": 16850490,
+      "openSea": {
+        "lastIngestedAt": "2023-10-18T02:00:28.000Z"
+      }
+    }
+  }
+}

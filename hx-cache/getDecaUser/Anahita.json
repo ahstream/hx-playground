@@ -1,0 +1,26 @@
+{
+  "modified": 1698333977937,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "tz1Ncg1qr32sd6Bgk4x3y8TMCBaQVQ8rf244",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0xd2e4a1d1df9fb2baa2c8bcbf5dfdc16c01dac70c",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xd2e4a1d1df9fb2baa2c8bcbf5dfdc16c01dac70c"
+    ],
+    "walletsTez": [
+      "tz1Ncg1qr32sd6Bgk4x3y8TMCBaQVQ8rf244"
+    ],
+    "walletsOther": [],
+    "id": "clipxo6670batjs0gt1lq431q",
+    "username": "Anahita",
+    "createdAt": "2023-06-10T11:48:57.535Z"
+  }
+}

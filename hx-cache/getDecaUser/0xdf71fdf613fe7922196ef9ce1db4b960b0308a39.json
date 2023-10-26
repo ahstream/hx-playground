@@ -1,0 +1,20 @@
+{
+  "modified": 1698333271999,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xdf71fdf613fe7922196ef9ce1db4b960b0308a39",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xdf71fdf613fe7922196ef9ce1db4b960b0308a39"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3x7jq26090909jouik9tg3z",
+    "username": "Daphneexploring",
+    "createdAt": "2022-06-02T16:04:14.382Z"
+  }
+}

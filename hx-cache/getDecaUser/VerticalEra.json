@@ -1,0 +1,26 @@
+{
+  "modified": 1698334473119,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x261cd1771b6ff5dedd5c1e6a39a250c062a26836",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1ZwBJM5AVFAwRgFfkkwVvK3B6vMHCHMkxk",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0x261cd1771b6ff5dedd5c1e6a39a250c062a26836"
+    ],
+    "walletsTez": [
+      "tz1ZwBJM5AVFAwRgFfkkwVvK3B6vMHCHMkxk"
+    ],
+    "walletsOther": [],
+    "id": "cl5a1apzh066809l8gntc71v7",
+    "username": "VerticalEra",
+    "createdAt": "2022-07-06T20:09:59.309Z"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "modified": 1698333190251,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x50e8e455b2c9db89a5843ed175da060c3a1f1cac",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x50e8e455b2c9db89a5843ed175da060c3a1f1cac"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl4zxj3jd1154009jlpqeh9ujm",
+    "username": "visavis",
+    "createdAt": "2022-06-29T18:26:49.897Z"
+  }
+}

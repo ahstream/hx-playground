@@ -1,0 +1,20 @@
+{
+  "modified": 1698334138682,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x41c40533f83dc384ed6706b504aa96eb10ceec9a",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x41c40533f83dc384ed6706b504aa96eb10ceec9a"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5au9k9r103409liky3kdol3",
+    "username": "Mindersea",
+    "createdAt": "2022-07-07T09:40:54.111Z"
+  }
+}

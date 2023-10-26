@@ -1,0 +1,20 @@
+{
+  "modified": 1698333164232,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x0b0aac968fa73d8f1c26a673c14fe1cc3620bdfa",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x0b0aac968fa73d8f1c26a673c14fe1cc3620bdfa"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cla5relvs558408i8l15oumyq",
+    "username": "EkimovDeco",
+    "createdAt": "2022-11-06T19:40:31.432Z"
+  }
+}

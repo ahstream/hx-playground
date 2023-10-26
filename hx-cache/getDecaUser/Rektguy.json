@@ -1,0 +1,26 @@
+{
+  "modified": 1698334104250,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x26e29524885e260125e70a8f42aede1bf621ddf8",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz2SzQH2ibc9uL9XKKGAendbpUdyeAKANygc",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0x26e29524885e260125e70a8f42aede1bf621ddf8"
+    ],
+    "walletsTez": [
+      "tz2SzQH2ibc9uL9XKKGAendbpUdyeAKANygc"
+    ],
+    "walletsOther": [],
+    "id": "cl3www6x0087309l7wqbwf31m",
+    "username": "Rektguy",
+    "createdAt": "2022-06-02T11:06:00.324Z"
+  }
+}

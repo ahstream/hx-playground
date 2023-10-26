@@ -1,0 +1,26 @@
+{
+  "modified": 1698333866384,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x40d754097a3fd22adffa72d9936c2d82865f535f",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1XqwxgM4MKaKyBhQTmtqJpeke2hkSPqdL7",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0x40d754097a3fd22adffa72d9936c2d82865f535f"
+    ],
+    "walletsTez": [
+      "tz1XqwxgM4MKaKyBhQTmtqJpeke2hkSPqdL7"
+    ],
+    "walletsOther": [],
+    "id": "cl678a4t0805709l2gkxgbhw6",
+    "username": "Muzoo",
+    "createdAt": "2022-07-30T01:41:52.980Z"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "modified": 1698334326941,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x41290f3a93ff14146c8ac1ec115be12409fc60d3",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x41290f3a93ff14146c8ac1ec115be12409fc60d3"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5z0km4b052309mjjlidw3ui",
+    "username": "hisir",
+    "createdAt": "2022-07-24T07:43:55.643Z"
+  }
+}

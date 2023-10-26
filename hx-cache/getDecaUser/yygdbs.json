@@ -1,0 +1,20 @@
+{
+  "modified": 1698334337319,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x12b91299efa980de76780f81f3418b6582ac28ba",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x12b91299efa980de76780f81f3418b6582ac28ba"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl708w95n799709l8nilupew4",
+    "username": "yygdbs",
+    "createdAt": "2022-08-19T09:04:24.155Z"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "modified": 1698351242233,
+  "value": {
+    "address": "0x10ba77fcad27436a26a173c641fce391a70586e9",
+    "contractMetadata": {
+      "name": "Decal by Keiko Kitahara",
+      "symbol": "DECAL",
+      "totalSupply": "100",
+      "tokenType": "ERC721",
+      "contractDeployer": "0x70feeec90d37dc73d9ded8cfafd7ede3f697b70b",
+      "deployedBlockNumber": 16532226,
+      "openSea": {
+        "floorPrice": 0.044,
+        "collectionName": "Decal by Keiko Kitahara",
+        "collectionSlug": "decal-by-keiko-kitahara",
+        "safelistRequestStatus": "not_requested",
+        "imageUrl": "https://i.seadn.io/gcs/files/1be0a8d6e23216ecd06db39bb16e21e7.png?w=500&auto=format",
+        "description": "An interpretation of the Decal by Keiko Kitahara. A symbol of permissionless creativity. Series Thirteen.",
+        "externalUrl": "https://deca.art/decal",
+        "bannerImageUrl": "https://i.seadn.io/gcs/files/d67ac4692a914ab187763f7b4c3949f2.png?w=500&auto=format",
+        "lastIngestedAt": "2023-10-18T12:06:28.000Z"
+      }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "modified": 1698334012550,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x3f38fd15b1ac453410d8d55e0ec6696e70be93a1",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x3f38fd15b1ac453410d8d55e0ec6696e70be93a1"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl6nob4x021820gl9xbo6jj1g",
+    "username": "OSKORBLUE",
+    "createdAt": "2022-08-10T13:54:52.452Z"
+  }
+}

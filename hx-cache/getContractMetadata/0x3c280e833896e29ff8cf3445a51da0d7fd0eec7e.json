@@ -1,0 +1,25 @@
+{
+  "modified": 1698351246923,
+  "value": {
+    "address": "0x3c280e833896e29ff8cf3445a51da0d7fd0eec7e",
+    "contractMetadata": {
+      "name": "Decal by Kjetil Golid",
+      "symbol": "DECAL",
+      "totalSupply": "100",
+      "tokenType": "ERC721",
+      "contractDeployer": "0x70feeec90d37dc73d9ded8cfafd7ede3f697b70b",
+      "deployedBlockNumber": 15322709,
+      "openSea": {
+        "floorPrice": 0.5,
+        "collectionName": "Decal by Kjetil Golid",
+        "collectionSlug": "deca-decal",
+        "safelistRequestStatus": "not_requested",
+        "imageUrl": "https://i.seadn.io/gcs/files/b48374bacb6d2f2a68a97508e13a776a.jpg?w=500&auto=format",
+        "description": "An interpretation of the Decal by Kjetil Golid. A symbol of permissionless creativity. Series One.",
+        "externalUrl": "https://deca.art/decal",
+        "bannerImageUrl": "https://i.seadn.io/gcs/files/7c3e3ce59114856effeccf31eec88bf2.png?w=500&auto=format",
+        "lastIngestedAt": "2023-10-20T06:37:26.000Z"
+      }
+    }
+  }
+}

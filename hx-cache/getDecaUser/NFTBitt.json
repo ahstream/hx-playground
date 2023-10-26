@@ -1,0 +1,20 @@
+{
+  "modified": 1698333954593,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xf23f400b34db7a7c20ae07b6a20496c615414256",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xf23f400b34db7a7c20ae07b6a20496c615414256"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3s3boae101909js1yzyiuwy",
+    "username": "NFTBitt",
+    "createdAt": "2022-05-30T02:07:09.494Z"
+  }
+}

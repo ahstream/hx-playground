@@ -1,0 +1,20 @@
+{
+  "modified": 1698334444228,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x7075f3b9c1c9fb099d000ebb7676b1a972c2348e",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x7075f3b9c1c9fb099d000ebb7676b1a972c2348e"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl6opsrso24490glaofq7oz1i",
+    "username": "hit0ri",
+    "createdAt": "2022-08-11T07:24:21.048Z"
+  }
+}

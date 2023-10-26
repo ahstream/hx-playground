@@ -1,0 +1,20 @@
+{
+  "modified": 1698332628958,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x304784a01257e77f17026fae0260ab3bdd1a1fba",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x304784a01257e77f17026fae0260ab3bdd1a1fba"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3av5it9030609mo2cnip9lr",
+    "username": "srwilcox7",
+    "createdAt": "2022-05-18T00:46:20.541Z"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "modified": 1698332568298,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x3d446c9528f5dec1848dbe4cc6d4fd2c432b336c",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x3d446c9528f5dec1848dbe4cc6d4fd2c432b336c"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3v2osvb044809l9ejfp50et",
+    "username": "GJMJKAORU",
+    "createdAt": "2022-06-01T04:12:40.871Z"
+  }
+}

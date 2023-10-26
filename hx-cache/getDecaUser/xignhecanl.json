@@ -1,0 +1,20 @@
+{
+  "modified": 1698333926131,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x0e1681be17791ed6f5cdd06228395b7cccad6538",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x0e1681be17791ed6f5cdd06228395b7cccad6538"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl6gkgul1480309l4xonqtd95",
+    "username": "xignhecanl",
+    "createdAt": "2022-08-05T14:32:57.301Z"
+  }
+}

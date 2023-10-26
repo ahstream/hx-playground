@@ -1,0 +1,20 @@
+{
+  "modified": 1698334158145,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xf532092ff530166bf612618f3ed190a87f47834a",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xf532092ff530166bf612618f3ed190a87f47834a"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl49603df376109lcztuay2yo",
+    "username": "Blockchainbull",
+    "createdAt": "2022-06-11T00:54:13.011Z"
+  }
+}

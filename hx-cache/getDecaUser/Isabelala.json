@@ -1,0 +1,20 @@
+{
+  "modified": 1698334091172,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x9070dc544131f82031398a6286ca2b4ea2724c72",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x9070dc544131f82031398a6286ca2b4ea2724c72"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl59cxf4u334909mgdj715fsf",
+    "username": "Isabelala",
+    "createdAt": "2022-07-06T08:47:47.934Z"
+  }
+}

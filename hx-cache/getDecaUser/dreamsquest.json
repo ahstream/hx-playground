@@ -1,0 +1,20 @@
+{
+  "modified": 1698333960420,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xe15f010961efbb8bebef340029782da1cbda8c0c",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xe15f010961efbb8bebef340029782da1cbda8c0c"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3dtzoyc060006lebn09putk",
+    "username": "dreamsquest",
+    "createdAt": "2022-05-20T02:37:07.476Z"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "modified": 1698333933214,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x18bfe0c1b04e9456a6f36353b0d8eaa28b7131e3",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x18bfe0c1b04e9456a6f36353b0d8eaa28b7131e3"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl4tnbfnq179409miyrxcxeyh",
+    "username": "hilbertgiionised",
+    "createdAt": "2022-06-25T08:54:19.142Z"
+  }
+}

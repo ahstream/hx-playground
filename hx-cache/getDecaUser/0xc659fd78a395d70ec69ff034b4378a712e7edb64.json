@@ -1,0 +1,36 @@
+{
+  "modified": 1698332854378,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xc659fd78a395d70ec69ff034b4378a712e7edb64",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1ZjRqWghjKJuTgaCJTDn22E87hZUbfE2tu",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0x655208b928eba40186d63f6ebe7c7ff56f86bba4",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x64279399867055e7d3bb25bd8b3a4bbdf49f1d2d",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xc659fd78a395d70ec69ff034b4378a712e7edb64",
+      "0x655208b928eba40186d63f6ebe7c7ff56f86bba4",
+      "0x64279399867055e7d3bb25bd8b3a4bbdf49f1d2d"
+    ],
+    "walletsTez": [
+      "tz1ZjRqWghjKJuTgaCJTDn22E87hZUbfE2tu"
+    ],
+    "walletsOther": [],
+    "id": "cl3uihuiy478609mzqep9cflb",
+    "username": "thatbloom",
+    "createdAt": "2022-05-31T18:47:24.106Z"
+  }
+}

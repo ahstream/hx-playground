@@ -1,0 +1,30 @@
+{
+  "modified": 1698332868653,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x40b813b21b8a38501a309316bffd17aa4584388a",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x48edb8eaf14a2716d427c0cc8ec2fb0d07405502",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x6b855bfa826205ab3bdda590e2ed71b3df0a2c8b",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x40b813b21b8a38501a309316bffd17aa4584388a",
+      "0x48edb8eaf14a2716d427c0cc8ec2fb0d07405502",
+      "0x6b855bfa826205ab3bdda590e2ed71b3df0a2c8b"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3gjft8g008409l7f44jz7qq",
+    "username": "Baos",
+    "createdAt": "2022-05-22T00:05:02.272Z"
+  }
+}

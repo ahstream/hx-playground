@@ -1,0 +1,20 @@
+{
+  "modified": 1698334376773,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x7203911ed6639a55b1aad8ff24b13bcb18592d82",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x7203911ed6639a55b1aad8ff24b13bcb18592d82"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl6fnnfna109009l3bjdligoe",
+    "username": "Elcarter15",
+    "createdAt": "2022-08-04T23:14:17.206Z"
+  }
+}

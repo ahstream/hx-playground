@@ -1,0 +1,41 @@
+{
+  "modified": 1698333010065,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x2c0e519cc4d8af8046f26c0498a6942ed0aab53e",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xec4133064ca105406d560865a1cf8080b97b6f3f",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1TyZcDgy9YE5UfooAGCD5KuumWFqxAcRQK",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0x24a082b65f5c6327691d3c3215a52f9a06dd7fd2",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x8080f782578b3e3c0c781002e55df3e217fa9e70",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x2c0e519cc4d8af8046f26c0498a6942ed0aab53e",
+      "0xec4133064ca105406d560865a1cf8080b97b6f3f",
+      "0x24a082b65f5c6327691d3c3215a52f9a06dd7fd2",
+      "0x8080f782578b3e3c0c781002e55df3e217fa9e70"
+    ],
+    "walletsTez": [
+      "tz1TyZcDgy9YE5UfooAGCD5KuumWFqxAcRQK"
+    ],
+    "walletsOther": [],
+    "id": "cl3uw77lu247009l8epdqef1c",
+    "username": "shoshin",
+    "createdAt": "2022-06-01T01:11:02.466Z"
+  }
+}

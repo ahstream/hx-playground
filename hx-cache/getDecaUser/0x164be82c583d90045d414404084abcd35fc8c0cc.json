@@ -1,0 +1,20 @@
+{
+  "modified": 1698332486763,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x164be82c583d90045d414404084abcd35fc8c0cc",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x164be82c583d90045d414404084abcd35fc8c0cc"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl40225fz418009mbkbghprzf",
+    "username": "Aleddin",
+    "createdAt": "2022-06-04T15:53:54.959Z"
+  }
+}

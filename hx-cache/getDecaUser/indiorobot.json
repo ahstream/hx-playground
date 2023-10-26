@@ -1,0 +1,31 @@
+{
+  "modified": 1698334050756,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xb796f2847b022c91bf80cdab05c3f0c0c948963c",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1cVZ1ADbF9XimXYh9bSb7gexzSv8qwBqj7",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "tz1RcqdZ9WKn767aqvVbEQTwKQUbRz1n9q73",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0xb796f2847b022c91bf80cdab05c3f0c0c948963c"
+    ],
+    "walletsTez": [
+      "tz1cVZ1ADbF9XimXYh9bSb7gexzSv8qwBqj7",
+      "tz1RcqdZ9WKn767aqvVbEQTwKQUbRz1n9q73"
+    ],
+    "walletsOther": [],
+    "id": "cl3untksf063306md5ro4krn8",
+    "username": "indiorobot",
+    "createdAt": "2022-05-31T21:16:29.439Z"
+  }
+}

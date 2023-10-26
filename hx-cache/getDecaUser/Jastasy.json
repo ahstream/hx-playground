@@ -1,0 +1,20 @@
+{
+  "modified": 1698334093664,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x73b8b3e78beaacdbf4018a2acd22d0ee663acc01",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x73b8b3e78beaacdbf4018a2acd22d0ee663acc01"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl4u77prs217209jp1x4mgylw",
+    "username": "Jastasy",
+    "createdAt": "2022-06-25T18:11:17.944Z"
+  }
+}

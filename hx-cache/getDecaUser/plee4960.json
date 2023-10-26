@@ -1,0 +1,20 @@
+{
+  "modified": 1698333934683,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x45326737df6f1e9accc63ba23df3f47da4a01034",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x45326737df6f1e9accc63ba23df3f47da4a01034"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl4tnaw9z822209jynyf881ho",
+    "username": "plee4960",
+    "createdAt": "2022-06-25T08:53:54.023Z"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "modified": 1698333850341,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x0ff14dad100343a01cb7599aa7485c4892378e74",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1e49f9DTcSsiNg3hxKnBUTod6FpJwFhzh3",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0x0ff14dad100343a01cb7599aa7485c4892378e74"
+    ],
+    "walletsTez": [
+      "tz1e49f9DTcSsiNg3hxKnBUTod6FpJwFhzh3"
+    ],
+    "walletsOther": [],
+    "id": "cl4vfyyjh003009ll03a9u3w7",
+    "username": "TheFoodMaster",
+    "createdAt": "2022-06-26T15:04:12.125Z"
+  }
+}

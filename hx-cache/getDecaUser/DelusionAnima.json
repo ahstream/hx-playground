@@ -1,0 +1,36 @@
+{
+  "modified": 1698334280345,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x36291c3bc9d09156970daf0a0a205eda9d82ffa0",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x3383a9514a666b9755705c76ababf5c919c43bfe",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1TsPdYFTQUf7oiAtkSu9MhuAvfVP6txXnS",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0x27326aa24b1cb2b59c0e590c72b1cf8b0996ea7a",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x36291c3bc9d09156970daf0a0a205eda9d82ffa0",
+      "0x3383a9514a666b9755705c76ababf5c919c43bfe",
+      "0x27326aa24b1cb2b59c0e590c72b1cf8b0996ea7a"
+    ],
+    "walletsTez": [
+      "tz1TsPdYFTQUf7oiAtkSu9MhuAvfVP6txXnS"
+    ],
+    "walletsOther": [],
+    "id": "cl4rtr4ey513609mmec7niw4m",
+    "username": "DelusionAnima",
+    "createdAt": "2022-06-24T02:18:56.410Z"
+  }
+}

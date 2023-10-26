@@ -1,0 +1,20 @@
+{
+  "modified": 1698333236400,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x1a730a4a024609b180aaa1d6104a6c9c5daead28",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x1a730a4a024609b180aaa1d6104a6c9c5daead28"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl75mtycm007109mpfyvkl2xq",
+    "username": "SJ3333",
+    "createdAt": "2022-08-23T03:33:22.342Z"
+  }
+}

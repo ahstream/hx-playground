@@ -1,0 +1,20 @@
+{
+  "modified": 1698333171557,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x7d35ec6a301d107fc4a35b2d103d7abb54af09e9",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x7d35ec6a301d107fc4a35b2d103d7abb54af09e9"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl93ycm8o609709l6zbio27o7",
+    "username": "oBalyo",
+    "createdAt": "2022-10-11T08:39:41.208Z"
+  }
+}

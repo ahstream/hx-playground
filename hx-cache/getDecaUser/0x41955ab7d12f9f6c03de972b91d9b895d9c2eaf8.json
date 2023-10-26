@@ -1,0 +1,20 @@
+{
+  "modified": 1698332569741,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x41955ab7d12f9f6c03de972b91d9b895d9c2eaf8",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x41955ab7d12f9f6c03de972b91d9b895d9c2eaf8"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3e5ob6m190109l3rj9ds05m",
+    "username": "hkmri",
+    "createdAt": "2022-05-20T08:04:11.806Z"
+  }
+}

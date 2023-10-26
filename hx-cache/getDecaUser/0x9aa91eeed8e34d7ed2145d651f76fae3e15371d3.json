@@ -1,0 +1,31 @@
+{
+  "modified": 1698332526482,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x9aa91eeed8e34d7ed2145d651f76fae3e15371d3",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1UQmDjEJb4RY4S9RZPkte5tZe6aupxX6pu",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0x406a3399c50adcd50d62b925fc16f84dd91439a0",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x9aa91eeed8e34d7ed2145d651f76fae3e15371d3",
+      "0x406a3399c50adcd50d62b925fc16f84dd91439a0"
+    ],
+    "walletsTez": [
+      "tz1UQmDjEJb4RY4S9RZPkte5tZe6aupxX6pu"
+    ],
+    "walletsOther": [],
+    "id": "cl1uxe2bn001809l1j7njztht",
+    "username": "skife",
+    "createdAt": "2022-04-11T16:24:57.155Z"
+  }
+}

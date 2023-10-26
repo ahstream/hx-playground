@@ -1,0 +1,25 @@
+{
+  "modified": 1698351239632,
+  "value": {
+    "address": "0x2500ce981d244bec6d713b822d5d653efdb36159",
+    "contractMetadata": {
+      "name": "Decal by Three Panel Crimes",
+      "symbol": "DECAL",
+      "totalSupply": "100",
+      "tokenType": "ERC721",
+      "contractDeployer": "0x70feeec90d37dc73d9ded8cfafd7ede3f697b70b",
+      "deployedBlockNumber": 17099776,
+      "openSea": {
+        "floorPrice": 0.041,
+        "collectionName": "Decal by Three Panel Crimes",
+        "collectionSlug": "decal-by-three-panel-crimes",
+        "safelistRequestStatus": "not_requested",
+        "imageUrl": "https://i.seadn.io/gcs/files/c11284bd2afbd945fbab3da30906417f.png?w=500&auto=format",
+        "description": "An interpretation of the Decal by Three Panel Crimes. A symbol of permissionless creativity. Series Eighteen.",
+        "externalUrl": "https://deca.art/decal",
+        "bannerImageUrl": "https://i.seadn.io/gcs/files/b61db0fd0414176cb72250bab7ce74ea.png?w=500&auto=format",
+        "lastIngestedAt": "2023-10-23T23:21:25.000Z"
+      }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "modified": 1698333867196,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x69a815c7bdd69f86a93a60260885e7bbe6f85a79",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x69a815c7bdd69f86a93a60260885e7bbe6f85a79"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5vtug89087009l6jyhu2pu4",
+    "username": "TeddyBey",
+    "createdAt": "2022-07-22T02:12:18.729Z"
+  }
+}

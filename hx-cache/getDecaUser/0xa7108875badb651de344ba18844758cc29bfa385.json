@@ -1,0 +1,41 @@
+{
+  "modified": 1698332804674,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xa7108875badb651de344ba18844758cc29bfa385",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xdb3ec7b16fd60fb4fdb58a438bd8af57d8d3a91c",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x35d985009482eb0ef4985c7d8ddc05e7b4611f7a",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1QPcKGqd8hTH3pgxNwvf1skjTJH49SWEwn",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0x87bb0808eaf09d697905d1ef2333468e7c585a49",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xa7108875badb651de344ba18844758cc29bfa385",
+      "0xdb3ec7b16fd60fb4fdb58a438bd8af57d8d3a91c",
+      "0x35d985009482eb0ef4985c7d8ddc05e7b4611f7a",
+      "0x87bb0808eaf09d697905d1ef2333468e7c585a49"
+    ],
+    "walletsTez": [
+      "tz1QPcKGqd8hTH3pgxNwvf1skjTJH49SWEwn"
+    ],
+    "walletsOther": [],
+    "id": "cl3b50cqy059009lcoe9zwnco",
+    "username": "agrimony",
+    "createdAt": "2022-05-18T05:22:15.562Z"
+  }
+}

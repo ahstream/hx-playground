@@ -1,0 +1,20 @@
+{
+  "modified": 1698334165961,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x732fa8e2aad0fdb305cd78cec3a9284b3a6fde4e",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x732fa8e2aad0fdb305cd78cec3a9284b3a6fde4e"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5b32l7m085209l0yu20rw7c",
+    "username": "cbameme",
+    "createdAt": "2022-07-07T13:47:25.282Z"
+  }
+}

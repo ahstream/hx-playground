@@ -1,0 +1,20 @@
+{
+  "modified": 1698333932470,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x56640ba14fb770f1ed151886ac7bb6adaa96955c",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x56640ba14fb770f1ed151886ac7bb6adaa96955c"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3d0c6n8008809l8ptaqp7vp",
+    "username": "Raysonic",
+    "createdAt": "2022-05-19T12:47:01.796Z"
+  }
+}

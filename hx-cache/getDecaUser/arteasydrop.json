@@ -1,0 +1,20 @@
+{
+  "modified": 1698333852219,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xfdc79905818aa8e0ff637c2627c98b1e8b5a54b5",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xfdc79905818aa8e0ff637c2627c98b1e8b5a54b5"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3vnx29z055309l4rocq6nrb",
+    "username": "arteasydrop",
+    "createdAt": "2022-06-01T14:06:58.247Z"
+  }
+}

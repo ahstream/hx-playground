@@ -1,0 +1,20 @@
+{
+  "modified": 1698334228034,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x2d2397894e114b5c054673cceaa98b20d5d79521",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x2d2397894e114b5c054673cceaa98b20d5d79521"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cky6m1o6t078709mmn96od0zo",
+    "username": "ccjapan",
+    "createdAt": "2022-01-09T02:01:47.957Z"
+  }
+}

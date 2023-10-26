@@ -1,0 +1,20 @@
+{
+  "modified": 1698334374321,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xd808c0d8ea30b9b790246e90e0ab14669335cea7",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xd808c0d8ea30b9b790246e90e0ab14669335cea7"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl4vy2ldn157609lfrrsn0a45",
+    "username": "CloneX1709",
+    "createdAt": "2022-06-26T23:30:54.779Z"
+  }
+}

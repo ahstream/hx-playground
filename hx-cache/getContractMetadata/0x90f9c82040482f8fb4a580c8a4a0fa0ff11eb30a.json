@@ -1,0 +1,25 @@
+{
+  "modified": 1698351240365,
+  "value": {
+    "address": "0x90f9c82040482f8fb4a580c8a4a0fa0ff11eb30a",
+    "contractMetadata": {
+      "name": "Decal by Studio Yorktown",
+      "symbol": "DECAL",
+      "totalSupply": "100",
+      "tokenType": "ERC721",
+      "contractDeployer": "0x70feeec90d37dc73d9ded8cfafd7ede3f697b70b",
+      "deployedBlockNumber": 17269907,
+      "openSea": {
+        "floorPrice": 0.048,
+        "collectionName": "Decal by Studio Yorktown",
+        "collectionSlug": "decal-by-studioyorktown",
+        "safelistRequestStatus": "not_requested",
+        "imageUrl": "https://i.seadn.io/gcs/files/c61359cbc2b19fed8d2f4c6ef9596f75.png?w=500&auto=format",
+        "description": "An interpretation of the Decal by Studio Yorktown. A symbol of permissionless creativity. Series Twenty.",
+        "externalUrl": "https://deca.art/decal",
+        "bannerImageUrl": "https://i.seadn.io/gcs/files/14ddad7fbd7525aa5daebf644759b9f1.png?w=500&auto=format",
+        "lastIngestedAt": "2023-10-17T11:48:51.000Z"
+      }
+    }
+  }
+}

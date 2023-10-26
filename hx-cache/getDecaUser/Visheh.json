@@ -1,0 +1,26 @@
+{
+  "modified": 1698334227284,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "tz1UxsjGqhc2TG3Yc9nRt7upv3sr53bwWbWz",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0xa9b21f07bd651f1905bf581287743a4bbe4974db",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xa9b21f07bd651f1905bf581287743a4bbe4974db"
+    ],
+    "walletsTez": [
+      "tz1UxsjGqhc2TG3Yc9nRt7upv3sr53bwWbWz"
+    ],
+    "walletsOther": [],
+    "id": "cl4dw60y8186309lchx98wkho",
+    "username": "Visheh",
+    "createdAt": "2022-06-14T08:17:44.528Z"
+  }
+}

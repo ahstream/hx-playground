@@ -1,0 +1,20 @@
+{
+  "modified": 1698334116941,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x54797e2a2d085ab4b0cf4eb2504d41ef4f790c29",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x54797e2a2d085ab4b0cf4eb2504d41ef4f790c29"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5aubmel086909ju9mdun5qz",
+    "username": "pinksweeth",
+    "createdAt": "2022-07-07T09:42:30.189Z"
+  }
+}

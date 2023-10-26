@@ -1,0 +1,25 @@
+{
+  "modified": 1698333920262,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x41dd1c6338e5b3cdf9dc69e20dad9834ae36a6d3",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xf603203b2fae1dbfaecec6c905a45b58352b8568",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x41dd1c6338e5b3cdf9dc69e20dad9834ae36a6d3",
+      "0xf603203b2fae1dbfaecec6c905a45b58352b8568"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3b2uy2t037409idkmdhvg90",
+    "username": "Aventurine",
+    "createdAt": "2022-05-18T04:22:04.037Z"
+  }
+}

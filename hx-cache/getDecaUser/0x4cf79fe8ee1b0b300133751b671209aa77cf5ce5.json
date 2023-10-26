@@ -1,0 +1,20 @@
+{
+  "modified": 1698332989102,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x4cf79fe8ee1b0b300133751b671209aa77cf5ce5",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x4cf79fe8ee1b0b300133751b671209aa77cf5ce5"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl604or80020409jw8a92nmns",
+    "username": "Mamanazam1",
+    "createdAt": "2022-07-25T02:26:53.520Z"
+  }
+}

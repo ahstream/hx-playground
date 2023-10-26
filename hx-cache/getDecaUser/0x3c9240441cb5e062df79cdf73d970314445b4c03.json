@@ -1,0 +1,26 @@
+{
+  "modified": 1698332864187,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x3c9240441cb5e062df79cdf73d970314445b4c03",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1c7zSkZF4rJg6xtjhVJ49WQYFpRpGxWkJV",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0x3c9240441cb5e062df79cdf73d970314445b4c03"
+    ],
+    "walletsTez": [
+      "tz1c7zSkZF4rJg6xtjhVJ49WQYFpRpGxWkJV"
+    ],
+    "walletsOther": [],
+    "id": "cl2xm82b8070309l3iwg17xp3",
+    "username": "lemonde2d",
+    "createdAt": "2022-05-08T18:15:22.292Z"
+  }
+}

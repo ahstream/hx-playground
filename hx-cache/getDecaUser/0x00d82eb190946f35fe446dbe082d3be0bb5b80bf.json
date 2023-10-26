@@ -1,0 +1,31 @@
+{
+  "modified": 1698333089154,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x13c942e3f8be4faf966ef03e6038b33d000db22f",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x00d82eb190946f35fe446dbe082d3be0bb5b80bf",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1PKsMAgLCwFePCAVUohdkxd6EHoC27RKb5",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0x13c942e3f8be4faf966ef03e6038b33d000db22f",
+      "0x00d82eb190946f35fe446dbe082d3be0bb5b80bf"
+    ],
+    "walletsTez": [
+      "tz1PKsMAgLCwFePCAVUohdkxd6EHoC27RKb5"
+    ],
+    "walletsOther": [],
+    "id": "cl6edpsvn1370809lcaqm26mck",
+    "username": "mysteriosvision",
+    "createdAt": "2022-08-04T01:48:25.331Z"
+  }
+}

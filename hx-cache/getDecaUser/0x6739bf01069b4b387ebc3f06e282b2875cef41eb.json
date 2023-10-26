@@ -1,0 +1,20 @@
+{
+  "modified": 1698332576971,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x6739bf01069b4b387ebc3f06e282b2875cef41eb",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x6739bf01069b4b387ebc3f06e282b2875cef41eb"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl6z0ye5x108009ldduvs01xz",
+    "username": "CryptNaAb",
+    "createdAt": "2022-08-18T12:34:20.853Z"
+  }
+}

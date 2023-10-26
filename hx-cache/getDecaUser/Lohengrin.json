@@ -1,0 +1,26 @@
+{
+  "modified": 1698333912601,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xd005882681e95ac5a1bde711ca03d3efed54067f",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1ZNzzzBK9my5WkXYa9zTft9UVbLFYJwPw9",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0xd005882681e95ac5a1bde711ca03d3efed54067f"
+    ],
+    "walletsTez": [
+      "tz1ZNzzzBK9my5WkXYa9zTft9UVbLFYJwPw9"
+    ],
+    "walletsOther": [],
+    "id": "cl62lx0lr779709jyetyj3p2f",
+    "username": "Lohengrin",
+    "createdAt": "2022-07-26T20:04:44.751Z"
+  }
+}

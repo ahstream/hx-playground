@@ -1,0 +1,26 @@
+{
+  "modified": 1698333989362,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xdaee345f7b197d453a3f68a0369922b66ad21092",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1dxWtiLnEdSEye9TLogogeNiwj36JgWh61",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0xdaee345f7b197d453a3f68a0369922b66ad21092"
+    ],
+    "walletsTez": [
+      "tz1dxWtiLnEdSEye9TLogogeNiwj36JgWh61"
+    ],
+    "walletsOther": [],
+    "id": "cl54e18af1423709lfr9ajiwn6",
+    "username": "Apolloart",
+    "createdAt": "2022-07-02T21:19:54.423Z"
+  }
+}

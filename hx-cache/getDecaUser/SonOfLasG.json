@@ -1,0 +1,46 @@
+{
+  "modified": 1698334248643,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xbe957a475844c127ddd207b4ff1f63900fd13e57",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1QwTj3kHXTDnfY2gJijB9JmgbyFoDNgUEz",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0x5aef520c91c9c2d24d05afb8ff9edfc4dc2819de",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x9832a8dd9a38b27c12a564e2362c581cb5f5bd2b",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x118d6f5d61a9d881d452510f29c703abe9d80cdc",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1aSgFHRPKh4X58uYjGxS4SPkN2S71Doe4v",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0xbe957a475844c127ddd207b4ff1f63900fd13e57",
+      "0x5aef520c91c9c2d24d05afb8ff9edfc4dc2819de",
+      "0x9832a8dd9a38b27c12a564e2362c581cb5f5bd2b",
+      "0x118d6f5d61a9d881d452510f29c703abe9d80cdc"
+    ],
+    "walletsTez": [
+      "tz1QwTj3kHXTDnfY2gJijB9JmgbyFoDNgUEz",
+      "tz1aSgFHRPKh4X58uYjGxS4SPkN2S71Doe4v"
+    ],
+    "walletsOther": [],
+    "id": "cl3aw21w3396709jvhx5mer1i",
+    "username": "SonOfLasG",
+    "createdAt": "2022-05-18T01:11:38.259Z"
+  }
+}

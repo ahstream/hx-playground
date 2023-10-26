@@ -1,0 +1,31 @@
+{
+  "modified": 1698333899429,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x46c9ccc6857e33a8209706bb5043700b4608dda8",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1aBK9rkzuac7NyNxro3XtQ9smue3gfdKBV",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0xf1889d8a5bfaef7a130aa3fc17036c9f22718acb",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x46c9ccc6857e33a8209706bb5043700b4608dda8",
+      "0xf1889d8a5bfaef7a130aa3fc17036c9f22718acb"
+    ],
+    "walletsTez": [
+      "tz1aBK9rkzuac7NyNxro3XtQ9smue3gfdKBV"
+    ],
+    "walletsOther": [],
+    "id": "cl1qhh6zi001809l3yv8vvmqm",
+    "username": "Sermad",
+    "createdAt": "2022-04-08T13:48:24.606Z"
+  }
+}

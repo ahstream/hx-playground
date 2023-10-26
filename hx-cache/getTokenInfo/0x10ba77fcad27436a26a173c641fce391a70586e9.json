@@ -1,0 +1,19 @@
+{
+  "modified": 1698332471586,
+  "value": {
+    "address": "0x10ba77fcad27436a26a173c641fce391a70586e9",
+    "name": "Decal by Keiko Kitahara",
+    "owner": "0x70feeec90d37dc73d9ded8cfafd7ede3f697b70b",
+    "symbol": "DECAL",
+    "totalSupply": "100",
+    "transfersCount": 0,
+    "txsCount": 181,
+    "issuancesCount": 0,
+    "lastUpdated": 1697437960,
+    "price": false,
+    "holdersCount": 75,
+    "ethTransfersCount": 0,
+    "decimals": "0",
+    "countOps": 0
+  }
+}

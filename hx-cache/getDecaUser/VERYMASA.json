@@ -1,0 +1,20 @@
+{
+  "modified": 1698333862438,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x376e451f04863508a7dce0b993354520e9acee71",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x376e451f04863508a7dce0b993354520e9acee71"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3y9xn5h700209l7qltts58n",
+    "username": "VERYMASA",
+    "createdAt": "2022-06-03T09:58:49.205Z"
+  }
+}

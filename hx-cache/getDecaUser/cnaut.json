@@ -1,0 +1,20 @@
+{
+  "modified": 1698333900929,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x2d3fe453caaa7cd2c5475a50b06630dd75f67377",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x2d3fe453caaa7cd2c5475a50b06630dd75f67377"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "ckuhphuza007608laph1uwn3q",
+    "username": "cnaut",
+    "createdAt": "2021-11-13T04:59:47.612Z"
+  }
+}

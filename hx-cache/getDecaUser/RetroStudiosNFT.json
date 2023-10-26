@@ -1,0 +1,20 @@
+{
+  "modified": 1698334246455,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xdf7e0d873a56cb6e63ed86b183e46948bb90241f",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xdf7e0d873a56cb6e63ed86b183e46948bb90241f"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl8lr7io6508009mebyg4jwnb",
+    "username": "RetroStudiosNFT",
+    "createdAt": "2022-09-28T14:59:54.822Z"
+  }
+}

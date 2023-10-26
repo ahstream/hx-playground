@@ -1,0 +1,20 @@
+{
+  "modified": 1698332836368,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x05d9acb2dc22a364ace2994f4dab488c4bcab15c",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x05d9acb2dc22a364ace2994f4dab488c4bcab15c"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "0x05d9acb2dc22a364ace2994f4dab488c4bcab15c",
+    "username": "0x05d9...b15c",
+    "createdAt": null
+  }
+}

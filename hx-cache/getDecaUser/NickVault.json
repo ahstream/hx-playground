@@ -1,0 +1,20 @@
+{
+  "modified": 1698334084435,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xbd50c7a6cf80a5221fcb798a7f3305a036303d2d",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xbd50c7a6cf80a5221fcb798a7f3305a036303d2d"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3bry916004809l09eu4e48g",
+    "username": "NickVault",
+    "createdAt": "2022-05-18T16:04:28.602Z"
+  }
+}

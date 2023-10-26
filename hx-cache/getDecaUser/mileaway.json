@@ -1,0 +1,20 @@
+{
+  "modified": 1698334131933,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xf617286b08ab75f4e09226bb43c434b284e70104",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xf617286b08ab75f4e09226bb43c434b284e70104"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5cn23oo613809mset0lra0h",
+    "username": "mileaway",
+    "createdAt": "2022-07-08T15:54:41.064Z"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "modified": 1698334327728,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x026ad958b4523352aa3f09c8d9e6144c6f711068",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x026ad958b4523352aa3f09c8d9e6144c6f711068"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5z0ikrm159809la89gkpqs0",
+    "username": "fishing",
+    "createdAt": "2022-07-24T07:42:20.578Z"
+  }
+}

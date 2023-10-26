@@ -1,0 +1,20 @@
+{
+  "modified": 1698332631790,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x37fb0d1c516ccc1c57dfc3cbd03899792d507807",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x37fb0d1c516ccc1c57dfc3cbd03899792d507807"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl4ogone7021609mcamre3n9y",
+    "username": "concept-io",
+    "createdAt": "2022-06-21T17:49:47.503Z"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "modified": 1698333266314,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x94dc6c673221938b9997b791f26373c98433488b",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x94dc6c673221938b9997b791f26373c98433488b"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl6kg62tb220920gjr7too5tox",
+    "username": "BreathingEther",
+    "createdAt": "2022-08-08T07:43:40.991Z"
+  }
+}

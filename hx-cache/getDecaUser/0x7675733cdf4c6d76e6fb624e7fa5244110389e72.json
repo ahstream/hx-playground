@@ -1,0 +1,20 @@
+{
+  "modified": 1698332845146,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x7675733cdf4c6d76e6fb624e7fa5244110389e72",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x7675733cdf4c6d76e6fb624e7fa5244110389e72"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl8udaaxt103609mnl1zl8o4r",
+    "username": "thefieldofdreamz",
+    "createdAt": "2022-10-04T15:40:05.729Z"
+  }
+}

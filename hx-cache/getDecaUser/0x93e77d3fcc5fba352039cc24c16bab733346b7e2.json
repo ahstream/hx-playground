@@ -1,0 +1,25 @@
+{
+  "modified": 1698333074502,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x5af16efec7b5ac5076b0cba6aaa51e7ab79849f8",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x93e77d3fcc5fba352039cc24c16bab733346b7e2",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x5af16efec7b5ac5076b0cba6aaa51e7ab79849f8",
+      "0x93e77d3fcc5fba352039cc24c16bab733346b7e2"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "clbo9zxbf0001je08p8eeyxzq",
+    "username": "FakeRareDecal",
+    "createdAt": "2022-12-14T23:20:32.600Z"
+  }
+}

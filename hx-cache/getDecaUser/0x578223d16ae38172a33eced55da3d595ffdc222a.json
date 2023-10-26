@@ -1,0 +1,25 @@
+{
+  "modified": 1698332639295,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x578223d16ae38172a33eced55da3d595ffdc222a",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xa83ac314d3925a4d6ebb24c1b6ef8d9d4666309b",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x578223d16ae38172a33eced55da3d595ffdc222a",
+      "0xa83ac314d3925a4d6ebb24c1b6ef8d9d4666309b"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3hb22yw011909mlijw7oram",
+    "username": "Hakim",
+    "createdAt": "2022-05-22T12:58:10.952Z"
+  }
+}

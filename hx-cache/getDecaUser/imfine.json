@@ -1,0 +1,20 @@
+{
+  "modified": 1698334161217,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xdec252f116c54f746c5aaf0f24b1b24dc550e30e",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xdec252f116c54f746c5aaf0f24b1b24dc550e30e"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5auale2055109l4y2fyqdoj",
+    "username": "imfine",
+    "createdAt": "2022-07-07T09:41:42.218Z"
+  }
+}

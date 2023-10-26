@@ -1,0 +1,20 @@
+{
+  "modified": 1698332748251,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xedba5d56d0147aee8a227d284bcaac03b4a87ed4",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xedba5d56d0147aee8a227d284bcaac03b4a87ed4"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "clboogrvv000imh084o4t24ur",
+    "username": "yfifan",
+    "createdAt": "2022-12-15T06:05:33.342Z"
+  }
+}

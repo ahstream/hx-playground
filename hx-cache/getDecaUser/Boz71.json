@@ -1,0 +1,20 @@
+{
+  "modified": 1698333861528,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x15577cb3119274575ed57e334f1f6f3554104ed7",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x15577cb3119274575ed57e334f1f6f3554104ed7"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "clb4k53s70007mi0fphp4w6bh",
+    "username": "Boz71",
+    "createdAt": "2022-12-01T04:09:06.907Z"
+  }
+}

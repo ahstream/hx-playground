@@ -1,0 +1,25 @@
+{
+  "modified": 1698350263952,
+  "value": {
+    "address": "0x636113075274285cfa62878282fb4c1b14f29591",
+    "contractMetadata": {
+      "name": "Hafftka Museum Works",
+      "symbol": "HAFFTKAMUSEUM",
+      "totalSupply": "12",
+      "tokenType": "ERC721",
+      "contractDeployer": "0x208833804d09cf965023f2bdb03d78e3056b4767",
+      "deployedBlockNumber": 15456918,
+      "openSea": {
+        "floorPrice": 0,
+        "collectionName": "Hafftka Museum Works",
+        "collectionSlug": "hafftka-museum-works",
+        "safelistRequestStatus": "approved",
+        "imageUrl": "https://i.seadn.io/gcs/files/4e4ad2b912dda1f2f05d52a3b4e9a8a6.jpg?w=500&auto=format",
+        "description": "",
+        "twitterUsername": "hafftka",
+        "bannerImageUrl": "https://i.seadn.io/gcs/files/4e4ad2b912dda1f2f05d52a3b4e9a8a6.jpg?w=500&auto=format",
+        "lastIngestedAt": "2023-10-18T03:25:03.000Z"
+      }
+    }
+  }
+}

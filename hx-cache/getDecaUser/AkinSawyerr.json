@@ -1,0 +1,25 @@
+{
+  "modified": 1698334408533,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xb5018bc174321ffe9e0a38d262e9a448fbd21cdb",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x0f45f177ebb55631b472bd7c3bafda06a653c51b",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xb5018bc174321ffe9e0a38d262e9a448fbd21cdb",
+      "0x0f45f177ebb55631b472bd7c3bafda06a653c51b"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl7g487kh222607l9ks26hh5r",
+    "username": "AkinSawyerr",
+    "createdAt": "2022-08-30T11:38:02.705Z"
+  }
+}

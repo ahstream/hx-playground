@@ -1,0 +1,20 @@
+{
+  "modified": 1698334130246,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x3213aea8d4a9e44b6fc0c6803a64278cfc56fdd8",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x3213aea8d4a9e44b6fc0c6803a64278cfc56fdd8"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5cn19wh455909jzfycg19wi",
+    "username": "Michelm",
+    "createdAt": "2022-07-08T15:54:02.465Z"
+  }
+}

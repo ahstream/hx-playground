@@ -1,0 +1,26 @@
+{
+  "modified": 1698334278799,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xfb4053e811a229c3224f8d60aac05ee15ef3df99",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1MffaytCZtZz3PZrYJJ4vQ6mKP5vhTSzz3",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0xfb4053e811a229c3224f8d60aac05ee15ef3df99"
+    ],
+    "walletsTez": [
+      "tz1MffaytCZtZz3PZrYJJ4vQ6mKP5vhTSzz3"
+    ],
+    "walletsOther": [],
+    "id": "cle9r9kbe00bzl50f6snhfeaw",
+    "username": "RYAK",
+    "createdAt": "2023-02-18T09:26:30.159Z"
+  }
+}

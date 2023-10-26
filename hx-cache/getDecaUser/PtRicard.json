@@ -1,0 +1,20 @@
+{
+  "modified": 1698334135322,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x6dd61ecadda077c6af553aab5a2a81d9efdc2741",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x6dd61ecadda077c6af553aab5a2a81d9efdc2741"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5cn9iot042709l8g9z2v04d",
+    "username": "PtRicard",
+    "createdAt": "2022-07-08T16:00:27.101Z"
+  }
+}

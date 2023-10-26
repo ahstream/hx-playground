@@ -1,0 +1,20 @@
+{
+  "modified": 1698334051533,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x1f9bb39c047c4859dcb330a804e24d7bed126341",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x1f9bb39c047c4859dcb330a804e24d7bed126341"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5arye1n1317009kyht84h2aq",
+    "username": "kamoa",
+    "createdAt": "2022-07-07T08:36:13.595Z"
+  }
+}

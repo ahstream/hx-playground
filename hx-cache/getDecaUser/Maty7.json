@@ -1,0 +1,20 @@
+{
+  "modified": 1698334261117,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xf689b8e81c543c00ccc929176b4c8269ebaef9fa",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xf689b8e81c543c00ccc929176b4c8269ebaef9fa"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cla7cdm43108208kyp5b2itu2",
+    "username": "Maty7",
+    "createdAt": "2022-11-07T22:15:23.187Z"
+  }
+}

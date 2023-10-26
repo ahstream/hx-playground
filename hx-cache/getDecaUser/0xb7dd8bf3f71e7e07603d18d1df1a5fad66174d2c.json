@@ -1,0 +1,30 @@
+{
+  "modified": 1698332739131,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xb7dd8bf3f71e7e07603d18d1df1a5fad66174d2c",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xda22f4015a4f6b711f3c82e2c78632cb0f4a286d",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x0707ec1c7542881ef04033bf87d5ed4fba1b7f61",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xb7dd8bf3f71e7e07603d18d1df1a5fad66174d2c",
+      "0xda22f4015a4f6b711f3c82e2c78632cb0f4a286d",
+      "0x0707ec1c7542881ef04033bf87d5ed4fba1b7f61"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3ygfsw8120009jm8zy02p7x",
+    "username": "ApeKnave",
+    "createdAt": "2022-06-03T13:00:54.152Z"
+  }
+}

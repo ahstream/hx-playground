@@ -1,0 +1,20 @@
+{
+  "modified": 1698334371464,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x3bbb02c6552a5dc8f7d4b246335a51c6f46c81d3",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x3bbb02c6552a5dc8f7d4b246335a51c6f46c81d3"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl41w6q4v204609mqiuyw4zt6",
+    "username": "Tolik",
+    "createdAt": "2022-06-05T22:45:03.055Z"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "modified": 1698334150433,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x1b2a05ae54f53a217843ae52cebaf8c085f085f0",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x1b2a05ae54f53a217843ae52cebaf8c085f085f0"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5cn1leh440509mfmq7m4wbl",
+    "username": "lovefany",
+    "createdAt": "2022-07-08T15:54:17.369Z"
+  }
+}

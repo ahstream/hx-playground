@@ -1,0 +1,25 @@
+{
+  "modified": 1698332946082,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x4fff408ed3ecf747d999f87be8f567c376c0103e",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xa1a370803bea5c4a59cd7bf51bd70e9e6b8a0c5e",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x4fff408ed3ecf747d999f87be8f567c376c0103e",
+      "0xa1a370803bea5c4a59cd7bf51bd70e9e6b8a0c5e"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl4e1cadp103309l3edo5add1",
+    "username": "ARTXMETA",
+    "createdAt": "2022-06-14T10:42:34.765Z"
+  }
+}

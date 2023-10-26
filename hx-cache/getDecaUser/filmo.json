@@ -1,0 +1,20 @@
+{
+  "modified": 1698333886571,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x4c47ab777f1f64d1f3d6efbf1cc7ab5a5224af4a",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x4c47ab777f1f64d1f3d6efbf1cc7ab5a5224af4a"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "clax1yfuf0004m808bcqstbf3",
+    "username": "filmo",
+    "createdAt": "2022-11-25T22:05:39.624Z"
+  }
+}

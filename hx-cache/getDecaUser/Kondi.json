@@ -1,0 +1,25 @@
+{
+  "modified": 1698334201561,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xd457317ae3fbce0984c6ead9dfee9de561fd896b",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xd870a299d4046ebeb4f437898a57a0367c2967ff",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xd457317ae3fbce0984c6ead9dfee9de561fd896b",
+      "0xd870a299d4046ebeb4f437898a57a0367c2967ff"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl4kyemd5372809jj1v3fufor",
+    "username": "Kondi",
+    "createdAt": "2022-06-19T06:54:47.993Z"
+  }
+}

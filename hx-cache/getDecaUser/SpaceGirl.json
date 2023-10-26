@@ -1,0 +1,30 @@
+{
+  "modified": 1698333910007,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xdbbefad7fba8c32d5e3b2da02259f7a4921a2773",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x9daa93baecaee01502ea934fea5a37bca334386a",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x5ff21568b27daca47cf43055e49e8dbb84057910",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xdbbefad7fba8c32d5e3b2da02259f7a4921a2773",
+      "0x9daa93baecaee01502ea934fea5a37bca334386a",
+      "0x5ff21568b27daca47cf43055e49e8dbb84057910"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl782odr8042909mg4btq3bld",
+    "username": "SpaceGirl",
+    "createdAt": "2022-08-24T20:32:28.580Z"
+  }
+}

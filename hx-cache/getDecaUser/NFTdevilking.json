@@ -1,0 +1,20 @@
+{
+  "modified": 1698333848065,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x741b3fa0b2bf3b14c2d6f13ccfdfd584c68abd4e",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x741b3fa0b2bf3b14c2d6f13ccfdfd584c68abd4e"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3vdur64805109mgxf1vaupu",
+    "username": "NFTdevilking",
+    "createdAt": "2022-06-01T09:25:14.380Z"
+  }
+}

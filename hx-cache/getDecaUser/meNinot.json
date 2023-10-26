@@ -1,0 +1,20 @@
+{
+  "modified": 1698334383280,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xcd72b8ac536cc2d0ea6e088a35d9de9e6dbb4b93",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xcd72b8ac536cc2d0ea6e088a35d9de9e6dbb4b93"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl4z8m8ax765509l4z949h27g",
+    "username": "meNinot",
+    "createdAt": "2022-06-29T06:49:25.641Z"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "modified": 1698332910771,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xdeef6488a2e42d33acb8980c926bc83c7d56c35d",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xdeef6488a2e42d33acb8980c926bc83c7d56c35d"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3x3tno6075709i7ithco8gx",
+    "username": "zeltan20",
+    "createdAt": "2022-06-02T14:19:59.382Z"
+  }
+}

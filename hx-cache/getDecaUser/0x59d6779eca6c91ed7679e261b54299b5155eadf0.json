@@ -1,0 +1,26 @@
+{
+  "modified": 1698332970367,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x59d6779eca6c91ed7679e261b54299b5155eadf0",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1WHsvfQ9LZ48dNAyZW41ZaTR8VCQ6jSyyc",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0x59d6779eca6c91ed7679e261b54299b5155eadf0"
+    ],
+    "walletsTez": [
+      "tz1WHsvfQ9LZ48dNAyZW41ZaTR8VCQ6jSyyc"
+    ],
+    "walletsOther": [],
+    "id": "clatm28kd000km708u4f5d6n2",
+    "username": "Etsuran",
+    "createdAt": "2022-11-23T12:17:24.429Z"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "modified": 1698334178327,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xb43f747ac67935aa5af55146ba82b06689deb643",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1cUShLjt4xrdZooN5efuu7ozsCqMTr2P8C",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0xb43f747ac67935aa5af55146ba82b06689deb643"
+    ],
+    "walletsTez": [
+      "tz1cUShLjt4xrdZooN5efuu7ozsCqMTr2P8C"
+    ],
+    "walletsOther": [],
+    "id": "cl5024p09240709mmz59hb14k",
+    "username": "3Dcocktail",
+    "createdAt": "2022-06-29T20:35:35.961Z"
+  }
+}

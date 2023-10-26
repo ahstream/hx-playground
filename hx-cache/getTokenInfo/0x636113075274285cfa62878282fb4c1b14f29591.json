@@ -1,0 +1,19 @@
+{
+  "modified": 1698335279835,
+  "value": {
+    "address": "0x636113075274285cfa62878282fb4c1b14f29591",
+    "name": "Hafftka Museum Works",
+    "owner": "0x208833804d09cf965023f2bdb03d78e3056b4767",
+    "symbol": "HAFFTKAMUSEUM",
+    "totalSupply": "12",
+    "transfersCount": 0,
+    "txsCount": 26,
+    "issuancesCount": 0,
+    "lastUpdated": 1678668554,
+    "price": false,
+    "holdersCount": 1,
+    "ethTransfersCount": 0,
+    "decimals": "0",
+    "countOps": 0
+  }
+}

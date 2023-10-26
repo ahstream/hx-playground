@@ -1,0 +1,20 @@
+{
+  "modified": 1698334011853,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xc2858cdfed1b40ef03af87512f9b87f1174ccd35",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xc2858cdfed1b40ef03af87512f9b87f1174ccd35"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "clchul6gk0001li0fvnnftc7t",
+    "username": "pepysNFT",
+    "createdAt": "2023-01-04T16:02:15.656Z"
+  }
+}

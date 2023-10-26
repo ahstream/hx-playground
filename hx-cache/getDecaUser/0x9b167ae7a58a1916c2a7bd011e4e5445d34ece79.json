@@ -1,0 +1,46 @@
+{
+  "modified": 1698333077503,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "tz1ftu1iV7gWM5wiQjH215nk4yFkEne7BAg9",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0x2ed0040caf2af4169777597d7ca74c7b6670123e",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x6cc65c29341faef90df0c337d69e5f4d9a1b1448",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x4b9e7bfffc2bfc3326c5919d6a284e1a313d30bf",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x9b167ae7a58a1916c2a7bd011e4e5445d34ece79",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1W1GYYv7Lmb4L6SNXv7D3nptnRygoA6AUr",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0x2ed0040caf2af4169777597d7ca74c7b6670123e",
+      "0x6cc65c29341faef90df0c337d69e5f4d9a1b1448",
+      "0x4b9e7bfffc2bfc3326c5919d6a284e1a313d30bf",
+      "0x9b167ae7a58a1916c2a7bd011e4e5445d34ece79"
+    ],
+    "walletsTez": [
+      "tz1ftu1iV7gWM5wiQjH215nk4yFkEne7BAg9",
+      "tz1W1GYYv7Lmb4L6SNXv7D3nptnRygoA6AUr"
+    ],
+    "walletsOther": [],
+    "id": "cl17gkqq0004309mouyhqxw5l",
+    "username": "Generative_Maxi",
+    "createdAt": "2022-03-26T06:15:33.193Z"
+  }
+}

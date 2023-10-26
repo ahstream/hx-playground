@@ -1,0 +1,20 @@
+{
+  "modified": 1698334032238,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x23e37e7299f7e38b42fba39d9781ae7759f3acd5",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x23e37e7299f7e38b42fba39d9781ae7759f3acd5"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3s3os8o263109l044vvne0s",
+    "username": "Reis_",
+    "createdAt": "2022-05-30T02:17:21.144Z"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "modified": 1698332969640,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "tz1hjMbTzm3EUzCx36ywMcDAMbtA5N8kYTcy",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0x48b580fca81d109b85c7642a3be9ff1e1a791170",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x48b580fca81d109b85c7642a3be9ff1e1a791170"
+    ],
+    "walletsTez": [
+      "tz1hjMbTzm3EUzCx36ywMcDAMbtA5N8kYTcy"
+    ],
+    "walletsOther": [],
+    "id": "cl70k7tls572009jkc4z7gkde",
+    "username": "Robonus",
+    "createdAt": "2022-08-19T14:21:19.648Z"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "modified": 1698334088306,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x0d2657935cc0721b5e4f1d2255c01c1b9c6d1cba",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x0d2657935cc0721b5e4f1d2255c01c1b9c6d1cba"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5550mg8173509i8n3ah7cdr",
+    "username": "Andygun",
+    "createdAt": "2022-07-03T09:55:15.752Z"
+  }
+}

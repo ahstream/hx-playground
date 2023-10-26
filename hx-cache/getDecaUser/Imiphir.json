@@ -1,0 +1,20 @@
+{
+  "modified": 1698334033070,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x986b8f449cee5a736ca13a48f2c577055d2053a1",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x986b8f449cee5a736ca13a48f2c577055d2053a1"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3s3hwh6139309ldy4o2btrp",
+    "username": "Imiphir",
+    "createdAt": "2022-05-30T02:12:00.042Z"
+  }
+}

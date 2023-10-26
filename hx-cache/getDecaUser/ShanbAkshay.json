@@ -1,0 +1,20 @@
+{
+  "modified": 1698334190039,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x6a055548f221c1f8f6210091bfa36e45bcf04580",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x6a055548f221c1f8f6210091bfa36e45bcf04580"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3y0a2oy047209jqhvpawoa1",
+    "username": "ShanbAkshay",
+    "createdAt": "2022-06-03T05:28:33.058Z"
+  }
+}

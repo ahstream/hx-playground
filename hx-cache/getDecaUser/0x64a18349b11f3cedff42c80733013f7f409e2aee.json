@@ -1,0 +1,31 @@
+{
+  "modified": 1698332576253,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x64a18349b11f3cedff42c80733013f7f409e2aee",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x95c4bb38a63c5578bb9760f6b2d5e69ff1fc66f0",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1VfwtMV9Cvoz5JyeNybxxC6qr44nqxfRzE",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0x64a18349b11f3cedff42c80733013f7f409e2aee",
+      "0x95c4bb38a63c5578bb9760f6b2d5e69ff1fc66f0"
+    ],
+    "walletsTez": [
+      "tz1VfwtMV9Cvoz5JyeNybxxC6qr44nqxfRzE"
+    ],
+    "walletsOther": [],
+    "id": "cl3wl75l9095409jkk8x8uefg",
+    "username": "shiro460",
+    "createdAt": "2022-06-02T05:38:36.429Z"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "modified": 1698332717346,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x2ab73eb51f1f6832083bbf79b34a79c90ffa2aeb",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x2ab73eb51f1f6832083bbf79b34a79c90ffa2aeb"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl4t1sany039009kxpfopsfxl",
+    "username": "ponzivsponzi",
+    "createdAt": "2022-06-24T22:51:34.270Z"
+  }
+}

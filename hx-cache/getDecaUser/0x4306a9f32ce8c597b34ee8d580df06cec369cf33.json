@@ -1,0 +1,25 @@
+{
+  "modified": 1698333092158,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x4306a9f32ce8c597b34ee8d580df06cec369cf33",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x0cb2b26301948d142ae9e425d625461072575170",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x4306a9f32ce8c597b34ee8d580df06cec369cf33",
+      "0x0cb2b26301948d142ae9e425d625461072575170"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3w3j27j472409l3d3kguv0a",
+    "username": "Rokujushichi",
+    "createdAt": "2022-06-01T21:23:58.831Z"
+  }
+}

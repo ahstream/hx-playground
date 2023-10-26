@@ -1,0 +1,25 @@
+{
+  "modified": 1698334065926,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x41828ac84e436e0941334b679cd751c8fc0614b7",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x5fa10a07ba98222c6a9b0949c6e5a08663a66dbf",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x41828ac84e436e0941334b679cd751c8fc0614b7",
+      "0x5fa10a07ba98222c6a9b0949c6e5a08663a66dbf"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "clmp6jr3z0001l70fgngvys67",
+    "username": "Spendex",
+    "createdAt": "2023-09-18T17:48:30.856Z"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "modified": 1698333863173,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x4816253917e4ddb538001538587da72ac259d74e",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xd624271136cb56c15d868ff987c6513a85e702c8",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x7c515d578ef640f0f3eb5b4a80cd64aa7d0e529e",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz2Frv978qKKyNGqWuJyEDkBmSGwpcgnn4nS",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0x4816253917e4ddb538001538587da72ac259d74e",
+      "0xd624271136cb56c15d868ff987c6513a85e702c8",
+      "0x7c515d578ef640f0f3eb5b4a80cd64aa7d0e529e"
+    ],
+    "walletsTez": [
+      "tz2Frv978qKKyNGqWuJyEDkBmSGwpcgnn4nS"
+    ],
+    "walletsOther": [],
+    "id": "cl6ohntof42640gl9rqksqyst",
+    "username": "SaNguyen",
+    "createdAt": "2022-08-11T03:36:33.279Z"
+  }
+}

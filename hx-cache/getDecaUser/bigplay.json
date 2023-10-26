@@ -1,0 +1,20 @@
+{
+  "modified": 1698333869285,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x6ff50bed54af47d7bc892311669afc49977f8f30",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x6ff50bed54af47d7bc892311669afc49977f8f30"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl59bmdu2005009k0v7ay0yex",
+    "username": "bigplay",
+    "createdAt": "2022-07-06T08:11:13.418Z"
+  }
+}

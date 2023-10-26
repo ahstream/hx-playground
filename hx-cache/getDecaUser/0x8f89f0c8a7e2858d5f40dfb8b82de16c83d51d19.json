@@ -1,0 +1,20 @@
+{
+  "modified": 1698332975513,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x8f89f0c8a7e2858d5f40dfb8b82de16c83d51d19",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x8f89f0c8a7e2858d5f40dfb8b82de16c83d51d19"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "clao9j1fl0007jz080fsy1gwi",
+    "username": "Bobby_OT",
+    "createdAt": "2022-11-19T18:27:42.466Z"
+  }
+}

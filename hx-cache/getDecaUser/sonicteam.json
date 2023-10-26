@@ -1,0 +1,20 @@
+{
+  "modified": 1698334245003,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x63762aa8ce8ba299aaff8b692c12c6c355dd94d7",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x63762aa8ce8ba299aaff8b692c12c6c355dd94d7"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl8t22m6y390409laxbs9zepi",
+    "username": "sonicteam",
+    "createdAt": "2022-10-03T17:38:25.114Z"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "modified": 1698333965072,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xaa71d845e6da88069f69e56be7421a77e2fa87b2",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xaa71d845e6da88069f69e56be7421a77e2fa87b2"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl45bu8m030820amfujhy3sbv",
+    "username": "ajicon",
+    "createdAt": "2022-06-08T08:26:32.856Z"
+  }
+}

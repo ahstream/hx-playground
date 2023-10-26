@@ -1,0 +1,20 @@
+{
+  "modified": 1698333018198,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x6e0c83fba7a67b7c64bfd1ff7760cbb096a5da35",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x6e0c83fba7a67b7c64bfd1ff7760cbb096a5da35"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3w8881z332609mpsjekigw4",
+    "username": "microwavesparks",
+    "createdAt": "2022-06-01T23:35:31.271Z"
+  }
+}

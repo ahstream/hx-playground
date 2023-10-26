@@ -1,0 +1,31 @@
+{
+  "modified": 1698334453122,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x8ffa8d00db5df56a20c30b737c5efdaabe140df4",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz2Dqnai2xDhYdENxFk9d6kvoSuLV1tbDbLs",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0xc12c70976578da076ba22af9f56eb311cce0e692",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x8ffa8d00db5df56a20c30b737c5efdaabe140df4",
+      "0xc12c70976578da076ba22af9f56eb311cce0e692"
+    ],
+    "walletsTez": [
+      "tz2Dqnai2xDhYdENxFk9d6kvoSuLV1tbDbLs"
+    ],
+    "walletsOther": [],
+    "id": "cl3cugosh004309l6j54ixzfu",
+    "username": "dimisan",
+    "createdAt": "2022-05-19T10:02:34.241Z"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "modified": 1698332920846,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x3dcff2782f07b19baed2f992e901d2d8990400d3",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x3dcff2782f07b19baed2f992e901d2d8990400d3"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "clnwgttrn0001me0fdrmzfdsv",
+    "username": "electrictoad",
+    "createdAt": "2023-10-19T00:50:22.533Z"
+  }
+}

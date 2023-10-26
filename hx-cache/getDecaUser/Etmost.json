@@ -1,0 +1,20 @@
+{
+  "modified": 1698334334121,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x91cdea344e2812c5f973a57e6601dd98ec1d3753",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x91cdea344e2812c5f973a57e6601dd98ec1d3753"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5fzdq3c1292009jstji9p7vg",
+    "username": "Etmost",
+    "createdAt": "2022-07-11T00:02:57.240Z"
+  }
+}

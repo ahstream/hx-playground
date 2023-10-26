@@ -1,0 +1,20 @@
+{
+  "modified": 1698332842262,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x62e7adaa619ce749e1e0bd4b31a71627978a36e2",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x62e7adaa619ce749e1e0bd4b31a71627978a36e2"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl6ji9ob029690gmrwb80clfb",
+    "username": "slowchill",
+    "createdAt": "2022-08-07T15:54:41.868Z"
+  }
+}

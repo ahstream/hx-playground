@@ -1,0 +1,36 @@
+{
+  "modified": 1698333024876,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x941beced3e87a15ba22e1a3705b547f50cfd2eb1",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x49d62955a8eee8cb8575a8d0671ba1ee1fcc0906",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xe9b6f1d88a45299c837f82df67575f718f3fc76e",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1dL1R5pPrxW4vRau5ytVd7yP174vP45Qdr",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0x941beced3e87a15ba22e1a3705b547f50cfd2eb1",
+      "0x49d62955a8eee8cb8575a8d0671ba1ee1fcc0906",
+      "0xe9b6f1d88a45299c837f82df67575f718f3fc76e"
+    ],
+    "walletsTez": [
+      "tz1dL1R5pPrxW4vRau5ytVd7yP174vP45Qdr"
+    ],
+    "walletsOther": [],
+    "id": "cl3c7rhqg002709mepjej06so",
+    "username": "drzee",
+    "createdAt": "2022-05-18T23:27:07.144Z"
+  }
+}

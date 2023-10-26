@@ -1,0 +1,25 @@
+{
+  "modified": 1698334042250,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x28396a7d951b0636d9906c3d142861ed41d9ca16",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x0b1e83078bf9087c8f03e3207f355cb8d9ecb5eb",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x28396a7d951b0636d9906c3d142861ed41d9ca16",
+      "0x0b1e83078bf9087c8f03e3207f355cb8d9ecb5eb"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5xqiohm059509mlsfd0808w",
+    "username": "Ryany",
+    "createdAt": "2022-07-23T10:14:43.066Z"
+  }
+}

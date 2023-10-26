@@ -1,0 +1,20 @@
+{
+  "modified": 1698333042782,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x44a754e09b0e7459614270b3de38b9fa848cd9ee",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x44a754e09b0e7459614270b3de38b9fa848cd9ee"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl4t1h9c4181109l7f1zykykc",
+    "username": "studioG",
+    "createdAt": "2022-06-24T22:42:59.332Z"
+  }
+}

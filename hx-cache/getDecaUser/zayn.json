@@ -1,0 +1,26 @@
+{
+  "modified": 1698334341698,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x27eb78c1eade6fc040d25b94e7acf6bbe0689f0a",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1Uyw5t9duQjhivcrx6rD4dkY8Qf5VUEW7y",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0x27eb78c1eade6fc040d25b94e7acf6bbe0689f0a"
+    ],
+    "walletsTez": [
+      "tz1Uyw5t9duQjhivcrx6rD4dkY8Qf5VUEW7y"
+    ],
+    "walletsOther": [],
+    "id": "cl3p4lirb025809jps6d83nsg",
+    "username": "zayn",
+    "createdAt": "2022-05-28T00:19:29.975Z"
+  }
+}

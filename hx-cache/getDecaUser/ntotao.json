@@ -1,0 +1,31 @@
+{
+  "modified": 1698333926892,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x6b44862103b8a45f5ec701b69ec28a5d6d304950",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1Wmgzu8MsRAmUs7WQ65WjQR8T7N2B8nErL",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0xca60f9ad2ff663c32259892fee00da66a049c264",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x6b44862103b8a45f5ec701b69ec28a5d6d304950",
+      "0xca60f9ad2ff663c32259892fee00da66a049c264"
+    ],
+    "walletsTez": [
+      "tz1Wmgzu8MsRAmUs7WQ65WjQR8T7N2B8nErL"
+    ],
+    "walletsOther": [],
+    "id": "cl4tmtmot033209mlbp5qss3e",
+    "username": "ntotao",
+    "createdAt": "2022-06-25T08:40:28.445Z"
+  }
+}

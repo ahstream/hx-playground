@@ -1,0 +1,26 @@
+{
+  "modified": 1698332867937,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "tz1g6Z71LqiFhzmzxgeo4KDvP62virf9bzYE",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0x6adfb36596f3c0ef59b358d89466180d3f9a56c6",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x6adfb36596f3c0ef59b358d89466180d3f9a56c6"
+    ],
+    "walletsTez": [
+      "tz1g6Z71LqiFhzmzxgeo4KDvP62virf9bzYE"
+    ],
+    "walletsOther": [],
+    "id": "cl9t52s6i286808mjzj4ae8l5",
+    "username": "casperr",
+    "createdAt": "2022-10-28T23:42:14.058Z"
+  }
+}

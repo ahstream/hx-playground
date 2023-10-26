@@ -1,0 +1,20 @@
+{
+  "modified": 1698332861969,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x25f66df1c9d4dc3dfa467acf08375e1caeef1942",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x25f66df1c9d4dc3dfa467acf08375e1caeef1942"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "clbdn6671000qla08j86xypno",
+    "username": "Devoid01",
+    "createdAt": "2022-12-07T12:43:50.974Z"
+  }
+}

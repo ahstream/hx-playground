@@ -1,0 +1,25 @@
+{
+  "modified": 1698351242952,
+  "value": {
+    "address": "0xaf388873cc8e294c7869cf8c8d242da07622d53d",
+    "contractMetadata": {
+      "name": "Decal by Haru Komoda",
+      "symbol": "DECAL",
+      "totalSupply": "100",
+      "tokenType": "ERC721",
+      "contractDeployer": "0x70feeec90d37dc73d9ded8cfafd7ede3f697b70b",
+      "deployedBlockNumber": 16400720,
+      "openSea": {
+        "floorPrice": 0.09,
+        "collectionName": "Decal by Haru Komoda",
+        "collectionSlug": "decal-by-haru-komoda",
+        "safelistRequestStatus": "not_requested",
+        "imageUrl": "https://i.seadn.io/gcs/files/5e973f1a5cbd629f934c06fc5cbbe363.png?w=500&auto=format",
+        "description": "An interpretation of the Decal by Haru Komoda. A symbol of permissionless creativity. Series Eleven.",
+        "externalUrl": "https://deca.art/decal/",
+        "bannerImageUrl": "https://i.seadn.io/gcs/files/af89152fe7774e5225687acf0321edea.png?w=500&auto=format",
+        "lastIngestedAt": "2023-10-19T07:58:26.000Z"
+      }
+    }
+  }
+}

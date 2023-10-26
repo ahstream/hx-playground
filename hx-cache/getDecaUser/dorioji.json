@@ -1,0 +1,31 @@
+{
+  "modified": 1698333921003,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x409bd82cf7071daa870540495cfa21ae49e69f00",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1dA4sW7hKNCoAY3mh84kaH6dF4Kfz9wsHJ",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0x2fa5dc10265b539533ceac13a69cc11074c452d3",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x409bd82cf7071daa870540495cfa21ae49e69f00",
+      "0x2fa5dc10265b539533ceac13a69cc11074c452d3"
+    ],
+    "walletsTez": [
+      "tz1dA4sW7hKNCoAY3mh84kaH6dF4Kfz9wsHJ"
+    ],
+    "walletsOther": [],
+    "id": "cl3xvsn84253709jpxpa1059x",
+    "username": "dorioji",
+    "createdAt": "2022-06-03T03:23:01.396Z"
+  }
+}

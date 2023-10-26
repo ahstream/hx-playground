@@ -1,0 +1,20 @@
+{
+  "modified": 1698333098158,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x775f78da3710a2febe41aae2f8caed6bde504a14",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x775f78da3710a2febe41aae2f8caed6bde504a14"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl4940f3e713109jfs689badz",
+    "username": "0xapedad",
+    "createdAt": "2022-06-10T23:58:28.970Z"
+  }
+}

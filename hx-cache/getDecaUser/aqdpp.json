@@ -1,0 +1,20 @@
+{
+  "modified": 1698334324650,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xac2ee06fe54929baba30f7fefde42e8e9b308637",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xac2ee06fe54929baba30f7fefde42e8e9b308637"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5z0ikqa104109laq7ioj9m6",
+    "username": "aqdpp",
+    "createdAt": "2022-07-24T07:42:20.530Z"
+  }
+}

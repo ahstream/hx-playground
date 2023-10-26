@@ -1,0 +1,20 @@
+{
+  "modified": 1698334172187,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xa3deee4b3b837d1d6de79bcb418358720023f13a",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xa3deee4b3b837d1d6de79bcb418358720023f13a"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl4vkowdj059709l8isu3erz3",
+    "username": "nadaa",
+    "createdAt": "2022-06-26T17:16:20.839Z"
+  }
+}

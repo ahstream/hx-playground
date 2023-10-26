@@ -1,0 +1,20 @@
+{
+  "modified": 1698333273464,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xe3557e84bd0247c09ec369d3c904e9dab87d60a7",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xe3557e84bd0247c09ec369d3c904e9dab87d60a7"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3ybl67t455609l3kch0lrci",
+    "username": "kafeier",
+    "createdAt": "2022-06-03T10:45:06.617Z"
+  }
+}

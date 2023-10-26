@@ -1,0 +1,20 @@
+{
+  "modified": 1698332580396,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x7a39043e20a8c3235d529a8c1bb86df46f12dea4",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x7a39043e20a8c3235d529a8c1bb86df46f12dea4"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3otzrfr032709latk1yj0bp",
+    "username": "Squilliam",
+    "createdAt": "2022-05-27T19:22:38.631Z"
+  }
+}

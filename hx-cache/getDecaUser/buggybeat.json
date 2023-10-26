@@ -1,0 +1,20 @@
+{
+  "modified": 1698334281102,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xe1d15b137cfec76e4dc92378eb7f12e1567b62da",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xe1d15b137cfec76e4dc92378eb7f12e1567b62da"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3bv2iua053109jjxvyq227y",
+    "username": "buggybeat",
+    "createdAt": "2022-05-18T17:31:46.786Z"
+  }
+}

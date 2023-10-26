@@ -1,0 +1,30 @@
+{
+  "modified": 1698334380390,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x1e9a330d6c972cabb05ee9aa020b09ec128764e8",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x71dfa08e2e6e0e090e1a5a26d1ef4e544d23d895",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x1ed62baac3ef4578e3eab10f3a2fb0da3952aaf3",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x1e9a330d6c972cabb05ee9aa020b09ec128764e8",
+      "0x71dfa08e2e6e0e090e1a5a26d1ef4e544d23d895",
+      "0x1ed62baac3ef4578e3eab10f3a2fb0da3952aaf3"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3uybs7f058009l060l8jpxa",
+    "username": "TKRok",
+    "createdAt": "2022-06-01T02:10:35.019Z"
+  }
+}

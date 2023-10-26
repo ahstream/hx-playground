@@ -1,0 +1,26 @@
+{
+  "modified": 1698333974213,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xddb655f5e516065116c9ccb59688298e6b1a9296",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1VuJdJXs33oofyxLkk3xsxjwfr2Kd5xgtp",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0xddb655f5e516065116c9ccb59688298e6b1a9296"
+    ],
+    "walletsTez": [
+      "tz1VuJdJXs33oofyxLkk3xsxjwfr2Kd5xgtp"
+    ],
+    "walletsOther": [],
+    "id": "cl3z30wrw079709mkiqdadrrz",
+    "username": "RCS-Collective",
+    "createdAt": "2022-06-03T23:33:10.508Z"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "modified": 1698332744286,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xdc29516f75bb6d8e7e76566062cd90f8c3087072",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xdc29516f75bb6d8e7e76566062cd90f8c3087072"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl4aronga098009kx39e854gp",
+    "username": "ilele",
+    "createdAt": "2022-06-12T03:48:56.890Z"
+  }
+}

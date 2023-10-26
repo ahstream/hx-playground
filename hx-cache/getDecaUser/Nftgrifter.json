@@ -1,0 +1,20 @@
+{
+  "modified": 1698333860814,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x1412e5521143f53031a174fe80cbc5564e76e27d",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x1412e5521143f53031a174fe80cbc5564e76e27d"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "clb2gcqd3000dl40832ty6w7m",
+    "username": "Nftgrifter",
+    "createdAt": "2022-11-29T16:47:31.951Z"
+  }
+}

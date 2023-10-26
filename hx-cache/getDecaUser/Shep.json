@@ -1,0 +1,20 @@
+{
+  "modified": 1698334289952,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x98d15d41cca53aa95a273c966f7b2f0523fb8f91",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x98d15d41cca53aa95a273c966f7b2f0523fb8f91"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5bsv8y0068609mn1pipisj4",
+    "username": "Shep",
+    "createdAt": "2022-07-08T01:49:32.808Z"
+  }
+}

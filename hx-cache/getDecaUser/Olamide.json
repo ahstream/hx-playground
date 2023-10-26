@@ -1,0 +1,31 @@
+{
+  "modified": 1698334294778,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x621d35d4232fcdf25eb410c4e797e5466001b214",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x71a650c9bff9d83a48cf6d857d188ba39c19bb01",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1T9XdVACpMQaChvYe6eTUB9iwB2rn1FdxZ",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0x621d35d4232fcdf25eb410c4e797e5466001b214",
+      "0x71a650c9bff9d83a48cf6d857d188ba39c19bb01"
+    ],
+    "walletsTez": [
+      "tz1T9XdVACpMQaChvYe6eTUB9iwB2rn1FdxZ"
+    ],
+    "walletsOther": [],
+    "id": "cl613uzx5152609jk1jqnmc94",
+    "username": "Olamide",
+    "createdAt": "2022-07-25T18:51:31.289Z"
+  }
+}

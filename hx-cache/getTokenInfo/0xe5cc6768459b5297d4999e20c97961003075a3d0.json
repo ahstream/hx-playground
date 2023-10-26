@@ -1,0 +1,19 @@
+{
+  "modified": 1698332464334,
+  "value": {
+    "address": "0xe5cc6768459b5297d4999e20c97961003075a3d0",
+    "lastUpdated": 1698303136,
+    "name": "Decal by Hafftka",
+    "owner": "0x70feeec90d37dc73d9ded8cfafd7ede3f697b70b",
+    "price": false,
+    "symbol": "DECAL",
+    "totalSupply": "6",
+    "transfersCount": 0,
+    "txsCount": 10,
+    "issuancesCount": 0,
+    "holdersCount": 0,
+    "ethTransfersCount": 0,
+    "decimals": "0",
+    "countOps": 0
+  }
+}

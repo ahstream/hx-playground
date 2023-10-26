@@ -1,0 +1,20 @@
+{
+  "modified": 1698333229223,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xab81be93f28664daf0c1638b483e4f9d2539446e",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xab81be93f28664daf0c1638b483e4f9d2539446e"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "ckyequc20086809l3uvtxijqz",
+    "username": "richcaldwell",
+    "createdAt": "2022-01-14T18:38:13.128Z"
+  }
+}

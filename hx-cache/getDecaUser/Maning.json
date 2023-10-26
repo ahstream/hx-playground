@@ -1,0 +1,20 @@
+{
+  "modified": 1698334494931,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x1ed4a7446556ed14593e15cdba22b1bba158cf8c",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x1ed4a7446556ed14593e15cdba22b1bba158cf8c"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5cfeknx115709lctjx0lw2b",
+    "username": "Maning",
+    "createdAt": "2022-07-08T12:20:26.013Z"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "modified": 1698334018714,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xa145e38aa9c5fafd0ff6f8e081cd1068123f587f",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x966a059612df339fbea1622009d130d4c92d4dcd",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xa145e38aa9c5fafd0ff6f8e081cd1068123f587f",
+      "0x966a059612df339fbea1622009d130d4c92d4dcd"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5xqiohn716309l6y5mfldl6",
+    "username": "Adarsha",
+    "createdAt": "2022-07-23T10:14:43.067Z"
+  }
+}

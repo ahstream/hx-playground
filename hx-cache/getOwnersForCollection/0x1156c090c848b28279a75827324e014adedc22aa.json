@@ -1,0 +1,34 @@
+{
+  "modified": 1698335279579,
+  "value": {
+    "ownerAddresses": [
+      {
+        "ownerAddress": "0xa8174abc36b3298356d273e512cd87223a2b3ffa",
+        "tokenBalances": [
+          {
+            "tokenId": "0x0000000000000000000000000000000000000000000000000000000000000003",
+            "balance": 1
+          }
+        ]
+      },
+      {
+        "ownerAddress": "0xc97958ff5370c56b7e0e6fb58437f00702714d49",
+        "tokenBalances": [
+          {
+            "tokenId": "0x0000000000000000000000000000000000000000000000000000000000000001",
+            "balance": 1
+          }
+        ]
+      },
+      {
+        "ownerAddress": "0xca8299a5f070faf59e87f6c4df6e7627d565e006",
+        "tokenBalances": [
+          {
+            "tokenId": "0x0000000000000000000000000000000000000000000000000000000000000002",
+            "balance": 1
+          }
+        ]
+      }
+    ]
+  }
+}

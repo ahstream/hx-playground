@@ -1,0 +1,30 @@
+{
+  "modified": 1698334499981,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xee05f658e18eb04d250f829b1920c2fbf6907e27",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xa62da2ea9f5bb03a58174060535ae32131973178",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x136Bbfe37988f82F8585ED155615b75371489d45",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xee05f658e18eb04d250f829b1920c2fbf6907e27",
+      "0xa62da2ea9f5bb03a58174060535ae32131973178",
+      "0x136Bbfe37988f82F8585ED155615b75371489d45"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cku4rrpc7007209migrt0e6n6",
+    "username": "bonafidehan",
+    "createdAt": "2021-11-13T04:59:47.612Z"
+  }
+}

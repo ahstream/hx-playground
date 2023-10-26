@@ -1,0 +1,20 @@
+{
+  "modified": 1698333032341,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xeec7990c2952017b75e1b508dc3929fe4036ecc3",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xeec7990c2952017b75e1b508dc3929fe4036ecc3"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3vsqlsu165709meky94qr5u",
+    "username": "Ara",
+    "createdAt": "2022-06-01T16:21:55.038Z"
+  }
+}

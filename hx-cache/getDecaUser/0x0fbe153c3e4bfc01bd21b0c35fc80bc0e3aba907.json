@@ -1,0 +1,20 @@
+{
+  "modified": 1698332787252,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x0fbe153c3e4bfc01bd21b0c35fc80bc0e3aba907",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x0fbe153c3e4bfc01bd21b0c35fc80bc0e3aba907"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3xlf5ts083309mrq4vvjh1g",
+    "username": "NobledotSteed",
+    "createdAt": "2022-06-02T22:32:36.160Z"
+  }
+}

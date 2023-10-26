@@ -1,0 +1,35 @@
+{
+  "modified": 1698333968859,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x82829d07b06a65a15ebd273cb0b734fe39ba99bc",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xdeeafbffe64689501a533fbd28b74aa4aaf85b55",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xdab51b67b1178a4e34dc3a88cd8dd0cf5c44238b",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xa5a5813c141ad666f1f70650d6b7d54e1568e05b",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x82829d07b06a65a15ebd273cb0b734fe39ba99bc",
+      "0xdeeafbffe64689501a533fbd28b74aa4aaf85b55",
+      "0xdab51b67b1178a4e34dc3a88cd8dd0cf5c44238b",
+      "0xa5a5813c141ad666f1f70650d6b7d54e1568e05b"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl9cmppjh117209mhu19jpuhi",
+    "username": "lafro",
+    "createdAt": "2022-10-17T10:23:52.205Z"
+  }
+}

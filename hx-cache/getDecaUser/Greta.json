@@ -1,0 +1,25 @@
+{
+  "modified": 1698333871422,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x6602a4cf6c23910610bb9fac56589aa55e736bce",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x4d626fbf69577b6a4394b4776bc76e580eefd8f5",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x6602a4cf6c23910610bb9fac56589aa55e736bce",
+      "0x4d626fbf69577b6a4394b4776bc76e580eefd8f5"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3znvmdi109309l8x84ki702",
+    "username": "Greta",
+    "createdAt": "2022-06-04T09:16:55.686Z"
+  }
+}

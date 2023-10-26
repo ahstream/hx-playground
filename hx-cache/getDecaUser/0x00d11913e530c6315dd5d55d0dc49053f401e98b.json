@@ -1,0 +1,20 @@
+{
+  "modified": 1698332557629,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x00d11913e530c6315dd5d55d0dc49053f401e98b",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x00d11913e530c6315dd5d55d0dc49053f401e98b"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3y7cfa7496909l3torusklf",
+    "username": "TheNFTPleb",
+    "createdAt": "2022-06-03T08:46:19.999Z"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "modified": 1698332754834,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x18f83af7490c4fb5cd9db2f996d305a1f9994688",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x18f83af7490c4fb5cd9db2f996d305a1f9994688"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3ijjzhd064609l8nda1pyh4",
+    "username": "Nik0gda",
+    "createdAt": "2022-05-23T09:43:49.345Z"
+  }
+}

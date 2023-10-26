@@ -1,0 +1,20 @@
+{
+  "modified": 1698332984551,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x099cff55921a423f747d20cc9f79cac3348b4fbd",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x099cff55921a423f747d20cc9f79cac3348b4fbd"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "clejlfe3z004ml60fxagar3kp",
+    "username": "hisDECA",
+    "createdAt": "2023-02-25T06:40:46.116Z"
+  }
+}

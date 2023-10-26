@@ -1,0 +1,20 @@
+{
+  "modified": 1698333929081,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x39998acc395efdde6cf1ea830fb9a7708d9789e3",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x39998acc395efdde6cf1ea830fb9a7708d9789e3"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3iejryf007909ldechfq3e1",
+    "username": "Hemaxianshegn",
+    "createdAt": "2022-05-23T07:23:41.511Z"
+  }
+}

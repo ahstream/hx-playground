@@ -1,0 +1,20 @@
+{
+  "modified": 1698334350481,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x4688b6f3c384c3cffe95c92f599213de4a9fa9ca",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x4688b6f3c384c3cffe95c92f599213de4a9fa9ca"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3un3n73363609mftqxc3sxl",
+    "username": "0xhendo",
+    "createdAt": "2022-05-31T20:56:19.503Z"
+  }
+}

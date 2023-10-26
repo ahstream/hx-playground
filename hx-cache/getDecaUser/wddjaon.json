@@ -1,0 +1,20 @@
+{
+  "modified": 1698334129284,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x6c3e2af5ad2c2795c6b0461183df5e7b27f77843",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x6c3e2af5ad2c2795c6b0461183df5e7b27f77843"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5e2i164533209l2cr7hf361",
+    "username": "wddjaon",
+    "createdAt": "2022-07-09T15:54:44.716Z"
+  }
+}

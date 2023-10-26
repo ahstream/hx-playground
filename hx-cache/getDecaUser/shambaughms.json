@@ -1,0 +1,20 @@
+{
+  "modified": 1698333933963,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x959b06329c56dce4b03588ef6ea3b717db6160fa",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x959b06329c56dce4b03588ef6ea3b717db6160fa"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl4tn277c094109l2d7l6dt9d",
+    "username": "shambaughms",
+    "createdAt": "2022-06-25T08:47:08.280Z"
+  }
+}

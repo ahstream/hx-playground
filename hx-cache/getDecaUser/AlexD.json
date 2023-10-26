@@ -1,0 +1,20 @@
+{
+  "modified": 1698333880072,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xa613dfe43b8f91596b1030cc45d184d398784d1a",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xa613dfe43b8f91596b1030cc45d184d398784d1a"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl449vbcv088709kzq0zpclua",
+    "username": "AlexD",
+    "createdAt": "2022-06-07T14:43:37.663Z"
+  }
+}

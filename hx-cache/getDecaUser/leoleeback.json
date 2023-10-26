@@ -1,0 +1,20 @@
+{
+  "modified": 1698334239029,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xa330f0ab6614bec1091e85f2e02288665fb13ae6",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xa330f0ab6614bec1091e85f2e02288665fb13ae6"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3x4snub1371409las78xt21r",
+    "username": "leoleeback",
+    "createdAt": "2022-06-02T14:47:12.563Z"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "modified": 1698351242597,
+  "value": {
+    "address": "0x7a5b6e630dc305c0d4850781e5a76e1c2a4aa4c8",
+    "contractMetadata": {
+      "name": "Decal by TOKYOLUV",
+      "symbol": "DECAL",
+      "totalSupply": "100",
+      "tokenType": "ERC721",
+      "contractDeployer": "0x70feeec90d37dc73d9ded8cfafd7ede3f697b70b",
+      "deployedBlockNumber": 16453186,
+      "openSea": {
+        "floorPrice": 0.055499,
+        "collectionName": "Decal by TOKYOLUV",
+        "collectionSlug": "decal-by-tokyoluv",
+        "safelistRequestStatus": "not_requested",
+        "imageUrl": "https://i.seadn.io/gcs/files/2beb971a7332a884e35499d97c273a16.png?w=500&auto=format",
+        "description": "An interpretation of the Decal by TOKYOLUV. A symbol of permissionless creativity. Series Twelve.",
+        "externalUrl": "https://deca.art/decal",
+        "bannerImageUrl": "https://i.seadn.io/gcs/files/5b41b75b2298f972ca91fd9cccdb86b2.png?w=500&auto=format",
+        "lastIngestedAt": "2023-10-18T17:22:31.000Z"
+      }
+    }
+  }
+}

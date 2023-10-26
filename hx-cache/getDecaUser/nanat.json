@@ -1,0 +1,20 @@
+{
+  "modified": 1698334102285,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xcc29d64c285f22d3b55796803e201488dd666906",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xcc29d64c285f22d3b55796803e201488dd666906"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3y1glgv246709jpqx83e2su",
+    "username": "nanat",
+    "createdAt": "2022-06-03T06:01:36.943Z"
+  }
+}

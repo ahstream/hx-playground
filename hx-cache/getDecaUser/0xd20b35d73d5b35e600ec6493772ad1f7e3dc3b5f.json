@@ -1,0 +1,20 @@
+{
+  "modified": 1698332880101,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xd20b35d73d5b35e600ec6493772ad1f7e3dc3b5f",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xd20b35d73d5b35e600ec6493772ad1f7e3dc3b5f"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl7opxpj5058909mc5ekcpaxh",
+    "username": "_Jimmy_G",
+    "createdAt": "2022-09-05T12:07:53.729Z"
+  }
+}

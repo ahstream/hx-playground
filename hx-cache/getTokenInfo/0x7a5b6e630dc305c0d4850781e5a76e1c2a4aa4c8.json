@@ -1,0 +1,19 @@
+{
+  "modified": 1698332472034,
+  "value": {
+    "address": "0x7a5b6e630dc305c0d4850781e5a76e1c2a4aa4c8",
+    "name": "Decal by TOKYOLUV",
+    "owner": "0x70feeec90d37dc73d9ded8cfafd7ede3f697b70b",
+    "symbol": "DECAL",
+    "totalSupply": "100",
+    "transfersCount": 0,
+    "txsCount": 213,
+    "issuancesCount": 0,
+    "lastUpdated": 1697107388,
+    "price": false,
+    "holdersCount": 74,
+    "ethTransfersCount": 0,
+    "decimals": "0",
+    "countOps": 0
+  }
+}

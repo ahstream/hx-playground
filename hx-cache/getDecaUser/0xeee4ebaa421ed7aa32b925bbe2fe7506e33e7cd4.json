@@ -1,0 +1,26 @@
+{
+  "modified": 1698333033121,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xeee4ebaa421ed7aa32b925bbe2fe7506e33e7cd4",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1aqcvEj37DgL97Y2h1buTADSHRMf1KrCU2",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0xeee4ebaa421ed7aa32b925bbe2fe7506e33e7cd4"
+    ],
+    "walletsTez": [
+      "tz1aqcvEj37DgL97Y2h1buTADSHRMf1KrCU2"
+    ],
+    "walletsOther": [],
+    "id": "cl3gfgrw2085409lbu2efk748",
+    "username": "Bigby",
+    "createdAt": "2022-05-21T22:13:48.722Z"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "modified": 1698334455710,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xd099daaf236f421ab13a7a5a2d400f5ac792ee9f",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xd099daaf236f421ab13a7a5a2d400f5ac792ee9f"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3v6477x150309l90053cz5c",
+    "username": "Vengai",
+    "createdAt": "2022-06-01T05:48:38.157Z"
+  }
+}

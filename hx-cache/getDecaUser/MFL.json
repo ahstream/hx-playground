@@ -1,0 +1,31 @@
+{
+  "modified": 1698334412121,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xcdf63fc907241fb3d1fbae13f173127ec55731a3",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1dEisUndj6L3dej52khidicwejeF2Ss16o",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "tz1S3ccjxoWs1Ban27pQF4XuomqZjxMAkKMJ",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0xcdf63fc907241fb3d1fbae13f173127ec55731a3"
+    ],
+    "walletsTez": [
+      "tz1dEisUndj6L3dej52khidicwejeF2Ss16o",
+      "tz1S3ccjxoWs1Ban27pQF4XuomqZjxMAkKMJ"
+    ],
+    "walletsOther": [],
+    "id": "cl4scm64y205109mik386r1fm",
+    "username": "MFL",
+    "createdAt": "2022-06-24T11:06:58.066Z"
+  }
+}

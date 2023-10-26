@@ -1,0 +1,20 @@
+{
+  "modified": 1698334053896,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xf8ef044c8b27ed856a0d5f4d4cdfcfc5a544b607",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xf8ef044c8b27ed856a0d5f4d4cdfcfc5a544b607"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl6hb3ggl124540gmjq6j4ur4f",
+    "username": "PHOTO",
+    "createdAt": "2022-08-06T02:58:22.101Z"
+  }
+}

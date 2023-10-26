@@ -1,0 +1,20 @@
+{
+  "modified": 1698332581119,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x825310cad73359fc067b7ea79e0fd9a938b5e02b",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x825310cad73359fc067b7ea79e0fd9a938b5e02b"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3up6th9289609m7jy3eye7f",
+    "username": "chichi",
+    "createdAt": "2022-05-31T21:54:46.845Z"
+  }
+}

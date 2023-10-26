@@ -1,0 +1,20 @@
+{
+  "modified": 1698334479687,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x8d5e59e11838cff72af5fb0681d96a9136ad0604",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x8d5e59e11838cff72af5fb0681d96a9136ad0604"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl82lmdr013780al28n1wd6zz",
+    "username": "sirobsi4",
+    "createdAt": "2022-09-15T05:15:53.244Z"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "modified": 1698334297805,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "tz1QmEUvM5SviUvntDNiZJ8boruBwPnagtDu",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0xf0883c690126ddec10e16c01e0ddd26db7857c57",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xf0883c690126ddec10e16c01e0ddd26db7857c57"
+    ],
+    "walletsTez": [
+      "tz1QmEUvM5SviUvntDNiZJ8boruBwPnagtDu"
+    ],
+    "walletsOther": [],
+    "id": "cl51bvme5159009mma6mbbeay",
+    "username": "VGraphics",
+    "createdAt": "2022-06-30T17:56:15.005Z"
+  }
+}

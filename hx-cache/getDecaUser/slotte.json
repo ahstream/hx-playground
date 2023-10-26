@@ -1,0 +1,35 @@
+{
+  "modified": 1698334470853,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xb994a3dabd78e2d68861f7c51c16a4b852d96791",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x2be21793155e0d5b3dd715c348f7e712471e0873",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x778ae43885c54d9ece6c019fee04ceebf7121532",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x5965621adbc5618450e9303f72c666a4f7af3d42",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xb994a3dabd78e2d68861f7c51c16a4b852d96791",
+      "0x2be21793155e0d5b3dd715c348f7e712471e0873",
+      "0x778ae43885c54d9ece6c019fee04ceebf7121532",
+      "0x5965621adbc5618450e9303f72c666a4f7af3d42"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl8wy6lp81597909jqt1nq8tvn",
+    "username": "slotte",
+    "createdAt": "2022-10-06T11:00:37.340Z"
+  }
+}

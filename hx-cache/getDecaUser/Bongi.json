@@ -1,0 +1,20 @@
+{
+  "modified": 1698334435824,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x3c098770c32634140f77401c7086cc2e48ca9ee5",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x3c098770c32634140f77401c7086cc2e48ca9ee5"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3xj3op0969509mgcgi0urw8",
+    "username": "Bongi",
+    "createdAt": "2022-06-02T21:27:41.508Z"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "modified": 1698332638545,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x521084c233fb5103634b706bd8fb1dfad4d4f3c2",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1VAByPYsAmJ3LA4YdbD5vKBAmjnuEvNZAx",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0x521084c233fb5103634b706bd8fb1dfad4d4f3c2"
+    ],
+    "walletsTez": [
+      "tz1VAByPYsAmJ3LA4YdbD5vKBAmjnuEvNZAx"
+    ],
+    "walletsOther": [],
+    "id": "cl3ei33yr009909l9o608n1k4",
+    "username": "PlexCorp",
+    "createdAt": "2022-05-20T13:51:37.683Z"
+  }
+}

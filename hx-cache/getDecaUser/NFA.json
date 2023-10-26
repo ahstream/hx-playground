@@ -1,0 +1,20 @@
+{
+  "modified": 1698334369299,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xbc769e783796bab3d614683d1f2f5e1446b3724d",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xbc769e783796bab3d614683d1f2f5e1446b3724d"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl49v4dws729809l38lni6g8a",
+    "username": "NFA",
+    "createdAt": "2022-06-11T12:37:23.692Z"
+  }
+}

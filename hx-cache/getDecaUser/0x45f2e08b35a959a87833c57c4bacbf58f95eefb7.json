@@ -1,0 +1,20 @@
+{
+  "modified": 1698333258429,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x45f2e08b35a959a87833c57c4bacbf58f95eefb7",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x45f2e08b35a959a87833c57c4bacbf58f95eefb7"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl68jsebr007009mzcipooeyg",
+    "username": "Mysterio",
+    "createdAt": "2022-07-30T23:51:47.079Z"
+  }
+}

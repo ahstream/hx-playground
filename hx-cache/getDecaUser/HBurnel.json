@@ -1,0 +1,20 @@
+{
+  "modified": 1698334115082,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x4f698c44ded0fd5300385775577fb8013173c1b4",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x4f698c44ded0fd5300385775577fb8013173c1b4"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5cnaui7047609mgony6tjqp",
+    "username": "HBurnel",
+    "createdAt": "2022-07-08T16:01:29.071Z"
+  }
+}

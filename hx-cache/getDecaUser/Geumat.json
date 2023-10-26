@@ -1,0 +1,26 @@
+{
+  "modified": 1698334485425,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "tz1Xm1PQiFANudUsKMJoWUh5pRK1qDDrBfVM",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0xa4a1f13f6d71fe8261f7d539bf7b9a0fca2a0cae",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xa4a1f13f6d71fe8261f7d539bf7b9a0fca2a0cae"
+    ],
+    "walletsTez": [
+      "tz1Xm1PQiFANudUsKMJoWUh5pRK1qDDrBfVM"
+    ],
+    "walletsOther": [],
+    "id": "cl503b0o5087808lezo86lm88",
+    "username": "Geumat",
+    "createdAt": "2022-06-29T21:08:30.629Z"
+  }
+}

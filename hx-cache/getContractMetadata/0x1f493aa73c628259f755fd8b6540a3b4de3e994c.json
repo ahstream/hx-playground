@@ -1,0 +1,25 @@
+{
+  "modified": 1698351244401,
+  "value": {
+    "address": "0x1f493aa73c628259f755fd8b6540a3b4de3e994c",
+    "contractMetadata": {
+      "name": "Decal by Reuben Wu",
+      "symbol": "DECAL",
+      "totalSupply": "100",
+      "tokenType": "ERC721",
+      "contractDeployer": "0x70feeec90d37dc73d9ded8cfafd7ede3f697b70b",
+      "deployedBlockNumber": 15872534,
+      "openSea": {
+        "floorPrice": 0.1499,
+        "collectionName": "Decal by Reuben Wu",
+        "collectionSlug": "decal-by-reuben-wu",
+        "safelistRequestStatus": "not_requested",
+        "imageUrl": "https://i.seadn.io/gcs/files/e79c3aacd6a82e0f8579773f698b5b6f.jpg?w=500&auto=format",
+        "description": "An interpretation of the Decal by Reuben Wu. A symbol of permissionless creativity. Series Seven.",
+        "externalUrl": "https://deca.art/decal",
+        "bannerImageUrl": "https://i.seadn.io/gcs/files/72a6e9e0c60cfd0d0e4714215eb5e8cc.png?w=500&auto=format",
+        "lastIngestedAt": "2023-10-18T20:07:25.000Z"
+      }
+    }
+  }
+}

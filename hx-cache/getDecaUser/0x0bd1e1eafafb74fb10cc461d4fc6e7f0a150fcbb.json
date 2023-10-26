@@ -1,0 +1,25 @@
+{
+  "modified": 1698332985401,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x0bd1e1eafafb74fb10cc461d4fc6e7f0a150fcbb",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xe73ddd05d71e3e02b99bef9d6f95c91eaf8b5c58",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x0bd1e1eafafb74fb10cc461d4fc6e7f0a150fcbb",
+      "0xe73ddd05d71e3e02b99bef9d6f95c91eaf8b5c58"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3b0n39h031409mnwzkz9zyo",
+    "username": "baba-booooooey",
+    "createdAt": "2022-05-18T03:19:58.277Z"
+  }
+}

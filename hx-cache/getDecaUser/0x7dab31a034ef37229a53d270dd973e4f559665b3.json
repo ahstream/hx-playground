@@ -1,0 +1,20 @@
+{
+  "modified": 1698332648347,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x7dab31a034ef37229a53d270dd973e4f559665b3",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x7dab31a034ef37229a53d270dd973e4f559665b3"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl4u6ok8a377109mmw6djz2xb",
+    "username": "Rodney",
+    "createdAt": "2022-06-25T17:56:24.298Z"
+  }
+}

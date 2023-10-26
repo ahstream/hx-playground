@@ -1,0 +1,20 @@
+{
+  "modified": 1698334226556,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xa3ec0ea98a1a12c56a75e214a8972809e7594362",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xa3ec0ea98a1a12c56a75e214a8972809e7594362"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl52y04qa159409mhd2aju80k",
+    "username": "jackasscrypto",
+    "createdAt": "2022-07-01T21:03:23.122Z"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "modified": 1698334346906,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xec196f27a2c4f8ecd2f41275b226f5de2cc90ca7",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xec196f27a2c4f8ecd2f41275b226f5de2cc90ca7"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5tdefhq2556909l7gq39hs4a",
+    "username": "y1mboi",
+    "createdAt": "2022-07-20T08:56:25.070Z"
+  }
+}

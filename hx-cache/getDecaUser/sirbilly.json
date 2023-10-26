@@ -1,0 +1,31 @@
+{
+  "modified": 1698334358845,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xe9ad6041bfd863415fd483bc2471db2dfd065a0b",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1fWbxEHzw8j8x2G4tdqy3MEpCdXLfQenjU",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0x809c0ef672eb89f0fcd16142bcc8cef1ce675138",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xe9ad6041bfd863415fd483bc2471db2dfd065a0b",
+      "0x809c0ef672eb89f0fcd16142bcc8cef1ce675138"
+    ],
+    "walletsTez": [
+      "tz1fWbxEHzw8j8x2G4tdqy3MEpCdXLfQenjU"
+    ],
+    "walletsOther": [],
+    "id": "cl3xqn55s1302409ldrau05fep",
+    "username": "sirbilly",
+    "createdAt": "2022-06-03T00:58:46.624Z"
+  }
+}

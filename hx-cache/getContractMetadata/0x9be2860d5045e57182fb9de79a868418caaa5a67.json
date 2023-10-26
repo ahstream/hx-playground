@@ -1,0 +1,25 @@
+{
+  "modified": 1698350262091,
+  "value": {
+    "address": "0x9be2860d5045e57182fb9de79a868418caaa5a67",
+    "contractMetadata": {
+      "name": "Hafftka Homage",
+      "symbol": "HAFFHMG",
+      "tokenType": "ERC1155",
+      "contractDeployer": "0x208833804d09cf965023f2bdb03d78e3056b4767",
+      "deployedBlockNumber": 16114599,
+      "openSea": {
+        "floorPrice": 0.163,
+        "collectionName": "Hafftka Homage",
+        "collectionSlug": "hafftka-homage",
+        "safelistRequestStatus": "approved",
+        "imageUrl": "https://i.seadn.io/gcs/files/deaf7074f16b675cda6ea011b6f24ccf.gif?w=500&auto=format",
+        "description": "",
+        "externalUrl": "http://hafftka.com",
+        "twitterUsername": "hafftka",
+        "bannerImageUrl": "https://i.seadn.io/gcs/files/1f39a9f5256066815ef389cf169cd6fe.gif?w=500&auto=format",
+        "lastIngestedAt": "2023-10-20T05:05:06.000Z"
+      }
+    }
+  }
+}

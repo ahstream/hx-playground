@@ -1,0 +1,26 @@
+{
+  "modified": 1698334471579,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xb9be40bdec31ec3935830acc8bcaad1a431f8bb0",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1ZByTPZtWUzLHQEqUcKkoYH7wBiHcnmhQb",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0xb9be40bdec31ec3935830acc8bcaad1a431f8bb0"
+    ],
+    "walletsTez": [
+      "tz1ZByTPZtWUzLHQEqUcKkoYH7wBiHcnmhQb"
+    ],
+    "walletsOther": [],
+    "id": "cl4v6k5i9044009l0q6guyo00",
+    "username": "whiskey",
+    "createdAt": "2022-06-26T10:40:44.769Z"
+  }
+}

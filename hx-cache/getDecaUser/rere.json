@@ -1,0 +1,20 @@
+{
+  "modified": 1698333980784,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xe76f1230c61160206306cb55e524d5843bad697a",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xe76f1230c61160206306cb55e524d5843bad697a"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl4to0v8r079509juy5fc700r",
+    "username": "rere",
+    "createdAt": "2022-06-25T09:14:05.739Z"
+  }
+}

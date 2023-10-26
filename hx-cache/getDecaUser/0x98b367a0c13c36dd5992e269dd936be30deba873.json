@@ -1,0 +1,20 @@
+{
+  "modified": 1698332801629,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x98b367a0c13c36dd5992e269dd936be30deba873",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x98b367a0c13c36dd5992e269dd936be30deba873"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3ws0v20223109l7q4d8ldy8",
+    "username": "zyx",
+    "createdAt": "2022-06-02T08:49:40.152Z"
+  }
+}

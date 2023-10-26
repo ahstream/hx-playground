@@ -1,0 +1,31 @@
+{
+  "modified": 1698334013959,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x4203049bd22274aa0cb6441ad372254c9c8c5ded",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1cG6wpwnWrasAex7fGTCRZWoBBLqVnKwYo",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0x200f01194b8e0fe161345010505659e5d001a619",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x4203049bd22274aa0cb6441ad372254c9c8c5ded",
+      "0x200f01194b8e0fe161345010505659e5d001a619"
+    ],
+    "walletsTez": [
+      "tz1cG6wpwnWrasAex7fGTCRZWoBBLqVnKwYo"
+    ],
+    "walletsOther": [],
+    "id": "cl4zi8dup272409mgv41836ur",
+    "username": "lemony",
+    "createdAt": "2022-06-29T11:18:35.809Z"
+  }
+}

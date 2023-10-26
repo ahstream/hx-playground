@@ -1,0 +1,26 @@
+{
+  "modified": 1698333957573,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x83f6f2a87c5a18eb9a874f0a6b5e1bfdca3e5451",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1aBJhDV1fGz8Y9jeuvRVo9ocR4CAyKb4hv",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0x83f6f2a87c5a18eb9a874f0a6b5e1bfdca3e5451"
+    ],
+    "walletsTez": [
+      "tz1aBJhDV1fGz8Y9jeuvRVo9ocR4CAyKb4hv"
+    ],
+    "walletsOther": [],
+    "id": "cl532qx0l982609jlewdjz3av",
+    "username": "Mahnaz",
+    "createdAt": "2022-07-01T23:16:11.301Z"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "modified": 1698334372179,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xeb794215e8ab99e3475cc69f5fb2d983bca00fec",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xeb794215e8ab99e3475cc69f5fb2d983bca00fec"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5avtkvh452509lbiatr3n6d",
+    "username": "webarh",
+    "createdAt": "2022-07-07T10:24:27.629Z"
+  }
+}

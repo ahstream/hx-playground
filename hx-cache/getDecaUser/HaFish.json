@@ -1,0 +1,20 @@
+{
+  "modified": 1698334021589,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xbd1f821c985e1dc7d6d7184bdf67e85ee5d013e3",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xbd1f821c985e1dc7d6d7184bdf67e85ee5d013e3"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl68ssp6e048609lesqxy5rm3",
+    "username": "HaFish",
+    "createdAt": "2022-07-31T04:03:57.686Z"
+  }
+}

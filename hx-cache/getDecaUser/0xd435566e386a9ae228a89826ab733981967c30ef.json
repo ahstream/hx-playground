@@ -1,0 +1,25 @@
+{
+  "modified": 1698333003573,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xd435566e386a9ae228a89826ab733981967c30ef",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xe4Ac83D4EA6613a0100BAEFFf3172c61BaD7A9B6",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xd435566e386a9ae228a89826ab733981967c30ef",
+      "0xe4Ac83D4EA6613a0100BAEFFf3172c61BaD7A9B6"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl46z4dbn569809l1t8366pd4",
+    "username": "Gas",
+    "createdAt": "2022-06-09T12:06:02.867Z"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "modified": 1698334209180,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xb06b34ab11188b4cf413a7b8aa6a3e7ba848669e",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x7620e3a0a6aeaf0e8a433515d04ea68f59e62832",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xb06b34ab11188b4cf413a7b8aa6a3e7ba848669e",
+      "0x7620e3a0a6aeaf0e8a433515d04ea68f59e62832"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3h8hpi2012809jyxlyxcow0",
+    "username": "brenda",
+    "createdAt": "2022-05-22T11:46:21.145Z"
+  }
+}

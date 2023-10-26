@@ -1,0 +1,25 @@
+{
+  "modified": 1698332612316,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xec6e5577ce4a3882049a4f93b0dec3bbb8b1cad9",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xadbbe6c78edcea4c1e8e6fe11bebd894d6e82f68",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xec6e5577ce4a3882049a4f93b0dec3bbb8b1cad9",
+      "0xadbbe6c78edcea4c1e8e6fe11bebd894d6e82f68"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl41x0dcr574709ldcnu499s4",
+    "username": "TheGreekTycoon",
+    "createdAt": "2022-06-05T23:08:06.172Z"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "modified": 1698334133619,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x2829230e5ac8f48336cd4f0706b5cff184d3754b",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x2829230e5ac8f48336cd4f0706b5cff184d3754b"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5ku43r7004909mhenv8806k",
+    "username": "ejfreed",
+    "createdAt": "2022-07-14T09:34:21.187Z"
+  }
+}

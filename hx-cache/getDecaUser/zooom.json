@@ -1,0 +1,20 @@
+{
+  "modified": 1698334356633,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x751ad3ef07c5f3b53cfae667bcd16077af41ad15",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x751ad3ef07c5f3b53cfae667bcd16077af41ad15"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl8cmt33t079209mrkxz7s8mw",
+    "username": "zooom",
+    "createdAt": "2022-09-22T05:46:47.417Z"
+  }
+}

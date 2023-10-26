@@ -1,0 +1,20 @@
+{
+  "modified": 1698333982694,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xb40266773f74dc193e59f791c6e2f99f7d8dcb90",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xb40266773f74dc193e59f791c6e2f99f7d8dcb90"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl855bysu034309mxqum8slal",
+    "username": "Mr_Finch",
+    "createdAt": "2022-09-17T00:03:11.982Z"
+  }
+}

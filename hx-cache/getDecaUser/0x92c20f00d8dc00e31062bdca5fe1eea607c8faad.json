@@ -1,0 +1,20 @@
+{
+  "modified": 1698332976239,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x92c20f00d8dc00e31062bdca5fe1eea607c8faad",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x92c20f00d8dc00e31062bdca5fe1eea607c8faad"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5rxjzon655309l46eufotjj",
+    "username": "hashh",
+    "createdAt": "2022-07-19T08:45:04.487Z"
+  }
+}

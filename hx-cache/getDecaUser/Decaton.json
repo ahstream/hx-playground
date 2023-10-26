@@ -1,0 +1,20 @@
+{
+  "modified": 1698333858196,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x2f6cc036641ca932b36b0051e7c0744e9c9e2c32",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x2f6cc036641ca932b36b0051e7c0744e9c9e2c32"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3ylcxzc010709ldfqrujmmj",
+    "username": "Decaton",
+    "createdAt": "2022-06-03T15:18:38.856Z"
+  }
+}

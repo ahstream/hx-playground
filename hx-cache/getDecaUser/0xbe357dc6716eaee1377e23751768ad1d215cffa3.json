@@ -1,0 +1,26 @@
+{
+  "modified": 1698332740569,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "tz1dwbtWaHdFFiomDBG65XYw1VAfiHtrviXz",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0xbe357dc6716eaee1377e23751768ad1d215cffa3",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xbe357dc6716eaee1377e23751768ad1d215cffa3"
+    ],
+    "walletsTez": [
+      "tz1dwbtWaHdFFiomDBG65XYw1VAfiHtrviXz"
+    ],
+    "walletsOther": [],
+    "id": "cl4xunj5m072209mrmujnaa4s",
+    "username": "ChistaAi",
+    "createdAt": "2022-06-28T07:30:45.562Z"
+  }
+}

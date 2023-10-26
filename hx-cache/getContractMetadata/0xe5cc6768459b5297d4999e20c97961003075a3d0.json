@@ -1,0 +1,21 @@
+{
+  "modified": 1698351236795,
+  "value": {
+    "address": "0xe5cc6768459b5297d4999e20c97961003075a3d0",
+    "contractMetadata": {
+      "name": "Decal by Hafftka",
+      "symbol": "DECAL",
+      "totalSupply": "6",
+      "tokenType": "ERC721",
+      "contractDeployer": "0x70feeec90d37dc73d9ded8cfafd7ede3f697b70b",
+      "deployedBlockNumber": 18323166,
+      "openSea": {
+        "floorPrice": 0,
+        "collectionName": "Decal by Hafftka",
+        "collectionSlug": "decal-by-hafftka",
+        "safelistRequestStatus": "not_requested",
+        "lastIngestedAt": "2023-10-23T19:58:28.000Z"
+      }
+    }
+  }
+}

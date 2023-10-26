@@ -1,0 +1,19 @@
+{
+  "modified": 1698332478709,
+  "value": {
+    "address": "0x3c280e833896e29ff8cf3445a51da0d7fd0eec7e",
+    "name": "Decal by Kjetil Golid",
+    "owner": "0x70feeec90d37dc73d9ded8cfafd7ede3f697b70b",
+    "symbol": "DECAL",
+    "totalSupply": "100",
+    "transfersCount": 0,
+    "txsCount": 364,
+    "issuancesCount": 0,
+    "lastUpdated": 1697608762,
+    "price": false,
+    "holdersCount": 72,
+    "ethTransfersCount": 0,
+    "decimals": "0",
+    "countOps": 0
+  }
+}

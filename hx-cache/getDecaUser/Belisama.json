@@ -1,0 +1,26 @@
+{
+  "modified": 1698334020888,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xd2c3d0c0859655fb850df5d86df2c223a6f30fa6",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1SuKQDoCQnpjS6K67C8XhsKVGayA4gZ2PM",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0xd2c3d0c0859655fb850df5d86df2c223a6f30fa6"
+    ],
+    "walletsTez": [
+      "tz1SuKQDoCQnpjS6K67C8XhsKVGayA4gZ2PM"
+    ],
+    "walletsOther": [],
+    "id": "cliz5qkbj000alc0fban8gywn",
+    "username": "Belisama",
+    "createdAt": "2023-06-16T22:44:41.695Z"
+  }
+}

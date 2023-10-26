@@ -1,0 +1,20 @@
+{
+  "modified": 1698333285300,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x14f6099b662dd481e7662d30567e130024e98742",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x14f6099b662dd481e7662d30567e130024e98742"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl9xvglsl676208mo5xcd00ot",
+    "username": "MetaSmashBros",
+    "createdAt": "2022-11-01T07:11:53.685Z"
+  }
+}

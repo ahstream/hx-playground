@@ -1,0 +1,25 @@
+{
+  "modified": 1698333063928,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xb68babf19df3889f5185576f7f657c9272923002",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x03409a4010d6d23b3d91aa689a7c9cdc0d947da5",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xb68babf19df3889f5185576f7f657c9272923002",
+      "0x03409a4010d6d23b3d91aa689a7c9cdc0d947da5"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3w14rja039009mkpmvwps0g",
+    "username": "Lagunitas",
+    "createdAt": "2022-06-01T20:16:52.582Z"
+  }
+}

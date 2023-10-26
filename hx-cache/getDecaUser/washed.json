@@ -1,0 +1,20 @@
+{
+  "modified": 1698334452423,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xba3269e784c087c2c427c62499b5badca6775dcd",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xba3269e784c087c2c427c62499b5badca6775dcd"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl68g86h9023409l60quygddj",
+    "username": "washed",
+    "createdAt": "2022-07-30T22:12:04.941Z"
+  }
+}

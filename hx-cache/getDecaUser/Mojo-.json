@@ -1,0 +1,26 @@
+{
+  "modified": 1698333968130,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x511b2eaf8bf2944968374f4d5f705573c00927ee",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1XaN97oxE45QwezenZYWDRnctcCXXbPCvA",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0x511b2eaf8bf2944968374f4d5f705573c00927ee"
+    ],
+    "walletsTez": [
+      "tz1XaN97oxE45QwezenZYWDRnctcCXXbPCvA"
+    ],
+    "walletsOther": [],
+    "id": "cl3ejq6rt002509jq066ywjo2",
+    "username": "Mojo-",
+    "createdAt": "2022-05-20T14:37:34.025Z"
+  }
+}

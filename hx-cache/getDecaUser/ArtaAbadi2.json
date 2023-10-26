@@ -1,0 +1,25 @@
+{
+  "modified": 1698334205513,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x31de3d6a63fa3fb71620b657e42009e0109cb419",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xa6bdd02e5331cbfffc51d9b4e3d90ef4af9b6b87",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x31de3d6a63fa3fb71620b657e42009e0109cb419",
+      "0xa6bdd02e5331cbfffc51d9b4e3d90ef4af9b6b87"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5dlegnh372509mkg71rdz51",
+    "username": "ArtaAbadi2",
+    "createdAt": "2022-07-09T07:56:04.685Z"
+  }
+}

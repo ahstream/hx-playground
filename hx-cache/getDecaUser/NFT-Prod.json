@@ -1,0 +1,20 @@
+{
+  "modified": 1698334225822,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x6204c45b7a18c77baadc052aa1a53cc059817807",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x6204c45b7a18c77baadc052aa1a53cc059817807"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl8lrbubh081309mi1cw15m0s",
+    "username": "NFT-Prod",
+    "createdAt": "2022-09-28T15:03:16.541Z"
+  }
+}

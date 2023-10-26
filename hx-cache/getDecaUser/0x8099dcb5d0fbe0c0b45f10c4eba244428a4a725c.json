@@ -1,0 +1,36 @@
+{
+  "modified": 1698332521151,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x52d11c3ff033231f74740873917a3c854e77d883",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1RmA6FA51QLESDu5mX9ZThBjwwYudtaeW4",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0x8099dcb5d0fbe0c0b45f10c4eba244428a4a725c",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x2afed9a1488a5790f8d9dd2e324373891908845d",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x52d11c3ff033231f74740873917a3c854e77d883",
+      "0x8099dcb5d0fbe0c0b45f10c4eba244428a4a725c",
+      "0x2afed9a1488a5790f8d9dd2e324373891908845d"
+    ],
+    "walletsTez": [
+      "tz1RmA6FA51QLESDu5mX9ZThBjwwYudtaeW4"
+    ],
+    "walletsOther": [],
+    "id": "cl3urzsdm122109l3w0mho4bq",
+    "username": "B2Pineapple",
+    "createdAt": "2022-05-31T23:13:17.674Z"
+  }
+}

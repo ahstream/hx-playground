@@ -1,0 +1,20 @@
+{
+  "modified": 1698334271379,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xbb59498b19783e5d81f72ad07acdac619b6808e2",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xbb59498b19783e5d81f72ad07acdac619b6808e2"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5bxpei9060309mfj393g741",
+    "username": "mo_mo",
+    "createdAt": "2022-07-08T04:04:58.161Z"
+  }
+}

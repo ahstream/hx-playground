@@ -1,0 +1,20 @@
+{
+  "modified": 1698334287829,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x5f366cdb73c7eb4cb2743d983e2c2f4523877b87",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x5f366cdb73c7eb4cb2743d983e2c2f4523877b87"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3dc3hap015509lczuvg6utk",
+    "username": "ccury",
+    "createdAt": "2022-05-19T18:16:11.089Z"
+  }
+}

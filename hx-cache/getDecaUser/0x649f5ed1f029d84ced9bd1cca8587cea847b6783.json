@@ -1,0 +1,20 @@
+{
+  "modified": 1698333133599,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x649f5ed1f029d84ced9bd1cca8587cea847b6783",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x649f5ed1f029d84ced9bd1cca8587cea847b6783"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3ava174328709l91ln8gkox",
+    "username": "grzesiu",
+    "createdAt": "2022-05-18T00:49:50.992Z"
+  }
+}

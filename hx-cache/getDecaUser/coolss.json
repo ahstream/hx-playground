@@ -1,0 +1,20 @@
+{
+  "modified": 1698334146297,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xbb1e5d17a72569573cd3e5489e802aea290d1eab",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xbb1e5d17a72569573cd3e5489e802aea290d1eab"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5b31mlw027709l63cky9afo",
+    "username": "coolss",
+    "createdAt": "2022-07-07T13:46:40.436Z"
+  }
+}

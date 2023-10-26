@@ -1,0 +1,20 @@
+{
+  "modified": 1698334261819,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xd11203312e8a294842e06dc577250e2b207c5cfb",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xd11203312e8a294842e06dc577250e2b207c5cfb"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "clhbqmco1000imm0fm210mknw",
+    "username": "PilisC",
+    "createdAt": "2023-05-06T08:43:06.529Z"
+  }
+}

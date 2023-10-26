@@ -1,0 +1,20 @@
+{
+  "modified": 1698334069891,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x9406fade32d59795dba2d82250e1f99581a4026b",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x9406fade32d59795dba2d82250e1f99581a4026b"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3kgjasp029609l9vhzp5i73",
+    "username": "TBG22078",
+    "createdAt": "2022-05-24T17:54:50.857Z"
+  }
+}

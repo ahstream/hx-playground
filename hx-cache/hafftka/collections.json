@@ -1,0 +1,225 @@
+{
+  "collections": {
+    "0xa2cd18be17bed47b4f5275a4f08f249b7d44edd5": {
+      "tokenType": "ERC1155",
+      "contractDeployer": "0x208833804d09cf965023f2bdb03d78e3056b4767",
+      "deployedBlockNumber": 15777105,
+      "openSea": {
+        "floorPrice": 0.008,
+        "collectionName": "Hafftka Fake Rare",
+        "collectionSlug": "hafftka-fakerare",
+        "safelistRequestStatus": "disabled_top_trending",
+        "imageUrl": "https://i.seadn.io/gcs/files/f61f766a387ece1d0168212493db8391.gif?w=500&auto=format",
+        "description": "For the culture",
+        "externalUrl": "http://hafftka.com",
+        "twitterUsername": "hafftka",
+        "bannerImageUrl": "https://i.seadn.io/gcs/files/c231500600d2fc0523bf4320d74a6df9.png?w=500&auto=format",
+        "lastIngestedAt": "2023-10-19T05:06:34.000Z"
+      }
+    },
+    "0x53dcb3f5f3973a93ccb6f55d090f6ecf0c687b64": {
+      "name": "1/1s by Hafftka",
+      "symbol": "HAFFTKA1",
+      "tokenType": "ERC721",
+      "contractDeployer": "0x208833804d09cf965023f2bdb03d78e3056b4767",
+      "deployedBlockNumber": 17860477,
+      "openSea": {
+        "floorPrice": 0,
+        "collectionName": "1/1s by Hafftka",
+        "collectionSlug": "1-1s-by-hafftka",
+        "safelistRequestStatus": "not_requested",
+        "imageUrl": "https://i.seadn.io/gcs/files/05c22062adcaf6854730f70f3e5be517.jpg?w=500&auto=format",
+        "description": "",
+        "bannerImageUrl": "https://i.seadn.io/gcs/files/6b9f2ac2d00bd5e208885098636e83b0.jpg?w=500&auto=format",
+        "lastIngestedAt": "2023-10-24T13:25:52.000Z"
+      }
+    },
+    "0x808234135e050613c824481b85f871792fb9a54e": {
+      "name": "Hafftka Homage to Brancusi",
+      "symbol": "BRANCUSI",
+      "tokenType": "ERC721",
+      "contractDeployer": "0x208833804d09cf965023f2bdb03d78e3056b4767",
+      "deployedBlockNumber": 17326138,
+      "openSea": {
+        "floorPrice": 0,
+        "collectionName": "Hafftka Homage to Brancusi",
+        "collectionSlug": "hafftka-homage-to-brancusi",
+        "safelistRequestStatus": "not_requested",
+        "imageUrl": "https://i.seadn.io/gcs/files/1a30ab72cb99d2925e0f8d9b1c7719a3.jpg?w=500&auto=format",
+        "description": "A group of works honoring the Romanian Sculpture Constantin Brâncuși",
+        "bannerImageUrl": "https://i.seadn.io/gcs/files/120d2644fe74766a65979dd5cca4ea5d.jpg?w=500&auto=format",
+        "lastIngestedAt": "2023-10-17T13:34:42.000Z"
+      }
+    },
+    "0x4bf3e3a4936402a62d5194072087d7c8a8155863": {
+      "name": "Incisions by Hafftka",
+      "symbol": "HAFFIN",
+      "tokenType": "ERC721",
+      "contractDeployer": "0x208833804d09cf965023f2bdb03d78e3056b4767",
+      "deployedBlockNumber": 16721804,
+      "openSea": {
+        "floorPrice": 0,
+        "collectionName": "Incisions by Hafftka",
+        "collectionSlug": "incisions-by-hafftka",
+        "safelistRequestStatus": "not_requested",
+        "imageUrl": "https://i.seadn.io/gcs/files/051171486e49924919be962d3a10f8c9.jpg?w=500&auto=format",
+        "description": "These 10 animations are based on a series of etchings that is in the collections of the MOMA in NY and the British Museum in London. The etchings are monotypes (each of the 10 etchings is printed differently in each series). They are meant to be kept together.",
+        "externalUrl": "http://hafftka.com",
+        "twitterUsername": "hafftka",
+        "bannerImageUrl": "https://i.seadn.io/gcs/files/051171486e49924919be962d3a10f8c9.jpg?w=500&auto=format",
+        "lastIngestedAt": "2023-10-20T04:44:11.000Z"
+      }
+    },
+    "0x530e295f7226ebb8e8021f87ea6dcc0d52c6da29": {
+      "name": "Declaration of Independence",
+      "symbol": "HAFFDOI",
+      "tokenType": "ERC1155",
+      "contractDeployer": "0x208833804d09cf965023f2bdb03d78e3056b4767",
+      "deployedBlockNumber": 16464742,
+      "openSea": {
+        "floorPrice": 0.34,
+        "collectionName": "Hafftka Declaration of Independence",
+        "collectionSlug": "hafftka-declaration-of-independence",
+        "safelistRequestStatus": "approved",
+        "imageUrl": "https://i.seadn.io/gcs/files/84d5f570e72c569c4245206857f0718a.gif?w=500&auto=format",
+        "description": "Signature collection",
+        "externalUrl": "http://hafftka.com",
+        "twitterUsername": "hafftka",
+        "bannerImageUrl": "https://i.seadn.io/gcs/files/25b18938a19f01ae424100a1575cbc18.png?w=500&auto=format",
+        "lastIngestedAt": "2023-10-17T05:32:59.000Z"
+      }
+    },
+    "0x9be2860d5045e57182fb9de79a868418caaa5a67": {
+      "name": "Hafftka Homage",
+      "symbol": "HAFFHMG",
+      "tokenType": "ERC1155",
+      "contractDeployer": "0x208833804d09cf965023f2bdb03d78e3056b4767",
+      "deployedBlockNumber": 16114599,
+      "openSea": {
+        "floorPrice": 0.163,
+        "collectionName": "Hafftka Homage",
+        "collectionSlug": "hafftka-homage",
+        "safelistRequestStatus": "approved",
+        "imageUrl": "https://i.seadn.io/gcs/files/deaf7074f16b675cda6ea011b6f24ccf.gif?w=500&auto=format",
+        "description": "",
+        "externalUrl": "http://hafftka.com",
+        "twitterUsername": "hafftka",
+        "bannerImageUrl": "https://i.seadn.io/gcs/files/1f39a9f5256066815ef389cf169cd6fe.gif?w=500&auto=format",
+        "lastIngestedAt": "2023-10-20T05:05:06.000Z"
+      }
+    },
+    "0xbce570f5717a2945ed8e57aa1ddd0439037d2cca": {
+      "name": "Dreams and Revolutions",
+      "symbol": "HAFFTKADREV",
+      "totalSupply": "6",
+      "tokenType": "ERC721",
+      "contractDeployer": "0x208833804d09cf965023f2bdb03d78e3056b4767",
+      "deployedBlockNumber": 15823593,
+      "openSea": {
+        "floorPrice": 0,
+        "collectionName": "Dreams and Revolutions",
+        "collectionSlug": "dreams-and-revolutions",
+        "safelistRequestStatus": "approved",
+        "imageUrl": "https://i.seadn.io/gcs/files/71ce1e2d31b95159dde8911d174f670a.jpg?w=500&auto=format",
+        "description": "",
+        "externalUrl": "http://hafftka.com",
+        "twitterUsername": "hafftka",
+        "bannerImageUrl": "https://i.seadn.io/gcs/files/6bef3bb07bc5ebda6eae6395dce96c30.jpg?w=500&auto=format",
+        "lastIngestedAt": "2023-10-19T11:35:12.000Z"
+      }
+    },
+    "0xbd51437d1e4badcc79f35cbe4d1c233433e3898f": {
+      "name": "Hafftka Art",
+      "symbol": "HAFFTKART",
+      "tokenType": "ERC721",
+      "contractDeployer": "0x208833804d09cf965023f2bdb03d78e3056b4767",
+      "deployedBlockNumber": 15627237,
+      "openSea": {
+        "floorPrice": 0,
+        "collectionName": "Hafftka Art",
+        "collectionSlug": "hafftka-art",
+        "safelistRequestStatus": "approved",
+        "imageUrl": "https://i.seadn.io/gcs/files/4f4a92b36f414a51d5c17c63171bee39.jpg?w=500&auto=format",
+        "description": "",
+        "externalUrl": "http://hafftka.com",
+        "twitterUsername": "hafftka",
+        "bannerImageUrl": "https://i.seadn.io/gcs/files/4f4a92b36f414a51d5c17c63171bee39.jpg?w=500&auto=format",
+        "lastIngestedAt": "2023-10-19T11:36:30.000Z"
+      }
+    },
+    "0xbe8adf8e7b320dc3256cf30739ef290561cad62f": {
+      "name": "Hafftka Stories",
+      "symbol": "HAFST",
+      "totalSupply": "2",
+      "tokenType": "ERC721",
+      "contractDeployer": "0x208833804d09cf965023f2bdb03d78e3056b4767",
+      "deployedBlockNumber": 15621490,
+      "openSea": {
+        "floorPrice": 0,
+        "collectionName": "Hafftka Stories",
+        "collectionSlug": "hafftka-stories",
+        "safelistRequestStatus": "approved",
+        "imageUrl": "https://i.seadn.io/gcs/files/4b4eca5c4374a23b750fe33be19e30f3.jpg?w=500&auto=format",
+        "description": "",
+        "twitterUsername": "hafftka",
+        "bannerImageUrl": "https://i.seadn.io/gcs/files/97288250ce4c139be29c76ed3ecca8bf.png?w=500&auto=format",
+        "lastIngestedAt": "2023-10-19T11:40:38.000Z"
+      }
+    },
+    "0x1156c090c848b28279a75827324e014adedc22aa": {
+      "name": "Hafftka - Zohar Works",
+      "symbol": "ZOHAR",
+      "tokenType": "ERC721",
+      "contractDeployer": "0x208833804d09cf965023f2bdb03d78e3056b4767",
+      "deployedBlockNumber": 15550892,
+      "openSea": {
+        "floorPrice": 0,
+        "collectionName": "Hafftka - Zohar Works",
+        "collectionSlug": "hafftka-zohar-works",
+        "safelistRequestStatus": "approved",
+        "imageUrl": "https://i.seadn.io/gcs/files/ea12ec164ce82e5399a6141b61bd4e61.jpg?w=500&auto=format",
+        "description": "Exegesis of the Zohar",
+        "externalUrl": "http://hafftka.com",
+        "twitterUsername": "hafftka",
+        "bannerImageUrl": "https://i.seadn.io/gcs/files/ea12ec164ce82e5399a6141b61bd4e61.jpg?w=500&auto=format",
+        "lastIngestedAt": "2023-10-18T12:59:27.000Z"
+      }
+    },
+    "0x636113075274285cfa62878282fb4c1b14f29591": {
+      "name": "Hafftka Museum Works",
+      "symbol": "HAFFTKAMUSEUM",
+      "totalSupply": "12",
+      "tokenType": "ERC721",
+      "contractDeployer": "0x208833804d09cf965023f2bdb03d78e3056b4767",
+      "deployedBlockNumber": 15456918,
+      "openSea": {
+        "floorPrice": 0,
+        "collectionName": "Hafftka Museum Works",
+        "collectionSlug": "hafftka-museum-works",
+        "safelistRequestStatus": "approved",
+        "imageUrl": "https://i.seadn.io/gcs/files/4e4ad2b912dda1f2f05d52a3b4e9a8a6.jpg?w=500&auto=format",
+        "description": "",
+        "twitterUsername": "hafftka",
+        "bannerImageUrl": "https://i.seadn.io/gcs/files/4e4ad2b912dda1f2f05d52a3b4e9a8a6.jpg?w=500&auto=format",
+        "lastIngestedAt": "2023-10-18T03:25:03.000Z"
+      }
+    },
+    "0x4365b5313efbff83e8e112a8519998e6677ebb70": {
+      "tokenType": "ERC1155",
+      "contractDeployer": "0x208833804d09cf965023f2bdb03d78e3056b4767",
+      "deployedBlockNumber": 15369508,
+      "openSea": {
+        "floorPrice": 0.39,
+        "collectionName": "Hafftka's Bullpen",
+        "collectionSlug": "hafftkas-bullpen",
+        "safelistRequestStatus": "approved",
+        "imageUrl": "https://i.seadn.io/gcs/files/325ef7e24d47a18533455a55f17540fe.jpg?w=500&auto=format",
+        "description": "Editions by Hafftka",
+        "externalUrl": "http://hafftka.com",
+        "twitterUsername": "hafftka",
+        "bannerImageUrl": "https://i.seadn.io/gcs/files/68698b70cc596e57d5ef5cc3892bb1ea.jpg?w=500&auto=format",
+        "lastIngestedAt": "2023-10-20T09:28:52.000Z"
+      }
+    }
+  }
+}

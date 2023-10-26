@@ -1,0 +1,25 @@
+{
+  "modified": 1698351244745,
+  "value": {
+    "address": "0xb0003120bb3e73b7ca7a42324013258f569750f1",
+    "contractMetadata": {
+      "name": "Decal by Jerad Armijo",
+      "symbol": "DECAL",
+      "totalSupply": "100",
+      "tokenType": "ERC721",
+      "contractDeployer": "0x70feeec90d37dc73d9ded8cfafd7ede3f697b70b",
+      "deployedBlockNumber": 15836082,
+      "openSea": {
+        "floorPrice": 0.0999,
+        "collectionName": "Decal by Jerad Armijo",
+        "collectionSlug": "decal-by-jerad-armijo",
+        "safelistRequestStatus": "not_requested",
+        "imageUrl": "https://i.seadn.io/gcs/files/172dae5dbde950d2748d5191e394714d.png?w=500&auto=format",
+        "description": "An interpretation of the Decal by Jerad Armijo. A symbol of permissionless creativity. Series Six.",
+        "externalUrl": "https://deca.art/decal",
+        "bannerImageUrl": "https://i.seadn.io/gcs/files/6d927a7b2ad220f9856e0f8d5afc4a7a.png?w=500&auto=format",
+        "lastIngestedAt": "2023-10-19T07:55:39.000Z"
+      }
+    }
+  }
+}

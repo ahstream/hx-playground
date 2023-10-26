@@ -1,0 +1,30 @@
+{
+  "modified": 1698334189329,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x3bf6ebb392d55264f350249306cfd96626ab30d4",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xa019d2659baebb33e2b036ee6fb31a984da2a2b6",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xb5d38b3dc3adabcf5f0e3618b7ed73a0bf4a1361",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x3bf6ebb392d55264f350249306cfd96626ab30d4",
+      "0xa019d2659baebb33e2b036ee6fb31a984da2a2b6",
+      "0xb5d38b3dc3adabcf5f0e3618b7ed73a0bf4a1361"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3hb22ym009809l7esqa7tqe",
+    "username": "KENEDY",
+    "createdAt": "2022-05-22T12:58:10.942Z"
+  }
+}

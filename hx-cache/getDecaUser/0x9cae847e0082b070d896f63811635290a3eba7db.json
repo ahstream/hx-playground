@@ -1,0 +1,36 @@
+{
+  "modified": 1698333213176,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "tz1fwiT9M6mtXjK1bBaAVWyQcoy35hUB1vje",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0x9cae847e0082b070d896f63811635290a3eba7db",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xfeeb41cecfb15831e4cade6ddb87616c4b21138c",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x1acf2e36828737a5d2a35b70cddeb89d7cd4a2b4",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x9cae847e0082b070d896f63811635290a3eba7db",
+      "0xfeeb41cecfb15831e4cade6ddb87616c4b21138c",
+      "0x1acf2e36828737a5d2a35b70cddeb89d7cd4a2b4"
+    ],
+    "walletsTez": [
+      "tz1fwiT9M6mtXjK1bBaAVWyQcoy35hUB1vje"
+    ],
+    "walletsOther": [],
+    "id": "cl1dz31r4008409mcu0gxymzy",
+    "username": "Liparis",
+    "createdAt": "2022-03-30T19:40:17.440Z"
+  }
+}

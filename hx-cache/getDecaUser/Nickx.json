@@ -1,0 +1,20 @@
+{
+  "modified": 1698334215792,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xf4f80e7566d64a22c675217fc3072ed9a07f02b5",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xf4f80e7566d64a22c675217fc3072ed9a07f02b5"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3w6kivi707509mht9yjb755",
+    "username": "Nickx",
+    "createdAt": "2022-06-01T22:49:05.934Z"
+  }
+}

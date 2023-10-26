@@ -1,0 +1,26 @@
+{
+  "modified": 1698334174651,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xce26c9829d74593cdd18cdac543b4129c62328b5",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1SSCjgL54U5yUemQVFGfZ9M9ygKHLHgNsA",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0xce26c9829d74593cdd18cdac543b4129c62328b5"
+    ],
+    "walletsTez": [
+      "tz1SSCjgL54U5yUemQVFGfZ9M9ygKHLHgNsA"
+    ],
+    "walletsOther": [],
+    "id": "cl467zy9g096209ms4udra0dn",
+    "username": "Shahrokh",
+    "createdAt": "2022-06-08T23:26:47.092Z"
+  }
+}

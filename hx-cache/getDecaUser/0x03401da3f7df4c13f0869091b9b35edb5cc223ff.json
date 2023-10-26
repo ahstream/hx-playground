@@ -1,0 +1,20 @@
+{
+  "modified": 1698332480882,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x03401da3f7df4c13f0869091b9b35edb5cc223ff",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x03401da3f7df4c13f0869091b9b35edb5cc223ff"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5libxrw879809l7za0tmdyr",
+    "username": "Rachmaninoff",
+    "createdAt": "2022-07-14T20:52:17.468Z"
+  }
+}

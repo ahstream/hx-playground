@@ -1,0 +1,20 @@
+{
+  "modified": 1698332953773,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x931f21e02a3697c53ffea350f0ec3c652040705e",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x931f21e02a3697c53ffea350f0ec3c652040705e"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3uoxkdt366809jiwt2pu0sw",
+    "username": "jasminexu",
+    "createdAt": "2022-05-31T21:47:35.153Z"
+  }
+}

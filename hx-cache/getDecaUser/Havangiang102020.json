@@ -1,0 +1,20 @@
+{
+  "modified": 1698333990078,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x41965f9bef96454c6aaf1c5709240d8255a9bf10",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x41965f9bef96454c6aaf1c5709240d8255a9bf10"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl6wf71jg040409mu8snfrvlz",
+    "username": "Havangiang102020",
+    "createdAt": "2022-08-16T16:49:40.492Z"
+  }
+}

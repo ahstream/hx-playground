@@ -1,0 +1,26 @@
+{
+  "modified": 1698333230723,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xaec3f7e735505c2b787b05d67f4adaefe3dfd678",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1erbdBpdGjbZ34m7kbVSa3i1ELYNzKWfPQ",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0xaec3f7e735505c2b787b05d67f4adaefe3dfd678"
+    ],
+    "walletsTez": [
+      "tz1erbdBpdGjbZ34m7kbVSa3i1ELYNzKWfPQ"
+    ],
+    "walletsOther": [],
+    "id": "cl3xvzn65074809ihug22yqca",
+    "username": "agnimax",
+    "createdAt": "2022-06-03T03:28:27.917Z"
+  }
+}

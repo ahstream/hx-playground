@@ -1,0 +1,20 @@
+{
+  "modified": 1698333106234,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xe2518a8228070776d5759e99996f82778618cb43",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xe2518a8228070776d5759e99996f82778618cb43"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl6rgto9o117120gmj8t4nhjge",
+    "username": "Swatkat",
+    "createdAt": "2022-08-13T05:36:25.116Z"
+  }
+}

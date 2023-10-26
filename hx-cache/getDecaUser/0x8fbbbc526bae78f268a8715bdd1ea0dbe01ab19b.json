@@ -1,0 +1,26 @@
+{
+  "modified": 1698332771839,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x8fbbbc526bae78f268a8715bdd1ea0dbe01ab19b",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1ZuKnPYihdNA6i9ACCLHtDsS8XWVwRwL3U",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0x8fbbbc526bae78f268a8715bdd1ea0dbe01ab19b"
+    ],
+    "walletsTez": [
+      "tz1ZuKnPYihdNA6i9ACCLHtDsS8XWVwRwL3U"
+    ],
+    "walletsOther": [],
+    "id": "clj2p2wte001rmd0f1iclnopp",
+    "username": "Yeganeh_Sarvari",
+    "createdAt": "2023-06-19T10:09:28.995Z"
+  }
+}

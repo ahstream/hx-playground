@@ -1,0 +1,36 @@
+{
+  "modified": 1698334285353,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xb32044d6911effab4f19a143a9cecd886403003e",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x5929a04ec2e784b6ed8e7b00f8c83f7e35444a78",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x49d6c959993df4ce70379a77fcff9b66e48c724d",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1iAPsJzFhkTYQZmJGXtudXWf4TZQ1hQbeG",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0xb32044d6911effab4f19a143a9cecd886403003e",
+      "0x5929a04ec2e784b6ed8e7b00f8c83f7e35444a78",
+      "0x49d6c959993df4ce70379a77fcff9b66e48c724d"
+    ],
+    "walletsTez": [
+      "tz1iAPsJzFhkTYQZmJGXtudXWf4TZQ1hQbeG"
+    ],
+    "walletsOther": [],
+    "id": "cl3k12mv2010009mhrui78934",
+    "username": "ella",
+    "createdAt": "2022-05-24T10:41:59.102Z"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "modified": 1698334190744,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xdb41f0d9186776fe853aef0de79897648b6c2a9d",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xdb41f0d9186776fe853aef0de79897648b6c2a9d"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl51v4svm255709jwdo6umjri",
+    "username": "lalaland",
+    "createdAt": "2022-07-01T02:55:16.018Z"
+  }
+}

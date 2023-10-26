@@ -1,0 +1,20 @@
+{
+  "modified": 1698333207300,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x47c5d5d7dbe612d3404a4f72e2c758ee4f315317",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x47c5d5d7dbe612d3404a4f72e2c758ee4f315317"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3vetojk034509mjyqti301u",
+    "username": "Cedrick_NFT",
+    "createdAt": "2022-06-01T09:52:23.936Z"
+  }
+}

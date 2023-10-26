@@ -1,0 +1,26 @@
+{
+  "modified": 1698334480402,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "tz1gZBtUQYdwbPyNdbyiJ3arzfb9zjpofeES",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0x2f77ca1ae1c1910731e57731595dc1a51cadf50b",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x2f77ca1ae1c1910731e57731595dc1a51cadf50b"
+    ],
+    "walletsTez": [
+      "tz1gZBtUQYdwbPyNdbyiJ3arzfb9zjpofeES"
+    ],
+    "walletsOther": [],
+    "id": "cl3uitqrz623409mz0cius8o1",
+    "username": "chinaski",
+    "createdAt": "2022-05-31T18:56:39.119Z"
+  }
+}

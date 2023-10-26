@@ -1,0 +1,20 @@
+{
+  "modified": 1698333231425,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xc1855da46c382600e1571484d0880d4967e85aee",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xc1855da46c382600e1571484d0880d4967e85aee"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl4nk9bdw114609jy85nsn6y4",
+    "username": "Spacey",
+    "createdAt": "2022-06-21T02:42:04.388Z"
+  }
+}

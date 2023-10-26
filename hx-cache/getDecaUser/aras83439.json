@@ -1,0 +1,20 @@
+{
+  "modified": 1698333952069,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xff7d4ddac006541ea4bf5c3ae85e8a677b4e04ba",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xff7d4ddac006541ea4bf5c3ae85e8a677b4e04ba"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl4tmtuv6111909jsljnbxfqa",
+    "username": "aras83439",
+    "createdAt": "2022-06-25T08:40:39.042Z"
+  }
+}

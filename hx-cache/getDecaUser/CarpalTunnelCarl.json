@@ -1,0 +1,26 @@
+{
+  "modified": 1698333937783,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x2c632439c01fa0911ff2cb598472bd0de3101dcf",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1UmMwUrDsYoWMJYGvrhkUrgJeibp4ba6Eo",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0x2c632439c01fa0911ff2cb598472bd0de3101dcf"
+    ],
+    "walletsTez": [
+      "tz1UmMwUrDsYoWMJYGvrhkUrgJeibp4ba6Eo"
+    ],
+    "walletsOther": [],
+    "id": "cl4dbiug638010ajpeuminqhu",
+    "username": "CarpalTunnelCarl",
+    "createdAt": "2022-06-13T22:39:50.694Z"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "modified": 1698333900179,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xf3fbb2c0a711529ef9b81fe59a5ef5b8f1e0eb27",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xc1fc8055129eFf78Dd73C9929aa8CE8982EB8B0F",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xf3fbb2c0a711529ef9b81fe59a5ef5b8f1e0eb27",
+      "0xc1fc8055129eFf78Dd73C9929aa8CE8982EB8B0F"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3yc5l0w525509mgqf3g7j9w",
+    "username": "zipperhead",
+    "createdAt": "2022-06-03T11:00:58.928Z"
+  }
+}

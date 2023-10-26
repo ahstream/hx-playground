@@ -1,0 +1,26 @@
+{
+  "modified": 1698334450983,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x0fa6f2b9c7ee2967717144bdcf1aef9605cca5da",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz2LYP6npUwo94MTHRvFQNV38zPWN1QHpHqm",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0x0fa6f2b9c7ee2967717144bdcf1aef9605cca5da"
+    ],
+    "walletsTez": [
+      "tz2LYP6npUwo94MTHRvFQNV38zPWN1QHpHqm"
+    ],
+    "walletsOther": [],
+    "id": "cl3xcvvz8354809jtai0zmnhs",
+    "username": "dunkers",
+    "createdAt": "2022-06-02T18:33:40.004Z"
+  }
+}

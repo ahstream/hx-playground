@@ -1,0 +1,20 @@
+{
+  "modified": 1698333923911,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xf10188fe2283e220f4340651ee0d13b606c35d73",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xf10188fe2283e220f4340651ee0d13b606c35d73"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl6elp99y328509kuxcasxii5",
+    "username": "sganda",
+    "createdAt": "2022-08-04T05:31:56.854Z"
+  }
+}

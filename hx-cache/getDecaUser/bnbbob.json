@@ -1,0 +1,20 @@
+{
+  "modified": 1698334153415,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xc77cee27c67b226628005fc234b8c8aa37ba6486",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xc77cee27c67b226628005fc234b8c8aa37ba6486"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5auahwb013209ldstj0bk49",
+    "username": "bnbbob",
+    "createdAt": "2022-07-07T09:41:37.691Z"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "modified": 1698334362677,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x7d00d8579549fcbe8a3296342042a178408f82f7",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x7d00d8579549fcbe8a3296342042a178408f82f7"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl4v7jq47385909mp5vju78lg",
+    "username": "FOESxKARMA",
+    "createdAt": "2022-06-26T11:08:24.439Z"
+  }
+}

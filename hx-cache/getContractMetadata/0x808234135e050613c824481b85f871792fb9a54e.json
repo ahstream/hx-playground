@@ -1,0 +1,23 @@
+{
+  "modified": 1698350129183,
+  "value": {
+    "address": "0x808234135e050613c824481b85f871792fb9a54e",
+    "contractMetadata": {
+      "name": "Hafftka Homage to Brancusi",
+      "symbol": "BRANCUSI",
+      "tokenType": "ERC721",
+      "contractDeployer": "0x208833804d09cf965023f2bdb03d78e3056b4767",
+      "deployedBlockNumber": 17326138,
+      "openSea": {
+        "floorPrice": 0,
+        "collectionName": "Hafftka Homage to Brancusi",
+        "collectionSlug": "hafftka-homage-to-brancusi",
+        "safelistRequestStatus": "not_requested",
+        "imageUrl": "https://i.seadn.io/gcs/files/1a30ab72cb99d2925e0f8d9b1c7719a3.jpg?w=500&auto=format",
+        "description": "A group of works honoring the Romanian Sculpture Constantin Brâncuși",
+        "bannerImageUrl": "https://i.seadn.io/gcs/files/120d2644fe74766a65979dd5cca4ea5d.jpg?w=500&auto=format",
+        "lastIngestedAt": "2023-10-17T13:34:42.000Z"
+      }
+    }
+  }
+}

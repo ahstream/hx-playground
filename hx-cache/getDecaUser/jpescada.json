@@ -1,0 +1,36 @@
+{
+  "modified": 1698333868582,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "tz1hBeaLYStXbdZbF9gruFszFhXmqxLFsEyf",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0xfe1bbdd8a21d7493a444c5324fd814924c583612",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x233b9416a09eb4311f780a3ab3f247ee53f8956f",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x8367F27c18785d63fa0822a7126D38f53a2c6A6d",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xfe1bbdd8a21d7493a444c5324fd814924c583612",
+      "0x233b9416a09eb4311f780a3ab3f247ee53f8956f",
+      "0x8367F27c18785d63fa0822a7126D38f53a2c6A6d"
+    ],
+    "walletsTez": [
+      "tz1hBeaLYStXbdZbF9gruFszFhXmqxLFsEyf"
+    ],
+    "walletsOther": [],
+    "id": "clehv1xws002tla0faw8z1qwo",
+    "username": "jpescada",
+    "createdAt": "2023-02-24T01:34:42.401Z"
+  }
+}

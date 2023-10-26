@@ -1,0 +1,20 @@
+{
+  "modified": 1698333996695,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x6b62240234afd9bd4e5efccb44f96254da30a324",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x6b62240234afd9bd4e5efccb44f96254da30a324"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl4o6oer4140209ms2hpzm0ky",
+    "username": "boytiny",
+    "createdAt": "2022-06-21T13:09:40.144Z"
+  }
+}

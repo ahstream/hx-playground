@@ -1,0 +1,20 @@
+{
+  "modified": 1698333220265,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xf1c0a0a196770093ef0c9c269ecd6202b892ee21",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xf1c0a0a196770093ef0c9c269ecd6202b892ee21"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3hb2bdp017209mlz1eggk91",
+    "username": "Yahaa",
+    "createdAt": "2022-05-22T12:58:21.853Z"
+  }
+}

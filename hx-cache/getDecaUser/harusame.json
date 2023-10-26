@@ -1,0 +1,20 @@
+{
+  "modified": 1698334233934,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xd31a84c20bc430ad75e6a1903e7ddbee52211072",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xd31a84c20bc430ad75e6a1903e7ddbee52211072"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3wajday293409mcj5w0oubk",
+    "username": "harusame",
+    "createdAt": "2022-06-02T00:40:10.522Z"
+  }
+}

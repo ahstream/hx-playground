@@ -1,0 +1,26 @@
+{
+  "modified": 1698334063536,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x18ee810347caf9af444a995622498117f393874e",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1araUZWTDLmvFb8SuZVmTcbbozk6gsfSRB",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0x18ee810347caf9af444a995622498117f393874e"
+    ],
+    "walletsTez": [
+      "tz1araUZWTDLmvFb8SuZVmTcbbozk6gsfSRB"
+    ],
+    "walletsOther": [],
+    "id": "cl501ze85740109mhzqcchh8j",
+    "username": "ELDENIZ",
+    "createdAt": "2022-06-29T20:31:28.709Z"
+  }
+}

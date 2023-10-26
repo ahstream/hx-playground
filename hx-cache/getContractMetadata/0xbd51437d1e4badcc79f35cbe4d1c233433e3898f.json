@@ -1,0 +1,25 @@
+{
+  "modified": 1698350262825,
+  "value": {
+    "address": "0xbd51437d1e4badcc79f35cbe4d1c233433e3898f",
+    "contractMetadata": {
+      "name": "Hafftka Art",
+      "symbol": "HAFFTKART",
+      "tokenType": "ERC721",
+      "contractDeployer": "0x208833804d09cf965023f2bdb03d78e3056b4767",
+      "deployedBlockNumber": 15627237,
+      "openSea": {
+        "floorPrice": 0,
+        "collectionName": "Hafftka Art",
+        "collectionSlug": "hafftka-art",
+        "safelistRequestStatus": "approved",
+        "imageUrl": "https://i.seadn.io/gcs/files/4f4a92b36f414a51d5c17c63171bee39.jpg?w=500&auto=format",
+        "description": "",
+        "externalUrl": "http://hafftka.com",
+        "twitterUsername": "hafftka",
+        "bannerImageUrl": "https://i.seadn.io/gcs/files/4f4a92b36f414a51d5c17c63171bee39.jpg?w=500&auto=format",
+        "lastIngestedAt": "2023-10-19T11:36:30.000Z"
+      }
+    }
+  }
+}

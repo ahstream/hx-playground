@@ -1,0 +1,31 @@
+{
+  "modified": 1698333853759,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x9ba6e0ea2fdf65e8aee29d6ec60a4d515294cf4f",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x806a69dafa134654ad8ec2a6da619c94695f5ba2",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz2Rv9eZdrCFMoA4QesAtpqHGRDU918YoLC8",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0x9ba6e0ea2fdf65e8aee29d6ec60a4d515294cf4f",
+      "0x806a69dafa134654ad8ec2a6da619c94695f5ba2"
+    ],
+    "walletsTez": [
+      "tz2Rv9eZdrCFMoA4QesAtpqHGRDU918YoLC8"
+    ],
+    "walletsOther": [],
+    "id": "cl3yjf6hy1433309l5p851uae6",
+    "username": "MrDour",
+    "createdAt": "2022-06-03T14:24:23.974Z"
+  }
+}

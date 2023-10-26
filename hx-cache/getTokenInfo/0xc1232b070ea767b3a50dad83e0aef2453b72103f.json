@@ -1,0 +1,19 @@
+{
+  "modified": 1698332470709,
+  "value": {
+    "address": "0xc1232b070ea767b3a50dad83e0aef2453b72103f",
+    "name": "Decal by Mannay x A. Marrast",
+    "owner": "0x70feeec90d37dc73d9ded8cfafd7ede3f697b70b",
+    "symbol": "DECAL",
+    "totalSupply": "100",
+    "transfersCount": 0,
+    "txsCount": 192,
+    "issuancesCount": 0,
+    "lastUpdated": 1697999061,
+    "price": false,
+    "holdersCount": 71,
+    "ethTransfersCount": 0,
+    "decimals": "0",
+    "countOps": 0
+  }
+}

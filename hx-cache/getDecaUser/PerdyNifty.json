@@ -1,0 +1,30 @@
+{
+  "modified": 1698334259619,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xaffebd20ab189db1d41dd28351f10a343153a872",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x86d6ccac4f30f23942d9a98b850c430fc4a9d755",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x8b70172cab2b62fef91d1e010e50546b4c8d2ac1",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xaffebd20ab189db1d41dd28351f10a343153a872",
+      "0x86d6ccac4f30f23942d9a98b850c430fc4a9d755",
+      "0x8b70172cab2b62fef91d1e010e50546b4c8d2ac1"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl7cek36m002709m9klfox6v6",
+    "username": "PerdyNifty",
+    "createdAt": "2022-08-27T21:16:08.350Z"
+  }
+}

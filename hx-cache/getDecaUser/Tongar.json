@@ -1,0 +1,20 @@
+{
+  "modified": 1698334245719,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x8e8a155f1a02c5dd0cb00ded9f48842ed72f7851",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x8e8a155f1a02c5dd0cb00ded9f48842ed72f7851"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5aujx2x113809kxsn57cgk1",
+    "username": "Tongar",
+    "createdAt": "2022-07-07T09:48:57.273Z"
+  }
+}

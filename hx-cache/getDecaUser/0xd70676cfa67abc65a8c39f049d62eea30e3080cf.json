@@ -1,0 +1,26 @@
+{
+  "modified": 1698332661394,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xd70676cfa67abc65a8c39f049d62eea30e3080cf",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1XeEyDyk3EKLBg128NNMpTXB4bur5YMjnD",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0xd70676cfa67abc65a8c39f049d62eea30e3080cf"
+    ],
+    "walletsTez": [
+      "tz1XeEyDyk3EKLBg128NNMpTXB4bur5YMjnD"
+    ],
+    "walletsOther": [],
+    "id": "cl5fc42rj2027709l8wqd9vxkt",
+    "username": "furtoads",
+    "createdAt": "2022-07-10T13:11:35.935Z"
+  }
+}

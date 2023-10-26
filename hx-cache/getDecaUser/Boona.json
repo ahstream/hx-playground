@@ -1,0 +1,36 @@
+{
+  "modified": 1698333896087,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xdebb3a9fee141b026f6bec12e9e87e927b892e83",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1akMHNrYZ82xhHjSnn19oc893VrvytDLbe",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0x56e507da02d59190a59824308d1f63d40e0278af",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xbc1e0021f9d22582b34b584b8516dff417e7ab71",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xdebb3a9fee141b026f6bec12e9e87e927b892e83",
+      "0x56e507da02d59190a59824308d1f63d40e0278af",
+      "0xbc1e0021f9d22582b34b584b8516dff417e7ab71"
+    ],
+    "walletsTez": [
+      "tz1akMHNrYZ82xhHjSnn19oc893VrvytDLbe"
+    ],
+    "walletsOther": [],
+    "id": "cl3i0olxt187709l6vxq8c1f2",
+    "username": "Boona",
+    "createdAt": "2022-05-23T00:55:32.369Z"
+  }
+}

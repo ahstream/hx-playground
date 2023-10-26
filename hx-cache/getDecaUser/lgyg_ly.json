@@ -1,0 +1,20 @@
+{
+  "modified": 1698334025254,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x8e8f48b03b3990576a4b09a581b1b2e8c7efebbc",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x8e8f48b03b3990576a4b09a581b1b2e8c7efebbc"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3x6ik9x100209l4cm29131g",
+    "username": "lgyg_ly",
+    "createdAt": "2022-06-02T15:35:20.613Z"
+  }
+}

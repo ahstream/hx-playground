@@ -1,0 +1,20 @@
+{
+  "modified": 1698334117966,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xd5b8324e764146e4e790b81a08fefba91676fa18",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xd5b8324e764146e4e790b81a08fefba91676fa18"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5crrghw1245609jpi9pw1lxf",
+    "username": "zcaz123",
+    "createdAt": "2022-07-08T18:06:22.532Z"
+  }
+}

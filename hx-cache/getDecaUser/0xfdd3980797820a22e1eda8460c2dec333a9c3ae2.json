@@ -1,0 +1,20 @@
+{
+  "modified": 1698332556828,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xfdd3980797820a22e1eda8460c2dec333a9c3ae2",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xfdd3980797820a22e1eda8460c2dec333a9c3ae2"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl6ffedyp052009mkbpinj5fb",
+    "username": "Nanosec_Dili",
+    "createdAt": "2022-08-04T19:23:18.193Z"
+  }
+}

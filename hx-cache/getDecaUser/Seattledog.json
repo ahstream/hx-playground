@@ -1,0 +1,31 @@
+{
+  "modified": 1698334409251,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xacde31cb0eba050dbbe499051a2f5bd9feaba60f",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1RiTAgQFqhXU9c8cntLgaY6KPhSNubYWF8",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0x71042c2a74bbc93ce9b8d4eb6b42fc6f07ef31d5",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xacde31cb0eba050dbbe499051a2f5bd9feaba60f",
+      "0x71042c2a74bbc93ce9b8d4eb6b42fc6f07ef31d5"
+    ],
+    "walletsTez": [
+      "tz1RiTAgQFqhXU9c8cntLgaY6KPhSNubYWF8"
+    ],
+    "walletsOther": [],
+    "id": "cl3umyz6g346109lcfmn5f08y",
+    "username": "Seattledog",
+    "createdAt": "2022-05-31T20:52:41.752Z"
+  }
+}

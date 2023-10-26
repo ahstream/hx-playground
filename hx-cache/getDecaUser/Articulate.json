@@ -1,0 +1,20 @@
+{
+  "modified": 1698334499256,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x4076eca4db9684fa1d9bfac231cb516889a33e5a",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x4076eca4db9684fa1d9bfac231cb516889a33e5a"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3v0oyuc188209l0nsrd3g94",
+    "username": "Articulate",
+    "createdAt": "2022-06-01T03:16:49.380Z"
+  }
+}

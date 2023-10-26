@@ -1,0 +1,25 @@
+{
+  "modified": 1698334091914,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xc21d4827983371c4a7cf62c6189add3615dd99e7",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x0e67583c154b1e978b8723a574a816b273a51213",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xc21d4827983371c4a7cf62c6189add3615dd99e7",
+      "0x0e67583c154b1e978b8723a574a816b273a51213"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cln79o1av0001jq0f24y8d9l6",
+    "username": "Dexymid",
+    "createdAt": "2023-10-01T09:35:40.703Z"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "modified": 1698334173890,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xcbcd44b8ad78b77e0649899d4271bfff33c2c9fd",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xcbcd44b8ad78b77e0649899d4271bfff33c2c9fd"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5b4iul8580109mrtmsd2pri",
+    "username": "Fighting",
+    "createdAt": "2022-07-07T14:28:03.548Z"
+  }
+}

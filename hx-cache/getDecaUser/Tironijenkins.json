@@ -1,0 +1,30 @@
+{
+  "modified": 1698334002659,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x6d5b8025dfd4c93217eeab91aef6d57d1854c647",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x675049bd1345d20279b43c40e7474c335dbe755e",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xdb2c9de750521899c53a4ad0824cf9fa36731084",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x6d5b8025dfd4c93217eeab91aef6d57d1854c647",
+      "0x675049bd1345d20279b43c40e7474c335dbe755e",
+      "0xdb2c9de750521899c53a4ad0824cf9fa36731084"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3sl73yc011509jp3emitb9b",
+    "username": "Tironijenkins",
+    "createdAt": "2022-05-30T10:27:29.604Z"
+  }
+}

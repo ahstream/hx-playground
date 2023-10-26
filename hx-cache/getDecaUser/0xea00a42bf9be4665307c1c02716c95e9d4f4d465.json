@@ -1,0 +1,25 @@
+{
+  "modified": 1698333201497,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x2c583a3f47163c7d36c942045e01d90003cdd236",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xea00a42bf9be4665307c1c02716c95e9d4f4d465",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x2c583a3f47163c7d36c942045e01d90003cdd236",
+      "0xea00a42bf9be4665307c1c02716c95e9d4f4d465"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3uv9blc047109lbuu0d8cts",
+    "username": "mondzera",
+    "createdAt": "2022-06-01T00:44:41.328Z"
+  }
+}

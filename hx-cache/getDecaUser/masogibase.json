@@ -1,0 +1,25 @@
+{
+  "modified": 1698334219650,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x3f5eb8ed077613c6127b7644870833a7260fe9a2",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xe407f97f202924b1b6d60ca60894fcfe7168d8f7",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x3f5eb8ed077613c6127b7644870833a7260fe9a2",
+      "0xe407f97f202924b1b6d60ca60894fcfe7168d8f7"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3hb22jw006709l797lh35fd",
+    "username": "masogibase",
+    "createdAt": "2022-05-22T12:58:10.412Z"
+  }
+}

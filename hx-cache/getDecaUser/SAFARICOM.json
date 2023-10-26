@@ -1,0 +1,25 @@
+{
+  "modified": 1698334203878,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x6c80fa52db29fee247fb9f031755461038792f17",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x8057e2913d92e2513594533e036b6076a0ac1a66",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x6c80fa52db29fee247fb9f031755461038792f17",
+      "0x8057e2913d92e2513594533e036b6076a0ac1a66"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl4kyemrf084809l8v447k0zg",
+    "username": "SAFARICOM",
+    "createdAt": "2022-06-19T06:54:48.507Z"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "modified": 1698332803089,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "tz1PFGWgZVJ1tzAnxfe4qkFZLBur14UYW4Kj",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0xa033ceac558745ff742818529d7d84f7d1ee55cd",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xa033ceac558745ff742818529d7d84f7d1ee55cd"
+    ],
+    "walletsTez": [
+      "tz1PFGWgZVJ1tzAnxfe4qkFZLBur14UYW4Kj"
+    ],
+    "walletsOther": [],
+    "id": "cl93chf05551509mobv9msfc8",
+    "username": "King-Sekasi",
+    "createdAt": "2022-10-10T22:27:33.557Z"
+  }
+}

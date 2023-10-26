@@ -1,0 +1,20 @@
+{
+  "modified": 1698333965858,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x7829a2edf3ea4662f0e1f3797173efff9d58b353",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x7829a2edf3ea4662f0e1f3797173efff9d58b353"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3juzire004109mgzi0jok16",
+    "username": "TMS",
+    "createdAt": "2022-05-24T07:51:36.122Z"
+  }
+}

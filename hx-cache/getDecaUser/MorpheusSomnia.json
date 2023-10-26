@@ -1,0 +1,26 @@
+{
+  "modified": 1698334498549,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x9c54a9c609212d2fd034b55cf3b42ba99af52880",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1QvuCt983e44y8RxBTjZ3cDi5DrMrRX6gW",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0x9c54a9c609212d2fd034b55cf3b42ba99af52880"
+    ],
+    "walletsTez": [
+      "tz1QvuCt983e44y8RxBTjZ3cDi5DrMrRX6gW"
+    ],
+    "walletsOther": [],
+    "id": "cl4jq7u1i030609l9psfka5az",
+    "username": "MorpheusSomnia",
+    "createdAt": "2022-06-18T10:17:48.246Z"
+  }
+}

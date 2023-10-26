@@ -1,0 +1,20 @@
+{
+  "modified": 1698333998144,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x032886c78b8f3b26e449e8b1db3e7d8e68b69077",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x032886c78b8f3b26e449e8b1db3e7d8e68b69077"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3avflbs205409lciuom50uv",
+    "username": "ArfaMinahil",
+    "createdAt": "2022-05-18T00:54:10.360Z"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "modified": 1698334331342,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x10d9511c685e1cb53a78f64ef28e3960d98331a6",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x10d9511c685e1cb53a78f64ef28e3960d98331a6"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl59wri6b016309mq264dumvh",
+    "username": "92Ahmad",
+    "createdAt": "2022-07-06T18:03:04.259Z"
+  }
+}

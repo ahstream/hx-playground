@@ -1,0 +1,25 @@
+{
+  "modified": 1698351239284,
+  "value": {
+    "address": "0x5ae2e07c8d6f82e04a73b2cec3bda96727ef20f0",
+    "contractMetadata": {
+      "name": "Decal by Looooopable",
+      "symbol": "DECAL",
+      "totalSupply": "100",
+      "tokenType": "ERC721",
+      "contractDeployer": "0x70feeec90d37dc73d9ded8cfafd7ede3f697b70b",
+      "deployedBlockNumber": 17790718,
+      "openSea": {
+        "floorPrice": 0,
+        "collectionName": "Decal by Looooopable",
+        "collectionSlug": "decal-by-looooopable",
+        "safelistRequestStatus": "not_requested",
+        "imageUrl": "https://i.seadn.io/gcs/files/9159893a10b28bb3316d9fe9cddb2cb0.png?w=500&auto=format",
+        "description": "An interpretation of the Decal by Looooopable. A symbol of permissionless creativity. Series Twenty Three.",
+        "externalUrl": "http://deca.art/decals",
+        "bannerImageUrl": "https://i.seadn.io/gcs/files/8a06d4c3aa2aa9b3b6d205db2460a362.png?w=500&auto=format",
+        "lastIngestedAt": "2023-10-21T12:29:27.000Z"
+      }
+    }
+  }
+}

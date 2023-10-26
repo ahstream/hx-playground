@@ -1,0 +1,20 @@
+{
+  "modified": 1698334140774,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x1460b132e60dc36e242956631d73c387d7d92795",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x1460b132e60dc36e242956631d73c387d7d92795"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5au9nog125709l47td2nmgn",
+    "username": "0xsoulmate",
+    "createdAt": "2022-07-07T09:40:58.528Z"
+  }
+}

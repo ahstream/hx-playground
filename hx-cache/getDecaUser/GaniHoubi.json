@@ -1,0 +1,25 @@
+{
+  "modified": 1698334210061,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xc452f4c90de3aff354e0fde40a50a0c2428059c8",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x64fb6269dcac8b2d125f567107cb3bf09909ae36",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xc452f4c90de3aff354e0fde40a50a0c2428059c8",
+      "0x64fb6269dcac8b2d125f567107cb3bf09909ae36"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5dlef3b325709jwnyd9we4h",
+    "username": "GaniHoubi",
+    "createdAt": "2022-07-09T07:56:02.663Z"
+  }
+}

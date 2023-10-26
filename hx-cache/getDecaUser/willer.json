@@ -1,0 +1,20 @@
+{
+  "modified": 1698334141748,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x2af7e128845a357985933a5d97f8a6377019f229",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x2af7e128845a357985933a5d97f8a6377019f229"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5au7bhc036709i6txjpmb7e",
+    "username": "willer",
+    "createdAt": "2022-07-07T09:39:09.408Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "modified": 1698332611583,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xe1268b49d3e4e559f466239df4bee1d5cae04356",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1QG487hKK4GDbVwtDJkA3fUezfUkttYTfr",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0x0ace76b681084e0f7fd9fe4eab763275d43bec8f",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xe1268b49d3e4e559f466239df4bee1d5cae04356",
+      "0x0ace76b681084e0f7fd9fe4eab763275d43bec8f"
+    ],
+    "walletsTez": [
+      "tz1QG487hKK4GDbVwtDJkA3fUezfUkttYTfr"
+    ],
+    "walletsOther": [],
+    "id": "cl3d07ak7080809lbuqpwapba",
+    "username": "AceRanger",
+    "createdAt": "2022-05-19T12:43:13.591Z"
+  }
+}

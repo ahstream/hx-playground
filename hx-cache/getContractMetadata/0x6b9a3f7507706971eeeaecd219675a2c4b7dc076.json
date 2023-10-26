@@ -1,0 +1,25 @@
+{
+  "modified": 1698351240720,
+  "value": {
+    "address": "0x6b9a3f7507706971eeeaecd219675a2c4b7dc076",
+    "contractMetadata": {
+      "name": "Decal by postwook",
+      "symbol": "DECAL",
+      "totalSupply": "100",
+      "tokenType": "ERC721",
+      "contractDeployer": "0x70feeec90d37dc73d9ded8cfafd7ede3f697b70b",
+      "deployedBlockNumber": 17015731,
+      "openSea": {
+        "floorPrice": 0.049,
+        "collectionName": "Decal by postwook",
+        "collectionSlug": "decal-by-postwook",
+        "safelistRequestStatus": "not_requested",
+        "imageUrl": "https://i.seadn.io/gcs/files/c71febaf9790a48db5864a256fab6c52.jpg?w=500&auto=format",
+        "description": "An interpretation of the Decal by postwook. A symbol of permissionless creativity. Series Seventeen.",
+        "externalUrl": "https://deca.art/decal",
+        "bannerImageUrl": "https://i.seadn.io/gcs/files/e31445254b28fd1c420cf5738b309e33.png?w=500&auto=format",
+        "lastIngestedAt": "2023-10-23T23:46:59.000Z"
+      }
+    }
+  }
+}

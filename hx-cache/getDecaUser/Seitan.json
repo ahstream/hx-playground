@@ -1,0 +1,36 @@
+{
+  "modified": 1698334497109,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x2c31159f1497aed2cf9c028e55416f3050db1dff",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xe0cbc20ab791c304bc6bd2689ae8ff3b012c041f",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x9d45c8492f94687ec1317ee81e2b8647af5a1759",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1a6xxV62Bf95vU1RoTAqkG5TAdPznhBkHu",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0x2c31159f1497aed2cf9c028e55416f3050db1dff",
+      "0xe0cbc20ab791c304bc6bd2689ae8ff3b012c041f",
+      "0x9d45c8492f94687ec1317ee81e2b8647af5a1759"
+    ],
+    "walletsTez": [
+      "tz1a6xxV62Bf95vU1RoTAqkG5TAdPznhBkHu"
+    ],
+    "walletsOther": [],
+    "id": "cl42zosn5277809kzvi5qbkjx",
+    "username": "Seitan",
+    "createdAt": "2022-06-06T17:10:51.137Z"
+  }
+}

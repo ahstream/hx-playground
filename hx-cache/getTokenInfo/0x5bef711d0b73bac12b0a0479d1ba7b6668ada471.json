@@ -1,0 +1,19 @@
+{
+  "modified": 1698332466790,
+  "value": {
+    "address": "0x5bef711d0b73bac12b0a0479d1ba7b6668ada471",
+    "name": "Decal by Panter Xhita",
+    "owner": "0x70feeec90d37dc73d9ded8cfafd7ede3f697b70b",
+    "price": false,
+    "symbol": "DECAL",
+    "totalSupply": "100",
+    "transfersCount": 0,
+    "txsCount": 145,
+    "issuancesCount": 0,
+    "lastUpdated": 1697042970,
+    "holdersCount": 83,
+    "ethTransfersCount": 0,
+    "decimals": "0",
+    "countOps": 0
+  }
+}

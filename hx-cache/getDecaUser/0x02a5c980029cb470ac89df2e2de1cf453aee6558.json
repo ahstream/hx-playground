@@ -1,0 +1,26 @@
+{
+  "modified": 1698332558421,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x02a5c980029cb470ac89df2e2de1cf453aee6558",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1Qxc19rPrXMaRHMKCqndP9ASaDkqhc3R67",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0x02a5c980029cb470ac89df2e2de1cf453aee6558"
+    ],
+    "walletsTez": [
+      "tz1Qxc19rPrXMaRHMKCqndP9ASaDkqhc3R67"
+    ],
+    "walletsOther": [],
+    "id": "ckydvrroc033809mep5z0jhn8",
+    "username": "NowhereSafe",
+    "createdAt": "2022-01-14T04:08:25.308Z"
+  }
+}

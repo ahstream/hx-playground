@@ -1,0 +1,25 @@
+{
+  "modified": 1698351241459,
+  "value": {
+    "address": "0xc1232b070ea767b3a50dad83e0aef2453b72103f",
+    "contractMetadata": {
+      "name": "Decal by Mannay x A. Marrast",
+      "symbol": "DECAL",
+      "totalSupply": "100",
+      "tokenType": "ERC721",
+      "contractDeployer": "0x70feeec90d37dc73d9ded8cfafd7ede3f697b70b",
+      "deployedBlockNumber": 16773370,
+      "openSea": {
+        "floorPrice": 0.069,
+        "collectionName": "Decal by Mannay x A. Marrast",
+        "collectionSlug": "decal-by-mannay-x-a-marrast",
+        "safelistRequestStatus": "not_requested",
+        "imageUrl": "https://i.seadn.io/gcs/files/fff15228e0d6e4fc9811881f6e1b0fb9.png?w=500&auto=format",
+        "description": "An interpretation of the Decal by Mannay x A. Marrast. A symbol of permissionless creativity. Series Fifteen.",
+        "externalUrl": "http://deca.art/decal",
+        "bannerImageUrl": "https://i.seadn.io/gcs/files/b7bda2e13662e9c91aae99e1a4093121.png?w=500&auto=format",
+        "lastIngestedAt": "2023-10-18T00:23:23.000Z"
+      }
+    }
+  }
+}

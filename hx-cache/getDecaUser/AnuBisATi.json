@@ -1,0 +1,20 @@
+{
+  "modified": 1698334114142,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x57bc1b7d75376643258f8b06aeab20504b4bd98b",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x57bc1b7d75376643258f8b06aeab20504b4bd98b"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl6wzor9o433409l3ctw6429z",
+    "username": "AnuBisATi",
+    "createdAt": "2022-08-17T02:23:19.308Z"
+  }
+}

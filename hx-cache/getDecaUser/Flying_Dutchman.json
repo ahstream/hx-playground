@@ -1,0 +1,20 @@
+{
+  "modified": 1698333951285,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x8cc4865f6f70cc13087c9ec2bbc48241a3a1c7ec",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x8cc4865f6f70cc13087c9ec2bbc48241a3a1c7ec"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl952x6yn177509m81xjro04p",
+    "username": "Flying_Dutchman",
+    "createdAt": "2022-10-12T03:35:25.823Z"
+  }
+}

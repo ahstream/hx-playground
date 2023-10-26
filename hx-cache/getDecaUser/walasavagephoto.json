@@ -1,0 +1,26 @@
+{
+  "modified": 1698333865675,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x15265c9989a97f84c01cdba9da4461ae518083fc",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1XRNuzhzzdiYo9yfLhMxAab7cskxB9zrhM",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0x15265c9989a97f84c01cdba9da4461ae518083fc"
+    ],
+    "walletsTez": [
+      "tz1XRNuzhzzdiYo9yfLhMxAab7cskxB9zrhM"
+    ],
+    "walletsOther": [],
+    "id": "cl3xthkv3652209l6fznw2d8u",
+    "username": "walasavagephoto",
+    "createdAt": "2022-06-03T02:18:25.887Z"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "modified": 1698333946494,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x6a84c3b9fd85691e42807e0c66fd4c6b757ddd95",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x6a84c3b9fd85691e42807e0c66fd4c6b757ddd95"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl4nuqhfa190509jl75ununj6",
+    "username": "rofl",
+    "createdAt": "2022-06-21T07:35:21.526Z"
+  }
+}

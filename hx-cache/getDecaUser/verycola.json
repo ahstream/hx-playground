@@ -1,0 +1,20 @@
+{
+  "modified": 1698333983484,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xcb86724b91f222451ededd42529134ea74b0afe5",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xcb86724b91f222451ededd42529134ea74b0afe5"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5qsh40w145109ma2iphowwp",
+    "username": "verycola",
+    "createdAt": "2022-07-18T13:35:05.888Z"
+  }
+}

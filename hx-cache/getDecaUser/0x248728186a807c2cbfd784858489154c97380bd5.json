@@ -1,0 +1,20 @@
+{
+  "modified": 1698332627491,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x248728186a807c2cbfd784858489154c97380bd5",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x248728186a807c2cbfd784858489154c97380bd5"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl6w58tto27770gl3cx9sm5rh",
+    "username": "Baros",
+    "createdAt": "2022-08-16T12:11:07.644Z"
+  }
+}

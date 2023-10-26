@@ -1,0 +1,35 @@
+{
+  "modified": 1698332704610,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xd8478053a45bfcdc7a8411b27c7329274c49de05",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x190378d08d82b3dda38f14a2de5eaa405397c660",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xfdb26046b3138f5a812fffe027527c0bf9c4d686",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xe4ba601faffae2a741dd734c77ad654410484d37",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xd8478053a45bfcdc7a8411b27c7329274c49de05",
+      "0x190378d08d82b3dda38f14a2de5eaa405397c660",
+      "0xfdb26046b3138f5a812fffe027527c0bf9c4d686",
+      "0xe4ba601faffae2a741dd734c77ad654410484d37"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl4x05c02141109icfy0wisi2",
+    "username": "Birdman",
+    "createdAt": "2022-06-27T17:16:48.002Z"
+  }
+}

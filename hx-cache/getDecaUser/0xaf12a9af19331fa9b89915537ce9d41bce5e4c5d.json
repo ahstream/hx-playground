@@ -1,0 +1,26 @@
+{
+  "modified": 1698332595274,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xaf12a9af19331fa9b89915537ce9d41bce5e4c5d",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1L361hLiPFHDDRDpCqS9oxD2nn7ivmGbSh",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0xaf12a9af19331fa9b89915537ce9d41bce5e4c5d"
+    ],
+    "walletsTez": [
+      "tz1L361hLiPFHDDRDpCqS9oxD2nn7ivmGbSh"
+    ],
+    "walletsOther": [],
+    "id": "cl3xl7ttu034609msnweekjk4",
+    "username": "ScottRSmith",
+    "createdAt": "2022-06-02T22:26:54.018Z"
+  }
+}

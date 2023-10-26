@@ -1,0 +1,20 @@
+{
+  "modified": 1698334134439,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x5665cdf58d027edc38602329fb1932df047ebfcd",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x5665cdf58d027edc38602329fb1932df047ebfcd"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5kudj9g027109ld926oujqi",
+    "username": "MlapsirM",
+    "createdAt": "2022-07-14T09:41:41.188Z"
+  }
+}

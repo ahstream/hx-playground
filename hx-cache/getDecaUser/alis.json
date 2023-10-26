@@ -1,0 +1,20 @@
+{
+  "modified": 1698333949461,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xfed9e60bf1b8776edc7d170916954ee79f696bc2",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xfed9e60bf1b8776edc7d170916954ee79f696bc2"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3xcj7sa599509joxuxohp5o",
+    "username": "alis",
+    "createdAt": "2022-06-02T18:23:48.778Z"
+  }
+}

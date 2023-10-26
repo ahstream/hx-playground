@@ -1,0 +1,20 @@
+{
+  "modified": 1698334143371,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x01992ebb0cfc70b0df1fe9ae76e97d9790e40362",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x01992ebb0cfc70b0df1fe9ae76e97d9790e40362"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5b310iw038309l5060ehm3c",
+    "username": "zoobune",
+    "createdAt": "2022-07-07T13:46:11.816Z"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "modified": 1698334089145,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x3a54c20ada1ee0e7a98343306f790b7f7d3d918e",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x3a54c20ada1ee0e7a98343306f790b7f7d3d918e"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl9x2hfjn623108jufr6wl8vq",
+    "username": "CameronCrypoe",
+    "createdAt": "2022-10-31T17:40:43.379Z"
+  }
+}

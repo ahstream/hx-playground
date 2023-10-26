@@ -1,0 +1,20 @@
+{
+  "modified": 1698333082887,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xd11d1c63911a42a2435256c013e4b88313dee2e3",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xd11d1c63911a42a2435256c013e4b88313dee2e3"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "clc2dcqum000gmi08f0hfg02k",
+    "username": "Keulmaille",
+    "createdAt": "2022-12-24T20:03:15.979Z"
+  }
+}

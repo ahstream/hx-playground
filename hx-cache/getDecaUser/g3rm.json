@@ -1,0 +1,36 @@
+{
+  "modified": 1698333916312,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x9d3bea10a103635776ce77377c3079613b3238db",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1SbhHF95Mt8ew2BbkvdL6TWUNZ6MBQmSXN",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0x36ab75710650754c32e4850d2ad050849ebb5899",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1SeC4rt5FCVgUjTYP4rXt5RnNWr9fxYfRK",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0x9d3bea10a103635776ce77377c3079613b3238db",
+      "0x36ab75710650754c32e4850d2ad050849ebb5899"
+    ],
+    "walletsTez": [
+      "tz1SbhHF95Mt8ew2BbkvdL6TWUNZ6MBQmSXN",
+      "tz1SeC4rt5FCVgUjTYP4rXt5RnNWr9fxYfRK"
+    ],
+    "walletsOther": [],
+    "id": "cl5268ctk612609mfgonpriqq",
+    "username": "g3rm",
+    "createdAt": "2022-07-01T08:05:57.608Z"
+  }
+}

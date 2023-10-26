@@ -1,0 +1,20 @@
+{
+  "modified": 1698334267686,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xf5d100d3519020a38ee657c24fcd275212420e16",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xf5d100d3519020a38ee657c24fcd275212420e16"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl4vnkcrk1062909l5urd5e0k5",
+    "username": "countrylaine",
+    "createdAt": "2022-06-26T18:36:47.647Z"
+  }
+}

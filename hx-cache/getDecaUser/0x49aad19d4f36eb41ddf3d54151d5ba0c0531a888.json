@@ -1,0 +1,36 @@
+{
+  "modified": 1698332635590,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x49aad19d4f36eb41ddf3d54151d5ba0c0531a888",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz2N5vHseFEVs8BUXxm4XUsoH48DWjXRW333",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0x0fdbfdc79ad0e2e3f76cc8b7be6e8be901e57552",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x0b455480f26444a76638eac5b6a5b13b60469758",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x49aad19d4f36eb41ddf3d54151d5ba0c0531a888",
+      "0x0fdbfdc79ad0e2e3f76cc8b7be6e8be901e57552",
+      "0x0b455480f26444a76638eac5b6a5b13b60469758"
+    ],
+    "walletsTez": [
+      "tz2N5vHseFEVs8BUXxm4XUsoH48DWjXRW333"
+    ],
+    "walletsOther": [],
+    "id": "cl3y8je7k003409mncw1s8zuh",
+    "username": "LalaTee",
+    "createdAt": "2022-06-03T09:19:44.816Z"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "modified": 1698333306117,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xe7a4a597478a652920872b3b5d95e39aa2ae1b58",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xbbbfff36d3bc9e0c56dd7024f6a0149f52bb6715",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xb0250a1ed64d17f86b595926837bcf58d095f551",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xe7a4a597478a652920872b3b5d95e39aa2ae1b58",
+      "0xbbbfff36d3bc9e0c56dd7024f6a0149f52bb6715",
+      "0xb0250a1ed64d17f86b595926837bcf58d095f551"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl4uys1fz242609jqcojhpme0",
+    "username": "Mebs_RX7",
+    "createdAt": "2022-06-26T07:02:55.823Z"
+  }
+}

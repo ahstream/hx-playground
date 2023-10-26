@@ -1,0 +1,25 @@
+{
+  "modified": 1698351245454,
+  "value": {
+    "address": "0x4d7c9f9c98bdf60139758a0c5f11a3ae812b15c5",
+    "contractMetadata": {
+      "name": "Decal by Rich Caldwell",
+      "symbol": "DECAL",
+      "totalSupply": "100",
+      "tokenType": "ERC721",
+      "contractDeployer": "0x70feeec90d37dc73d9ded8cfafd7ede3f697b70b",
+      "deployedBlockNumber": 15643199,
+      "openSea": {
+        "floorPrice": 0.15,
+        "collectionName": "Decal by Rich Caldwell",
+        "collectionSlug": "decal-by-rich-caldwell",
+        "safelistRequestStatus": "not_requested",
+        "imageUrl": "https://i.seadn.io/gcs/files/c5eceb8826c29553bd1acdba2c797bb3.jpg?w=500&auto=format",
+        "description": "An interpretation of the Decal by Rich Caldwell. A symbol of permissionless creativity. Series Four.",
+        "externalUrl": "https://deca.art/decal",
+        "bannerImageUrl": "https://i.seadn.io/gcs/files/26bd1809f249403c7a174772188be1ea.png?w=500&auto=format",
+        "lastIngestedAt": "2023-10-22T15:48:09.000Z"
+      }
+    }
+  }
+}

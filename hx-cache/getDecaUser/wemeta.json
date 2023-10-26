@@ -1,0 +1,20 @@
+{
+  "modified": 1698334181297,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x5dafdd1872a9d9d99632927eda230cca6a0a0013",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x5dafdd1872a9d9d99632927eda230cca6a0a0013"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5b571o3007209mo9ar5fqpp",
+    "username": "wemeta",
+    "createdAt": "2022-07-07T14:46:52.467Z"
+  }
+}

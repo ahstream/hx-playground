@@ -1,0 +1,20 @@
+{
+  "modified": 1698334264969,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xdd5770b0f9f17f0228cee1f08903ff6b0cc7a7cd",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xdd5770b0f9f17f0228cee1f08903ff6b0cc7a7cd"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl4zabca7645309ldcdzawfc7",
+    "username": "luckyboy",
+    "createdAt": "2022-06-29T07:36:56.815Z"
+  }
+}

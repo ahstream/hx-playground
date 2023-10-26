@@ -1,0 +1,31 @@
+{
+  "modified": 1698332677180,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x5502e6ba57b83663d4e9040ead18266e5a1dfb6e",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1UH6burQ5jg3aJ9sipv6vfSWU38pxEmuS2",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0x1f24ce8b0b76ac2a8bfded7f77a9a02595797544",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x5502e6ba57b83663d4e9040ead18266e5a1dfb6e",
+      "0x1f24ce8b0b76ac2a8bfded7f77a9a02595797544"
+    ],
+    "walletsTez": [
+      "tz1UH6burQ5jg3aJ9sipv6vfSWU38pxEmuS2"
+    ],
+    "walletsOther": [],
+    "id": "cl3b9o39m012009mgwlwv5m2w",
+    "username": "Pak",
+    "createdAt": "2022-05-18T07:32:41.482Z"
+  }
+}

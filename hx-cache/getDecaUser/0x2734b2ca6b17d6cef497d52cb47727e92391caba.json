@@ -1,0 +1,20 @@
+{
+  "modified": 1698332491311,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x2734b2ca6b17d6cef497d52cb47727e92391caba",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x2734b2ca6b17d6cef497d52cb47727e92391caba"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "clfziff1x0006jj0h2sppteiz",
+    "username": "lovid",
+    "createdAt": "2023-04-02T14:40:48.854Z"
+  }
+}

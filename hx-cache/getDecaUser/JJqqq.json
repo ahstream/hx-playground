@@ -1,0 +1,20 @@
+{
+  "modified": 1698334137847,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xbd268cbc70f5d3b316c2e2b2d57c860e7e513581",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xbd268cbc70f5d3b316c2e2b2d57c860e7e513581"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5auan6k138409lck2eu33ko",
+    "username": "JJqqq",
+    "createdAt": "2022-07-07T09:41:44.540Z"
+  }
+}

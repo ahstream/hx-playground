@@ -1,0 +1,31 @@
+{
+  "modified": 1698333248560,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xa4ac3321fd639a7e2b53da62897955d920c97012",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1iKtjy22iv7Pi7BkLBwWBXAtKji4x8KHUD",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "tz1SAZh4jsuajnsKYe43hf3C3zQbxydv5E7G",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0xa4ac3321fd639a7e2b53da62897955d920c97012"
+    ],
+    "walletsTez": [
+      "tz1iKtjy22iv7Pi7BkLBwWBXAtKji4x8KHUD",
+      "tz1SAZh4jsuajnsKYe43hf3C3zQbxydv5E7G"
+    ],
+    "walletsOther": [],
+    "id": "ckun2xosl004508lbv1f1cnjw",
+    "username": "hilbertspace",
+    "createdAt": "2021-11-13T04:59:47.612Z"
+  }
+}

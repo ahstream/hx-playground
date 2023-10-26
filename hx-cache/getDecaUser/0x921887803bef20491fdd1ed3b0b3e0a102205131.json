@@ -1,0 +1,31 @@
+{
+  "modified": 1698332900787,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x921887803bef20491fdd1ed3b0b3e0a102205131",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xffaec35f84921f7290d35f773c66c5149a9cb2e2",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1buGohj1Shsurn9UZ5Dyvgx82Z7Hn7HdAA",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0x921887803bef20491fdd1ed3b0b3e0a102205131",
+      "0xffaec35f84921f7290d35f773c66c5149a9cb2e2"
+    ],
+    "walletsTez": [
+      "tz1buGohj1Shsurn9UZ5Dyvgx82Z7Hn7HdAA"
+    ],
+    "walletsOther": [],
+    "id": "cl3xaqzgz65380ajwr1m6sfoh",
+    "username": "Bornosor",
+    "createdAt": "2022-06-02T17:33:52.019Z"
+  }
+}

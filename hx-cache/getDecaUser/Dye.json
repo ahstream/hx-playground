@@ -1,0 +1,26 @@
+{
+  "modified": 1698334179845,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xbf3d8adacee086daedecd82def1014b52e7c48b3",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1PnAWa7ZLBCJZgRgYJCmGVVJkE3VRGaujq",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0xbf3d8adacee086daedecd82def1014b52e7c48b3"
+    ],
+    "walletsTez": [
+      "tz1PnAWa7ZLBCJZgRgYJCmGVVJkE3VRGaujq"
+    ],
+    "walletsOther": [],
+    "id": "cl73f5vru444909msylkx1mxt",
+    "username": "Dye",
+    "createdAt": "2022-08-21T14:23:09.594Z"
+  }
+}

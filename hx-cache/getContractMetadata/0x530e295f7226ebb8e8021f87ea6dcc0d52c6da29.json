@@ -1,0 +1,25 @@
+{
+  "modified": 1698350261699,
+  "value": {
+    "address": "0x530e295f7226ebb8e8021f87ea6dcc0d52c6da29",
+    "contractMetadata": {
+      "name": "Declaration of Independence",
+      "symbol": "HAFFDOI",
+      "tokenType": "ERC1155",
+      "contractDeployer": "0x208833804d09cf965023f2bdb03d78e3056b4767",
+      "deployedBlockNumber": 16464742,
+      "openSea": {
+        "floorPrice": 0.34,
+        "collectionName": "Hafftka Declaration of Independence",
+        "collectionSlug": "hafftka-declaration-of-independence",
+        "safelistRequestStatus": "approved",
+        "imageUrl": "https://i.seadn.io/gcs/files/84d5f570e72c569c4245206857f0718a.gif?w=500&auto=format",
+        "description": "Signature collection",
+        "externalUrl": "http://hafftka.com",
+        "twitterUsername": "hafftka",
+        "bannerImageUrl": "https://i.seadn.io/gcs/files/25b18938a19f01ae424100a1575cbc18.png?w=500&auto=format",
+        "lastIngestedAt": "2023-10-17T05:32:59.000Z"
+      }
+    }
+  }
+}

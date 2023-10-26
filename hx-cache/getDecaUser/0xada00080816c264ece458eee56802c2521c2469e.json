@@ -1,0 +1,36 @@
+{
+  "modified": 1698332735414,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xada00080816c264ece458eee56802c2521c2469e",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x168e36da9ead717134fcc73c86d9ad6464241fdd",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1KhGdB5Qnvkb19t3gLBwEMjGujNrsAuE7D",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0xda4c7cccb4572eb210ee6ad6fbc3f752304d4a63",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xada00080816c264ece458eee56802c2521c2469e",
+      "0x168e36da9ead717134fcc73c86d9ad6464241fdd",
+      "0xda4c7cccb4572eb210ee6ad6fbc3f752304d4a63"
+    ],
+    "walletsTez": [
+      "tz1KhGdB5Qnvkb19t3gLBwEMjGujNrsAuE7D"
+    ],
+    "walletsOther": [],
+    "id": "cl3fp6nsr007409l0qp5ylg9z",
+    "username": "snarkcontracts",
+    "createdAt": "2022-05-21T09:58:06.843Z"
+  }
+}

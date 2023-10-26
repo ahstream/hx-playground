@@ -1,0 +1,25 @@
+{
+  "modified": 1698332762887,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x4986d87d1c8a10eea7e3ac5d54b4c037afb95c24",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x1e0676b7074b13f6df8e27afc4c0d2d170488edb",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x4986d87d1c8a10eea7e3ac5d54b4c037afb95c24",
+      "0x1e0676b7074b13f6df8e27afc4c0d2d170488edb"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl67re3dp867009l0eawas3ib",
+    "username": "behzad",
+    "createdAt": "2022-07-30T10:36:50.461Z"
+  }
+}

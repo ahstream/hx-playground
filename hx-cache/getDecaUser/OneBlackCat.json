@@ -1,0 +1,26 @@
+{
+  "modified": 1698333855986,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x3b351ff8f9817e89d39f3863e67ef41d6cf87fc3",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1hxFwGeCrbSqWot8Fe9X9kheUMXAG4AUXT",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0x3b351ff8f9817e89d39f3863e67ef41d6cf87fc3"
+    ],
+    "walletsTez": [
+      "tz1hxFwGeCrbSqWot8Fe9X9kheUMXAG4AUXT"
+    ],
+    "walletsOther": [],
+    "id": "cl8oh8o4d1129209l9f8z7qpd9",
+    "username": "OneBlackCat",
+    "createdAt": "2022-09-30T12:44:10.909Z"
+  }
+}

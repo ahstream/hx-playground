@@ -1,0 +1,20 @@
+{
+  "modified": 1698334256017,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x3bdb2ac777760044627bd3e3795de491e018632f",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x3bdb2ac777760044627bd3e3795de491e018632f"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3sk3a0r102209l7yo75xhmr",
+    "username": "shitkong",
+    "createdAt": "2022-05-30T09:56:31.227Z"
+  }
+}

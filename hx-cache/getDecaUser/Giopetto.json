@@ -1,0 +1,20 @@
+{
+  "modified": 1698333842722,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xcfc9336910420e2fb7b9c19f62a38bbac34dc352",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xcfc9336910420e2fb7b9c19f62a38bbac34dc352"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "clbliqd7x0001mo08zbmkrj34",
+    "username": "Giopetto",
+    "createdAt": "2022-12-13T01:01:44.627Z"
+  }
+}

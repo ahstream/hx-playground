@@ -1,0 +1,31 @@
+{
+  "modified": 1698333260586,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x5c5b6cade3f45fca78aac5a9877f1b73c51300e3",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x5a4796d2f142a8c0723e2fc3119609c513d3f405",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1TAjHF81yBh6PRU28dgZaHmoG55YypjRvH",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0x5c5b6cade3f45fca78aac5a9877f1b73c51300e3",
+      "0x5a4796d2f142a8c0723e2fc3119609c513d3f405"
+    ],
+    "walletsTez": [
+      "tz1TAjHF81yBh6PRU28dgZaHmoG55YypjRvH"
+    ],
+    "walletsOther": [],
+    "id": "cl7jt9vx9090809l14ree3hms",
+    "username": "Shibe",
+    "createdAt": "2022-09-02T01:42:29.853Z"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "modified": 1698334013254,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x00d0cd6b14d8cec34f94e3a05aa7f899ac8758a0",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x00d0cd6b14d8cec34f94e3a05aa7f899ac8758a0"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl6ur39jk08150glciklim1he",
+    "username": "Elano",
+    "createdAt": "2022-08-15T12:47:07.280Z"
+  }
+}

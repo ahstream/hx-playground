@@ -1,0 +1,20 @@
+{
+  "modified": 1698334113217,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x35865e3c7c9d64164edff812ff70cec483eb0443",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x35865e3c7c9d64164edff812ff70cec483eb0443"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5ky1lfa345009l9ex3we1pe",
+    "username": "TD-HODL",
+    "createdAt": "2022-07-14T11:24:22.581Z"
+  }
+}

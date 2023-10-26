@@ -1,0 +1,20 @@
+{
+  "modified": 1698334247171,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x79de94f7db2800b4d8a56fd8a5becef416bbd02b",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x79de94f7db2800b4d8a56fd8a5becef416bbd02b"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3g8vk0q005308mnmirglsd8",
+    "username": "hhk2021",
+    "createdAt": "2022-05-21T19:09:21.050Z"
+  }
+}

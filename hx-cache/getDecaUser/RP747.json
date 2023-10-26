@@ -1,0 +1,20 @@
+{
+  "modified": 1698333963573,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x7257a0eb48ffb7ef4e8bbdc2b8082870ced2a654",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x7257a0eb48ffb7ef4e8bbdc2b8082870ced2a654"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3x475l0240309mmd9s9u5ju",
+    "username": "RP747",
+    "createdAt": "2022-06-02T14:30:29.124Z"
+  }
+}

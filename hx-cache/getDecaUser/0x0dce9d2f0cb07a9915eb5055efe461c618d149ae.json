@@ -1,0 +1,20 @@
+{
+  "modified": 1698332751935,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x0dce9d2f0cb07a9915eb5055efe461c618d149ae",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x0dce9d2f0cb07a9915eb5055efe461c618d149ae"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl49fnlp0257609jt33rqjdq0",
+    "username": "momonga2022",
+    "createdAt": "2022-06-11T05:24:26.388Z"
+  }
+}

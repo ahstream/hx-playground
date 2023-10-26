@@ -1,0 +1,20 @@
+{
+  "modified": 1698333885116,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xc4cae0938241bde4e3ef6ae4b2e489eb88e2c57a",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xc4cae0938241bde4e3ef6ae4b2e489eb88e2c57a"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3c17qkj011509kzp7qmzky0",
+    "username": "JonHarper",
+    "createdAt": "2022-05-18T20:23:47.779Z"
+  }
+}

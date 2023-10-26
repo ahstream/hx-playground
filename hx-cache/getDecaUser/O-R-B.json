@@ -1,0 +1,20 @@
+{
+  "modified": 1698333906577,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xda96de572ce0a1819e20bb42e8bd8b5c36faee06",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xda96de572ce0a1819e20bb42e8bd8b5c36faee06"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl8g52v2i216509l32mvb4ihm",
+    "username": "O-R-B",
+    "createdAt": "2022-09-24T16:41:35.178Z"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "modified": 1698332797013,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x6f745aed75d140f5c5a7e610601cfc4615a818be",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xd3d3ef6fc91bc3abe1550301d7a5317b352a5456",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x763fe94c549d9508ad3b3f9893e49b4656d26323",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x27cdbad013d7bb5fab49d3275f898d68357fff83",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1V3oDGov7AiEHwBf95K7X7SCEYuc3Ts9T4",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0x6f745aed75d140f5c5a7e610601cfc4615a818be",
+      "0xd3d3ef6fc91bc3abe1550301d7a5317b352a5456",
+      "0x763fe94c549d9508ad3b3f9893e49b4656d26323",
+      "0x27cdbad013d7bb5fab49d3275f898d68357fff83"
+    ],
+    "walletsTez": [
+      "tz1V3oDGov7AiEHwBf95K7X7SCEYuc3Ts9T4"
+    ],
+    "walletsOther": [],
+    "id": "cl3v087wu065309mjbt3urmwm",
+    "username": "pd",
+    "createdAt": "2022-06-01T03:03:47.982Z"
+  }
+}

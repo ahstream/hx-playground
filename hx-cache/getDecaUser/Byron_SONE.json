@@ -1,0 +1,20 @@
+{
+  "modified": 1698333940502,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x7af1329ff8b1316ef87963150456ec011e260166",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x7af1329ff8b1316ef87963150456ec011e260166"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3st3we0004809k4mtfcedwa",
+    "username": "Byron_SONE",
+    "createdAt": "2022-05-30T14:08:56.760Z"
+  }
+}

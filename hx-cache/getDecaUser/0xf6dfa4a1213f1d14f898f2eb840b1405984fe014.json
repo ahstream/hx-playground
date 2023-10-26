@@ -1,0 +1,26 @@
+{
+  "modified": 1698332943103,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xf6dfa4a1213f1d14f898f2eb840b1405984fe014",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1dinviXZg95NaG93YaAEwjgfQ1iiD1P2hp",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0xf6dfa4a1213f1d14f898f2eb840b1405984fe014"
+    ],
+    "walletsTez": [
+      "tz1dinviXZg95NaG93YaAEwjgfQ1iiD1P2hp"
+    ],
+    "walletsOther": [],
+    "id": "cl6gpu8t2259809mbarzvm5v4",
+    "username": "granneberg",
+    "createdAt": "2022-08-05T17:03:20.342Z"
+  }
+}

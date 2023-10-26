@@ -1,0 +1,30 @@
+{
+  "modified": 1698333896801,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x8a1b6a1134628e1f3827fcdbbbdacf6a2c54c5ea",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x2759f346efd772d70af50542b6c383d61794c581",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xd0feb6408ff81729cd76d0b4f2a02886e1d12391",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x8a1b6a1134628e1f3827fcdbbbdacf6a2c54c5ea",
+      "0x2759f346efd772d70af50542b6c383d61794c581",
+      "0xd0feb6408ff81729cd76d0b4f2a02886e1d12391"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl42wrrz0006409l8i0tbem5p",
+    "username": "Andes",
+    "createdAt": "2022-06-06T15:49:11.388Z"
+  }
+}

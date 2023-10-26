@@ -1,0 +1,20 @@
+{
+  "modified": 1698333303700,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xd9b42f222263c31e57d90a77217759ee6701b204",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xd9b42f222263c31e57d90a77217759ee6701b204"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3auwbgi044509l5lem6wmhd",
+    "username": "costco",
+    "createdAt": "2022-05-18T00:39:11.106Z"
+  }
+}

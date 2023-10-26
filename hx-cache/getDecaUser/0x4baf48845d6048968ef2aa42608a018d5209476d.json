@@ -1,0 +1,31 @@
+{
+  "modified": 1698332673876,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x6ec611be8ac71f924e8f97721550ad0e20170fe8",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x4baf48845d6048968ef2aa42608a018d5209476d",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1P63sPQyhXDK9SL9shWHNDyFbi2Tz8S9AL",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0x6ec611be8ac71f924e8f97721550ad0e20170fe8",
+      "0x4baf48845d6048968ef2aa42608a018d5209476d"
+    ],
+    "walletsTez": [
+      "tz1P63sPQyhXDK9SL9shWHNDyFbi2Tz8S9AL"
+    ],
+    "walletsOther": [],
+    "id": "cl3yjtcm2248409l8jlyymh44",
+    "username": "kilosierra_88",
+    "createdAt": "2022-06-03T14:35:25.082Z"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "modified": 1698351237462,
+  "value": {
+    "address": "0x2f5956fc0f2d266027551636ca1f9493251201b1",
+    "contractMetadata": {
+      "name": "Decal by Michael Connolly",
+      "symbol": "DECAL",
+      "totalSupply": "100",
+      "tokenType": "ERC721",
+      "contractDeployer": "0x70feeec90d37dc73d9ded8cfafd7ede3f697b70b",
+      "deployedBlockNumber": 18182082,
+      "openSea": {
+        "floorPrice": 0.1,
+        "collectionName": "Decal by Michael Connolly",
+        "collectionSlug": "decal-by-michael-connolly",
+        "safelistRequestStatus": "not_requested",
+        "imageUrl": "https://i.seadn.io/gcs/files/5f5e2d58c08ca56c9259cc08b598cc1b.png?w=500&auto=format",
+        "description": "An interpretation of the Decal by Michael Connolly. A symbol of permissionless creativity. Series Twenty Six.",
+        "externalUrl": "http://deca.art/decals",
+        "bannerImageUrl": "https://i.seadn.io/gcs/files/5901655ede7e1ffdb90eaecb49df0c95.png?w=500&auto=format",
+        "lastIngestedAt": "2023-10-20T16:25:28.000Z"
+      }
+    }
+  }
+}

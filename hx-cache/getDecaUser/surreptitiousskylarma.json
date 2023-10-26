@@ -1,0 +1,20 @@
+{
+  "modified": 1698333935467,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x7567228a7bc05244b71f8f87f2cd38322760d170",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x7567228a7bc05244b71f8f87f2cd38322760d170"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl4tnb1xq05400alae407twvm",
+    "username": "surreptitiousskylarma",
+    "createdAt": "2022-06-25T08:54:01.358Z"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "modified": 1698334011144,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x9a2359604322f8ecf3b2f418334a5f10ea4a7afa",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1V7it779UyNFTxsE1Y3Ea9pP119jRXeBi5",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0x9a2359604322f8ecf3b2f418334a5f10ea4a7afa"
+    ],
+    "walletsTez": [
+      "tz1V7it779UyNFTxsE1Y3Ea9pP119jRXeBi5"
+    ],
+    "walletsOther": [],
+    "id": "cl3z3wfnv610709layxt4harc",
+    "username": "luckmoon",
+    "createdAt": "2022-06-03T23:57:41.323Z"
+  }
+}

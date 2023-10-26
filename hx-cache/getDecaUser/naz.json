@@ -1,0 +1,20 @@
+{
+  "modified": 1698334393048,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xa315c96c0903b6a5f0c997fdc6b257851017590b",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xa315c96c0903b6a5f0c997fdc6b257851017590b"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl4vccqve215309ml6zfhjd1o",
+    "username": "naz",
+    "createdAt": "2022-06-26T13:22:56.906Z"
+  }
+}

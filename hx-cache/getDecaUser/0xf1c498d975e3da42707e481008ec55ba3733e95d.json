@@ -1,0 +1,31 @@
+{
+  "modified": 1698332553072,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x58b249a73452f624d473459fa084792704e9ae36",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1gF3XydDV9yKZmzEpbEmt1chgCynsohLdD",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0xf1c498d975e3da42707e481008ec55ba3733e95d",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x58b249a73452f624d473459fa084792704e9ae36",
+      "0xf1c498d975e3da42707e481008ec55ba3733e95d"
+    ],
+    "walletsTez": [
+      "tz1gF3XydDV9yKZmzEpbEmt1chgCynsohLdD"
+    ],
+    "walletsOther": [],
+    "id": "clfv4ccbq000ljx0fbs3fbocu",
+    "username": "FanBe_web3",
+    "createdAt": "2023-03-30T12:55:26.823Z"
+  }
+}

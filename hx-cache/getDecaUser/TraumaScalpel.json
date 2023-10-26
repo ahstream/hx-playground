@@ -1,0 +1,26 @@
+{
+  "modified": 1698333869987,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xa41b6f18d696d32afe88e44e4f14747fb2b92902",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz2HTgAkVGmm73DghvfhEmYb5iJLRKYbkGAG",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0xa41b6f18d696d32afe88e44e4f14747fb2b92902"
+    ],
+    "walletsTez": [
+      "tz2HTgAkVGmm73DghvfhEmYb5iJLRKYbkGAG"
+    ],
+    "walletsOther": [],
+    "id": "cl3v6th8l163309l624acbsez",
+    "username": "TraumaScalpel",
+    "createdAt": "2022-06-01T06:08:17.541Z"
+  }
+}

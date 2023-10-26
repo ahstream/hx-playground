@@ -1,0 +1,26 @@
+{
+  "modified": 1698332676434,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x5489cd0329ec89e54e849d1c44d90f556bc27c60",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1VCRKLcyFixpS2LrKtpdoj3gGspxbevvSs",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0x5489cd0329ec89e54e849d1c44d90f556bc27c60"
+    ],
+    "walletsTez": [
+      "tz1VCRKLcyFixpS2LrKtpdoj3gGspxbevvSs"
+    ],
+    "walletsOther": [],
+    "id": "cl4crjuuw315907mrlg2r5wr3",
+    "username": "KuMa_ART_collective",
+    "createdAt": "2022-06-13T13:20:45.560Z"
+  }
+}

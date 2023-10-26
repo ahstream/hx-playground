@@ -1,0 +1,20 @@
+{
+  "modified": 1698333885813,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x20757daa691900004346f30e0e17596d89872c23",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x20757daa691900004346f30e0e17596d89872c23"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl41r7kwk012909ldvnd5tnns",
+    "username": "FelixH",
+    "createdAt": "2022-06-05T20:25:44.852Z"
+  }
+}

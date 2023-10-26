@@ -1,0 +1,25 @@
+{
+  "modified": 1698334433787,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x10c5d48b6b4b64d2f6c5e58dff55aafabde17709",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x88abE3f831E5bFA67F5a1c209511B7996b97b595",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x10c5d48b6b4b64d2f6c5e58dff55aafabde17709",
+      "0x88abE3f831E5bFA67F5a1c209511B7996b97b595"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl4432rks1075709l1lxd6qp6t",
+    "username": "benpenguin",
+    "createdAt": "2022-06-07T11:33:27.964Z"
+  }
+}

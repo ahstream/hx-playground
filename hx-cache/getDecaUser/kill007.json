@@ -1,0 +1,20 @@
+{
+  "modified": 1698334328529,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xbb401b712e92a7a09d1331a0540b5ee1a8846038",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xbb401b712e92a7a09d1331a0540b5ee1a8846038"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5z0ikwv289709mdysdmlw2c",
+    "username": "kill007",
+    "createdAt": "2022-07-24T07:42:20.767Z"
+  }
+}

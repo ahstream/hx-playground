@@ -1,0 +1,55 @@
+{
+  "modified": 1698333055628,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x0f9a22d05a1f5395505fb6df2b51ebe300b281e0",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x3e8f88ab6280de2ed33a1702811c6e4a26f3f4af",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x8580fb91d06a318c0d8de0f4b7fa1cb72add6d26",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xfa805d65124512844bc471e537bffb32fb2bdd29",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x54b13fa5bcb6074118e1a2a7d937f921e1c9a299",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x724295561065d95625da05f41b7a7e2046b5f0e4",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xd37798928f8e17458f51d3b9a3ae1475acfad43e",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xdece69e6251634fbb4d73e01f91fca05aa187e32",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x0f9a22d05a1f5395505fb6df2b51ebe300b281e0",
+      "0x3e8f88ab6280de2ed33a1702811c6e4a26f3f4af",
+      "0x8580fb91d06a318c0d8de0f4b7fa1cb72add6d26",
+      "0xfa805d65124512844bc471e537bffb32fb2bdd29",
+      "0x54b13fa5bcb6074118e1a2a7d937f921e1c9a299",
+      "0x724295561065d95625da05f41b7a7e2046b5f0e4",
+      "0xd37798928f8e17458f51d3b9a3ae1475acfad43e",
+      "0xdece69e6251634fbb4d73e01f91fca05aa187e32"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3cl2da5070509l7ben30t7n",
+    "username": "ICE",
+    "createdAt": "2022-05-19T05:39:29.597Z"
+  }
+}

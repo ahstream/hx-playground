@@ -1,0 +1,20 @@
+{
+  "modified": 1698334266732,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x8efc388ea7528cba05a722bfff5df26e3780939d",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x8efc388ea7528cba05a722bfff5df26e3780939d"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl4tev1iv090109mnq2m9xsse",
+    "username": "Slimytoes",
+    "createdAt": "2022-06-25T04:57:37.399Z"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "modified": 1698332793285,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x4feb2754eb7b22b18ce2939f5a60dcb1bd5b20fe",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1dui6oTS67ncND9kZAC4F7Z4wS3hPTKFMu",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0x6ba228524d45c772d7643bb60c6bed2cd3dcf053",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x1175d8dea0735cd430c85983d826a29c5e8bbe75",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xd5927446a85b2dc8b28144f608de76c98fbc4e2a",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x4feb2754eb7b22b18ce2939f5a60dcb1bd5b20fe",
+      "0x6ba228524d45c772d7643bb60c6bed2cd3dcf053",
+      "0x1175d8dea0735cd430c85983d826a29c5e8bbe75",
+      "0xd5927446a85b2dc8b28144f608de76c98fbc4e2a"
+    ],
+    "walletsTez": [
+      "tz1dui6oTS67ncND9kZAC4F7Z4wS3hPTKFMu"
+    ],
+    "walletsOther": [],
+    "id": "cl3kglu81080109l1ydork5s9",
+    "username": "JC",
+    "createdAt": "2022-05-24T17:56:49.345Z"
+  }
+}

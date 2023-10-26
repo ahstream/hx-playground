@@ -1,0 +1,20 @@
+{
+  "modified": 1698332995550,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x6b7ec23dc302003057dbc5b4292b3fa57d4d6720",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x6b7ec23dc302003057dbc5b4292b3fa57d4d6720"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3unb567486309mfjxzrohu6",
+    "username": "GopherTJ",
+    "createdAt": "2022-05-31T21:02:09.391Z"
+  }
+}

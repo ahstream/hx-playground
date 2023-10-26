@@ -1,0 +1,20 @@
+{
+  "modified": 1698333941989,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xe3ed26c5eedd8b6a8dc779e0bd1c8dbe53655291",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xe3ed26c5eedd8b6a8dc779e0bd1c8dbe53655291"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl4o1vrd9064909l9v8arqf9n",
+    "username": "yolo",
+    "createdAt": "2022-06-21T10:55:25.005Z"
+  }
+}

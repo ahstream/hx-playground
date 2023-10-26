@@ -1,0 +1,19 @@
+{
+  "modified": 1698332476110,
+  "value": {
+    "address": "0xb0003120bb3e73b7ca7a42324013258f569750f1",
+    "name": "Decal by Jerad Armijo",
+    "owner": "0x70feeec90d37dc73d9ded8cfafd7ede3f697b70b",
+    "symbol": "DECAL",
+    "totalSupply": "100",
+    "transfersCount": 0,
+    "txsCount": 269,
+    "issuancesCount": 0,
+    "lastUpdated": 1697106831,
+    "price": false,
+    "holdersCount": 75,
+    "ethTransfersCount": 0,
+    "decimals": "0",
+    "countOps": 0
+  }
+}

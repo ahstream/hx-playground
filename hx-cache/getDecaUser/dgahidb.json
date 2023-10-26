@@ -1,0 +1,20 @@
+{
+  "modified": 1698333927620,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xaa1d910ae907c2ff96ae7d06beb057383e47f126",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xaa1d910ae907c2ff96ae7d06beb057383e47f126"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl6h30cas04860gi620xh6ffa",
+    "username": "dgahidb",
+    "createdAt": "2022-08-05T23:11:59.812Z"
+  }
+}

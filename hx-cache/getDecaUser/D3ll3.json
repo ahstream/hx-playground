@@ -1,0 +1,20 @@
+{
+  "modified": 1698334078075,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x7cb4fd4079bf814ee885b2312894d443ee736302",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x7cb4fd4079bf814ee885b2312894d443ee736302"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl59d95hx054009la8wg7gy9c",
+    "username": "D3ll3",
+    "createdAt": "2022-07-06T08:56:55.317Z"
+  }
+}

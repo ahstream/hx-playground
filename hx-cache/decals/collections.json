@@ -1,0 +1,493 @@
+{
+  "collections": {
+    "0xe5cc6768459b5297d4999e20c97961003075a3d0": {
+      "name": "Decal by Hafftka",
+      "symbol": "DECAL",
+      "totalSupply": "6",
+      "tokenType": "ERC721",
+      "contractDeployer": "0x70feeec90d37dc73d9ded8cfafd7ede3f697b70b",
+      "deployedBlockNumber": 18323166,
+      "openSea": {
+        "floorPrice": 0,
+        "collectionName": "Decal by Hafftka",
+        "collectionSlug": "decal-by-hafftka",
+        "safelistRequestStatus": "not_requested",
+        "lastIngestedAt": "2023-10-23T19:58:28.000Z"
+      }
+    },
+    "0x2f5956fc0f2d266027551636ca1f9493251201b1": {
+      "name": "Decal by Michael Connolly",
+      "symbol": "DECAL",
+      "totalSupply": "100",
+      "tokenType": "ERC721",
+      "contractDeployer": "0x70feeec90d37dc73d9ded8cfafd7ede3f697b70b",
+      "deployedBlockNumber": 18182082,
+      "openSea": {
+        "floorPrice": 0.1,
+        "collectionName": "Decal by Michael Connolly",
+        "collectionSlug": "decal-by-michael-connolly",
+        "safelistRequestStatus": "not_requested",
+        "imageUrl": "https://i.seadn.io/gcs/files/5f5e2d58c08ca56c9259cc08b598cc1b.png?w=500&auto=format",
+        "description": "An interpretation of the Decal by Michael Connolly. A symbol of permissionless creativity. Series Twenty Six.",
+        "externalUrl": "http://deca.art/decals",
+        "bannerImageUrl": "https://i.seadn.io/gcs/files/5901655ede7e1ffdb90eaecb49df0c95.png?w=500&auto=format",
+        "lastIngestedAt": "2023-10-20T16:25:28.000Z"
+      }
+    },
+    "0x0649cffa638931612649dface45bc8554e1be176": {
+      "name": "Decal by Andy Shaw",
+      "symbol": "DECAL",
+      "totalSupply": "100",
+      "tokenType": "ERC721",
+      "contractDeployer": "0x70feeec90d37dc73d9ded8cfafd7ede3f697b70b",
+      "deployedBlockNumber": 18079807,
+      "openSea": {
+        "floorPrice": 0.0299,
+        "collectionName": "Decal by Andy Shaw",
+        "collectionSlug": "decal-by-andy-shaw",
+        "safelistRequestStatus": "not_requested",
+        "imageUrl": "https://i.seadn.io/gcs/files/a9424b2fac4f3ef8f4c6c7477922312e.jpg?w=500&auto=format",
+        "description": "An interpretation of the Decal by Andy Shaw. A symbol of permissionless creativity. Series Twenty Five.",
+        "externalUrl": "http://deca.art/decals",
+        "bannerImageUrl": "https://i.seadn.io/gcs/files/a67e4850065458d227afd7215e6cb9e9.png?w=500&auto=format",
+        "lastIngestedAt": "2023-10-26T03:20:09.000Z"
+      }
+    },
+    "0xd7dad0754e3e1129f84612ade8ffa8c38f551b0a": {
+      "name": "Decal by Gabriella Morton",
+      "symbol": "DECAL",
+      "totalSupply": "100",
+      "tokenType": "ERC721",
+      "contractDeployer": "0x70feeec90d37dc73d9ded8cfafd7ede3f697b70b",
+      "deployedBlockNumber": 18022971,
+      "openSea": {
+        "lastIngestedAt": "2023-10-17T06:59:02.000Z"
+      }
+    },
+    "0x3758e3d6fa6e373156bf7155571ba306d83f0c77": {
+      "name": "Decal by Andrew Mitchell",
+      "symbol": "DECAL",
+      "totalSupply": "100",
+      "tokenType": "ERC721",
+      "contractDeployer": "0x70feeec90d37dc73d9ded8cfafd7ede3f697b70b",
+      "deployedBlockNumber": 17588898,
+      "openSea": {
+        "floorPrice": 0,
+        "collectionName": "Decal by Andrew Mitchell",
+        "collectionSlug": "decal-by-andrew-mitchell",
+        "safelistRequestStatus": "not_requested",
+        "lastIngestedAt": "2023-10-18T06:23:27.000Z"
+      }
+    },
+    "0x5bef711d0b73bac12b0a0479d1ba7b6668ada471": {
+      "name": "Decal by Panter Xhita",
+      "symbol": "DECAL",
+      "totalSupply": "100",
+      "tokenType": "ERC721",
+      "contractDeployer": "0x70feeec90d37dc73d9ded8cfafd7ede3f697b70b",
+      "deployedBlockNumber": 17722596,
+      "openSea": {
+        "floorPrice": 0.038,
+        "collectionName": "Decal by Panter Xhita",
+        "collectionSlug": "decal-by-panter-xhita",
+        "safelistRequestStatus": "not_requested",
+        "imageUrl": "https://i.seadn.io/gcs/files/ca1ab1ecfab84712b1b92dad89b4b147.png?w=500&auto=format",
+        "description": "An interpretation of the Decal by Panter Xhita. A symbol of permissionless creativity. Series Twenty Two.",
+        "externalUrl": "http://deca.art/decals",
+        "bannerImageUrl": "https://i.seadn.io/gcs/files/2113d5ce42fee891ee6ad687818b481c.png?w=500&auto=format",
+        "lastIngestedAt": "2023-10-24T10:43:39.000Z"
+      }
+    },
+    "0x5ae2e07c8d6f82e04a73b2cec3bda96727ef20f0": {
+      "name": "Decal by Looooopable",
+      "symbol": "DECAL",
+      "totalSupply": "100",
+      "tokenType": "ERC721",
+      "contractDeployer": "0x70feeec90d37dc73d9ded8cfafd7ede3f697b70b",
+      "deployedBlockNumber": 17790718,
+      "openSea": {
+        "floorPrice": 0,
+        "collectionName": "Decal by Looooopable",
+        "collectionSlug": "decal-by-looooopable",
+        "safelistRequestStatus": "not_requested",
+        "imageUrl": "https://i.seadn.io/gcs/files/9159893a10b28bb3316d9fe9cddb2cb0.png?w=500&auto=format",
+        "description": "An interpretation of the Decal by Looooopable. A symbol of permissionless creativity. Series Twenty Three.",
+        "externalUrl": "http://deca.art/decals",
+        "bannerImageUrl": "https://i.seadn.io/gcs/files/8a06d4c3aa2aa9b3b6d205db2460a362.png?w=500&auto=format",
+        "lastIngestedAt": "2023-10-21T12:29:27.000Z"
+      }
+    },
+    "0x2500ce981d244bec6d713b822d5d653efdb36159": {
+      "name": "Decal by Three Panel Crimes",
+      "symbol": "DECAL",
+      "totalSupply": "100",
+      "tokenType": "ERC721",
+      "contractDeployer": "0x70feeec90d37dc73d9ded8cfafd7ede3f697b70b",
+      "deployedBlockNumber": 17099776,
+      "openSea": {
+        "floorPrice": 0.041,
+        "collectionName": "Decal by Three Panel Crimes",
+        "collectionSlug": "decal-by-three-panel-crimes",
+        "safelistRequestStatus": "not_requested",
+        "imageUrl": "https://i.seadn.io/gcs/files/c11284bd2afbd945fbab3da30906417f.png?w=500&auto=format",
+        "description": "An interpretation of the Decal by Three Panel Crimes. A symbol of permissionless creativity. Series Eighteen.",
+        "externalUrl": "https://deca.art/decal",
+        "bannerImageUrl": "https://i.seadn.io/gcs/files/b61db0fd0414176cb72250bab7ce74ea.png?w=500&auto=format",
+        "lastIngestedAt": "2023-10-23T23:21:25.000Z"
+      }
+    },
+    "0xb264fa7127a0f2865f0cd03d4eeb700d4f3059f7": {
+      "name": "Decal by die with the most likes",
+      "symbol": "DECAL",
+      "totalSupply": "100",
+      "tokenType": "ERC721",
+      "contractDeployer": "0x70feeec90d37dc73d9ded8cfafd7ede3f697b70b",
+      "deployedBlockNumber": 17169779,
+      "openSea": {
+        "floorPrice": 0.079,
+        "collectionName": "Decal by die with the most likes",
+        "collectionSlug": "decal-by-diewiththemostlikes",
+        "safelistRequestStatus": "not_requested",
+        "imageUrl": "https://i.seadn.io/gcs/files/21f1dfc72b65dfbf9081513f4994cb34.png?w=500&auto=format",
+        "description": "An interpretation of the Decal by die with the most likes. A symbol of permissionless creativity. Series Nineteen.\n",
+        "externalUrl": "https://deca.art/decal",
+        "bannerImageUrl": "https://i.seadn.io/gcs/files/5e4afb1c5d3983d786132292fbfaac4a.png?w=500&auto=format",
+        "lastIngestedAt": "2023-10-17T07:03:56.000Z"
+      }
+    },
+    "0x90f9c82040482f8fb4a580c8a4a0fa0ff11eb30a": {
+      "name": "Decal by Studio Yorktown",
+      "symbol": "DECAL",
+      "totalSupply": "100",
+      "tokenType": "ERC721",
+      "contractDeployer": "0x70feeec90d37dc73d9ded8cfafd7ede3f697b70b",
+      "deployedBlockNumber": 17269907,
+      "openSea": {
+        "floorPrice": 0.048,
+        "collectionName": "Decal by Studio Yorktown",
+        "collectionSlug": "decal-by-studioyorktown",
+        "safelistRequestStatus": "not_requested",
+        "imageUrl": "https://i.seadn.io/gcs/files/c61359cbc2b19fed8d2f4c6ef9596f75.png?w=500&auto=format",
+        "description": "An interpretation of the Decal by Studio Yorktown. A symbol of permissionless creativity. Series Twenty.",
+        "externalUrl": "https://deca.art/decal",
+        "bannerImageUrl": "https://i.seadn.io/gcs/files/14ddad7fbd7525aa5daebf644759b9f1.png?w=500&auto=format",
+        "lastIngestedAt": "2023-10-17T11:48:51.000Z"
+      }
+    },
+    "0x6b9a3f7507706971eeeaecd219675a2c4b7dc076": {
+      "name": "Decal by postwook",
+      "symbol": "DECAL",
+      "totalSupply": "100",
+      "tokenType": "ERC721",
+      "contractDeployer": "0x70feeec90d37dc73d9ded8cfafd7ede3f697b70b",
+      "deployedBlockNumber": 17015731,
+      "openSea": {
+        "floorPrice": 0.049,
+        "collectionName": "Decal by postwook",
+        "collectionSlug": "decal-by-postwook",
+        "safelistRequestStatus": "not_requested",
+        "imageUrl": "https://i.seadn.io/gcs/files/c71febaf9790a48db5864a256fab6c52.jpg?w=500&auto=format",
+        "description": "An interpretation of the Decal by postwook. A symbol of permissionless creativity. Series Seventeen.",
+        "externalUrl": "https://deca.art/decal",
+        "bannerImageUrl": "https://i.seadn.io/gcs/files/e31445254b28fd1c420cf5738b309e33.png?w=500&auto=format",
+        "lastIngestedAt": "2023-10-23T23:46:59.000Z"
+      }
+    },
+    "0x44fbc9f4399bb03a59503faf9151bfb67438b51d": {
+      "name": "Decal by Darkfarms",
+      "symbol": "DECAL",
+      "totalSupply": "100",
+      "tokenType": "ERC721",
+      "contractDeployer": "0x70feeec90d37dc73d9ded8cfafd7ede3f697b70b",
+      "deployedBlockNumber": 16850490,
+      "openSea": {
+        "lastIngestedAt": "2023-10-18T02:00:28.000Z"
+      }
+    },
+    "0xc1232b070ea767b3a50dad83e0aef2453b72103f": {
+      "name": "Decal by Mannay x A. Marrast",
+      "symbol": "DECAL",
+      "totalSupply": "100",
+      "tokenType": "ERC721",
+      "contractDeployer": "0x70feeec90d37dc73d9ded8cfafd7ede3f697b70b",
+      "deployedBlockNumber": 16773370,
+      "openSea": {
+        "floorPrice": 0.069,
+        "collectionName": "Decal by Mannay x A. Marrast",
+        "collectionSlug": "decal-by-mannay-x-a-marrast",
+        "safelistRequestStatus": "not_requested",
+        "imageUrl": "https://i.seadn.io/gcs/files/fff15228e0d6e4fc9811881f6e1b0fb9.png?w=500&auto=format",
+        "description": "An interpretation of the Decal by Mannay x A. Marrast. A symbol of permissionless creativity. Series Fifteen.",
+        "externalUrl": "http://deca.art/decal",
+        "bannerImageUrl": "https://i.seadn.io/gcs/files/b7bda2e13662e9c91aae99e1a4093121.png?w=500&auto=format",
+        "lastIngestedAt": "2023-10-18T00:23:23.000Z"
+      }
+    },
+    "0x2f0117c38f1027d7f7a87d1f0483899eb393a14e": {
+      "name": "Decal by AD_AD",
+      "symbol": "DECAL",
+      "totalSupply": "100",
+      "tokenType": "ERC721",
+      "contractDeployer": "0x70feeec90d37dc73d9ded8cfafd7ede3f697b70b",
+      "deployedBlockNumber": 16689679,
+      "openSea": {
+        "floorPrice": 0.054,
+        "collectionName": "Decal by AD_AD",
+        "collectionSlug": "decal-by-ad-ad",
+        "safelistRequestStatus": "not_requested",
+        "imageUrl": "https://i.seadn.io/gcs/files/6e578f4efe50b32f360e58c6e727dc30.png?w=500&auto=format",
+        "description": "An interpretation of the Decal by AD_AD. A symbol of permissionless creativity. Series Fourteen.",
+        "externalUrl": "http://deca.art/decal",
+        "bannerImageUrl": "https://i.seadn.io/gcs/files/246b87327cbef7f4d314d335331f39da.png?w=500&auto=format",
+        "lastIngestedAt": "2023-10-20T07:16:16.000Z"
+      }
+    },
+    "0x10ba77fcad27436a26a173c641fce391a70586e9": {
+      "name": "Decal by Keiko Kitahara",
+      "symbol": "DECAL",
+      "totalSupply": "100",
+      "tokenType": "ERC721",
+      "contractDeployer": "0x70feeec90d37dc73d9ded8cfafd7ede3f697b70b",
+      "deployedBlockNumber": 16532226,
+      "openSea": {
+        "floorPrice": 0.044,
+        "collectionName": "Decal by Keiko Kitahara",
+        "collectionSlug": "decal-by-keiko-kitahara",
+        "safelistRequestStatus": "not_requested",
+        "imageUrl": "https://i.seadn.io/gcs/files/1be0a8d6e23216ecd06db39bb16e21e7.png?w=500&auto=format",
+        "description": "An interpretation of the Decal by Keiko Kitahara. A symbol of permissionless creativity. Series Thirteen.",
+        "externalUrl": "https://deca.art/decal",
+        "bannerImageUrl": "https://i.seadn.io/gcs/files/d67ac4692a914ab187763f7b4c3949f2.png?w=500&auto=format",
+        "lastIngestedAt": "2023-10-18T12:06:28.000Z"
+      }
+    },
+    "0x7a5b6e630dc305c0d4850781e5a76e1c2a4aa4c8": {
+      "name": "Decal by TOKYOLUV",
+      "symbol": "DECAL",
+      "totalSupply": "100",
+      "tokenType": "ERC721",
+      "contractDeployer": "0x70feeec90d37dc73d9ded8cfafd7ede3f697b70b",
+      "deployedBlockNumber": 16453186,
+      "openSea": {
+        "floorPrice": 0.055499,
+        "collectionName": "Decal by TOKYOLUV",
+        "collectionSlug": "decal-by-tokyoluv",
+        "safelistRequestStatus": "not_requested",
+        "imageUrl": "https://i.seadn.io/gcs/files/2beb971a7332a884e35499d97c273a16.png?w=500&auto=format",
+        "description": "An interpretation of the Decal by TOKYOLUV. A symbol of permissionless creativity. Series Twelve.",
+        "externalUrl": "https://deca.art/decal",
+        "bannerImageUrl": "https://i.seadn.io/gcs/files/5b41b75b2298f972ca91fd9cccdb86b2.png?w=500&auto=format",
+        "lastIngestedAt": "2023-10-18T17:22:31.000Z"
+      }
+    },
+    "0xaf388873cc8e294c7869cf8c8d242da07622d53d": {
+      "name": "Decal by Haru Komoda",
+      "symbol": "DECAL",
+      "totalSupply": "100",
+      "tokenType": "ERC721",
+      "contractDeployer": "0x70feeec90d37dc73d9ded8cfafd7ede3f697b70b",
+      "deployedBlockNumber": 16400720,
+      "openSea": {
+        "floorPrice": 0.09,
+        "collectionName": "Decal by Haru Komoda",
+        "collectionSlug": "decal-by-haru-komoda",
+        "safelistRequestStatus": "not_requested",
+        "imageUrl": "https://i.seadn.io/gcs/files/5e973f1a5cbd629f934c06fc5cbbe363.png?w=500&auto=format",
+        "description": "An interpretation of the Decal by Haru Komoda. A symbol of permissionless creativity. Series Eleven.",
+        "externalUrl": "https://deca.art/decal/",
+        "bannerImageUrl": "https://i.seadn.io/gcs/files/af89152fe7774e5225687acf0321edea.png?w=500&auto=format",
+        "lastIngestedAt": "2023-10-19T07:58:26.000Z"
+      }
+    },
+    "0x50eed5a685377406f2f255dbc7d1b6f8f0ab102c": {
+      "name": "Decal by TJ Thorne",
+      "symbol": "DECAL",
+      "totalSupply": "100",
+      "tokenType": "ERC721",
+      "contractDeployer": "0x70feeec90d37dc73d9ded8cfafd7ede3f697b70b",
+      "deployedBlockNumber": 16002502,
+      "openSea": {
+        "floorPrice": 0.069,
+        "collectionName": "Decal by TJ Thorne",
+        "collectionSlug": "decal-by-tj-thorne",
+        "safelistRequestStatus": "not_requested",
+        "imageUrl": "https://i.seadn.io/gcs/files/50215262dec2270e118d82fe8cdd09b1.jpg?w=500&auto=format",
+        "description": "An interpretation of the Decal by TJ Thorne. A symbol of permissionless creativity. Series Nine.",
+        "externalUrl": "https://deca.art/decal",
+        "bannerImageUrl": "https://i.seadn.io/gcs/files/15e16e9b5947c692f280d0f0c1490e23.png?w=500&auto=format",
+        "lastIngestedAt": "2023-10-22T18:25:18.000Z"
+      }
+    },
+    "0x2b656d331607e2bd6f75b6af309d0ad76f8ff03b": {
+      "name": "Decal by Rata",
+      "symbol": "DECAL",
+      "totalSupply": "100",
+      "tokenType": "ERC721",
+      "contractDeployer": "0x70feeec90d37dc73d9ded8cfafd7ede3f697b70b",
+      "deployedBlockNumber": 15950562,
+      "openSea": {
+        "floorPrice": 0.087,
+        "collectionName": "Decal by Rata",
+        "collectionSlug": "decal-by-rata",
+        "safelistRequestStatus": "not_requested",
+        "imageUrl": "https://i.seadn.io/gcs/files/030d14ae4e9d16dd1782a2e9e38d8138.png?w=500&auto=format",
+        "description": "An interpretation of the Decal by Rata. A symbol of permissionless creativity. Series Eight.",
+        "externalUrl": "http://deca.art/decal",
+        "bannerImageUrl": "https://i.seadn.io/gcs/files/ac1d43b17c32e6b31fbfe9b79f1b418b.png?w=500&auto=format",
+        "lastIngestedAt": "2023-10-17T20:40:53.000Z"
+      }
+    },
+    "0xb034fa4ba0a5cca4bd9f5b9db845fb26c5500b8c": {
+      "name": "X MARKS THE SPOT",
+      "symbol": "XMTS",
+      "totalSupply": "100",
+      "tokenType": "ERC721",
+      "contractDeployer": "0x70feeec90d37dc73d9ded8cfafd7ede3f697b70b",
+      "deployedBlockNumber": 16085795,
+      "openSea": {
+        "floorPrice": 2.69,
+        "collectionName": "Decal by XCOPY",
+        "collectionSlug": "decal-by-xcopy",
+        "safelistRequestStatus": "approved",
+        "imageUrl": "https://i.seadn.io/gcs/files/9564c1b0e5338aab2fbc6ff88a6e9be7.png?w=500&auto=format",
+        "description": "An interpretation of the Decal by XCOPY. A symbol of permissionless creativity. Series Ten.",
+        "externalUrl": "https://deca.art/decal",
+        "bannerImageUrl": "https://i.seadn.io/gcs/files/c4d5d14e4e85df668a120eb4b237d5a5.png?w=500&auto=format",
+        "lastIngestedAt": "2023-10-19T08:00:17.000Z"
+      }
+    },
+    "0x1f493aa73c628259f755fd8b6540a3b4de3e994c": {
+      "name": "Decal by Reuben Wu",
+      "symbol": "DECAL",
+      "totalSupply": "100",
+      "tokenType": "ERC721",
+      "contractDeployer": "0x70feeec90d37dc73d9ded8cfafd7ede3f697b70b",
+      "deployedBlockNumber": 15872534,
+      "openSea": {
+        "floorPrice": 0.1499,
+        "collectionName": "Decal by Reuben Wu",
+        "collectionSlug": "decal-by-reuben-wu",
+        "safelistRequestStatus": "not_requested",
+        "imageUrl": "https://i.seadn.io/gcs/files/e79c3aacd6a82e0f8579773f698b5b6f.jpg?w=500&auto=format",
+        "description": "An interpretation of the Decal by Reuben Wu. A symbol of permissionless creativity. Series Seven.",
+        "externalUrl": "https://deca.art/decal",
+        "bannerImageUrl": "https://i.seadn.io/gcs/files/72a6e9e0c60cfd0d0e4714215eb5e8cc.png?w=500&auto=format",
+        "lastIngestedAt": "2023-10-18T20:07:25.000Z"
+      }
+    },
+    "0xb0003120bb3e73b7ca7a42324013258f569750f1": {
+      "name": "Decal by Jerad Armijo",
+      "symbol": "DECAL",
+      "totalSupply": "100",
+      "tokenType": "ERC721",
+      "contractDeployer": "0x70feeec90d37dc73d9ded8cfafd7ede3f697b70b",
+      "deployedBlockNumber": 15836082,
+      "openSea": {
+        "floorPrice": 0.0999,
+        "collectionName": "Decal by Jerad Armijo",
+        "collectionSlug": "decal-by-jerad-armijo",
+        "safelistRequestStatus": "not_requested",
+        "imageUrl": "https://i.seadn.io/gcs/files/172dae5dbde950d2748d5191e394714d.png?w=500&auto=format",
+        "description": "An interpretation of the Decal by Jerad Armijo. A symbol of permissionless creativity. Series Six.",
+        "externalUrl": "https://deca.art/decal",
+        "bannerImageUrl": "https://i.seadn.io/gcs/files/6d927a7b2ad220f9856e0f8d5afc4a7a.png?w=500&auto=format",
+        "lastIngestedAt": "2023-10-19T07:55:39.000Z"
+      }
+    },
+    "0xdb71bff021cd2bb1ba5e19c4c0a28e2ff9ffc705": {
+      "name": "Decal by Bryan Brinkman",
+      "symbol": "DECAL",
+      "totalSupply": "100",
+      "tokenType": "ERC721",
+      "contractDeployer": "0x70feeec90d37dc73d9ded8cfafd7ede3f697b70b",
+      "deployedBlockNumber": 15784403,
+      "openSea": {
+        "floorPrice": 0.239,
+        "collectionName": "Decal by Bryan Brinkman",
+        "collectionSlug": "decal-by-bryan-brinkman",
+        "safelistRequestStatus": "not_requested",
+        "imageUrl": "https://i.seadn.io/gcs/files/bb9c807c2d86c4484f1a669132ba71ca.jpg?w=500&auto=format",
+        "description": "An interpretation of the Decal by Bryan Brinkman. A symbol of permissionless creativity. Series Five.",
+        "externalUrl": "https://deca.art/decal",
+        "bannerImageUrl": "https://i.seadn.io/gcs/files/95b5c647ca127e1735b140c51fab037b.png?w=500&auto=format",
+        "lastIngestedAt": "2023-10-19T16:35:10.000Z"
+      }
+    },
+    "0x4d7c9f9c98bdf60139758a0c5f11a3ae812b15c5": {
+      "name": "Decal by Rich Caldwell",
+      "symbol": "DECAL",
+      "totalSupply": "100",
+      "tokenType": "ERC721",
+      "contractDeployer": "0x70feeec90d37dc73d9ded8cfafd7ede3f697b70b",
+      "deployedBlockNumber": 15643199,
+      "openSea": {
+        "floorPrice": 0.15,
+        "collectionName": "Decal by Rich Caldwell",
+        "collectionSlug": "decal-by-rich-caldwell",
+        "safelistRequestStatus": "not_requested",
+        "imageUrl": "https://i.seadn.io/gcs/files/c5eceb8826c29553bd1acdba2c797bb3.jpg?w=500&auto=format",
+        "description": "An interpretation of the Decal by Rich Caldwell. A symbol of permissionless creativity. Series Four.",
+        "externalUrl": "https://deca.art/decal",
+        "bannerImageUrl": "https://i.seadn.io/gcs/files/26bd1809f249403c7a174772188be1ea.png?w=500&auto=format",
+        "lastIngestedAt": "2023-10-22T15:48:09.000Z"
+      }
+    },
+    "0xa6c85325065895fefd84291cfc77c5bf1ce2ffe1": {
+      "name": "Decal by tjo",
+      "symbol": "DECAL",
+      "totalSupply": "100",
+      "tokenType": "ERC721",
+      "contractDeployer": "0x70feeec90d37dc73d9ded8cfafd7ede3f697b70b",
+      "deployedBlockNumber": 15487408,
+      "openSea": {
+        "floorPrice": 0.13,
+        "collectionName": "Decal by tjo",
+        "collectionSlug": "decal-by-tjo",
+        "safelistRequestStatus": "not_requested",
+        "imageUrl": "https://i.seadn.io/gcs/files/98c9d88edca9ee678e125377581c6d25.png?w=500&auto=format",
+        "description": "An interpretation of the Decal by tjo. A symbol of permissionless creativity. Series Three.",
+        "externalUrl": "https://deca.art/decal",
+        "bannerImageUrl": "https://i.seadn.io/gcs/files/c888056a1a9477c09b4d2a14afa1e8d6.png?w=500&auto=format",
+        "lastIngestedAt": "2023-10-19T07:06:44.000Z"
+      }
+    },
+    "0xc3c415be22282859fbfc04ddd382685dfe7ed7f8": {
+      "name": "Decal by Grant Yun",
+      "symbol": "DECAL",
+      "totalSupply": "100",
+      "tokenType": "ERC721",
+      "contractDeployer": "0x70feeec90d37dc73d9ded8cfafd7ede3f697b70b",
+      "deployedBlockNumber": 15411921,
+      "openSea": {
+        "floorPrice": 0.429,
+        "collectionName": "Decal by Grant Yun",
+        "collectionSlug": "decal-by-grant-yun",
+        "safelistRequestStatus": "not_requested",
+        "imageUrl": "https://i.seadn.io/gcs/files/c275e28ae7c883c550f0b6ee0954e8be.jpg?w=500&auto=format",
+        "description": "An interpretation of the Decal by Grant Yun. A symbol of permissionless creativity. Series Two.",
+        "externalUrl": "https://deca.art/decal",
+        "bannerImageUrl": "https://i.seadn.io/gcs/files/918f3d4bdf77f83575f4e0b9d438ff46.png?w=500&auto=format",
+        "lastIngestedAt": "2023-10-19T12:35:08.000Z"
+      }
+    },
+    "0x3c280e833896e29ff8cf3445a51da0d7fd0eec7e": {
+      "name": "Decal by Kjetil Golid",
+      "symbol": "DECAL",
+      "totalSupply": "100",
+      "tokenType": "ERC721",
+      "contractDeployer": "0x70feeec90d37dc73d9ded8cfafd7ede3f697b70b",
+      "deployedBlockNumber": 15322709,
+      "openSea": {
+        "floorPrice": 0.5,
+        "collectionName": "Decal by Kjetil Golid",
+        "collectionSlug": "deca-decal",
+        "safelistRequestStatus": "not_requested",
+        "imageUrl": "https://i.seadn.io/gcs/files/b48374bacb6d2f2a68a97508e13a776a.jpg?w=500&auto=format",
+        "description": "An interpretation of the Decal by Kjetil Golid. A symbol of permissionless creativity. Series One.",
+        "externalUrl": "https://deca.art/decal",
+        "bannerImageUrl": "https://i.seadn.io/gcs/files/7c3e3ce59114856effeccf31eec88bf2.png?w=500&auto=format",
+        "lastIngestedAt": "2023-10-20T06:37:26.000Z"
+      }
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "modified": 1698333970454,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x1a4385c06550076264ab8d98452c7c55f47c9814",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x65ebf67ff463bd09a03c9003b50cfa0d71ab656b",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x144404da881f622fb91217db2ca9aaa5791375af",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xfafa95c4225b7187e54b0ebad901822bfa38d874",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1WSvFWta9t82TVgcKWtesDidHaQGQeik4r",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0x1a4385c06550076264ab8d98452c7c55f47c9814",
+      "0x65ebf67ff463bd09a03c9003b50cfa0d71ab656b",
+      "0x144404da881f622fb91217db2ca9aaa5791375af",
+      "0xfafa95c4225b7187e54b0ebad901822bfa38d874"
+    ],
+    "walletsTez": [
+      "tz1WSvFWta9t82TVgcKWtesDidHaQGQeik4r"
+    ],
+    "walletsOther": [],
+    "id": "cl682tqzg044409lgrhx1h4tu",
+    "username": "PatriciaLa",
+    "createdAt": "2022-07-30T15:56:56.667Z"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "modified": 1698333253275,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x052564eb0fd8b340803df55def89c25c432f43f4",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x052564eb0fd8b340803df55def89c25c432f43f4"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cle95csds0001jn0fdgsvsg4g",
+    "username": "pablopunkasso",
+    "createdAt": "2023-02-17T23:13:09.028Z"
+  }
+}

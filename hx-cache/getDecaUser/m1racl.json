@@ -1,0 +1,30 @@
+{
+  "modified": 1698334464912,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xe9d53246209e4cd87dbc5d1fee71f44bff89a611",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x1a41ec571ec8fc815febf81fcbaf9d7f7ec98849",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xc51fA2d7cA3927eA2daD6bdDC428e9277Bd73099",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xe9d53246209e4cd87dbc5d1fee71f44bff89a611",
+      "0x1a41ec571ec8fc815febf81fcbaf9d7f7ec98849",
+      "0xc51fA2d7cA3927eA2daD6bdDC428e9277Bd73099"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3vqpa95359809lhgg4n1epp",
+    "username": "m1racl",
+    "createdAt": "2022-06-01T15:24:54.185Z"
+  }
+}

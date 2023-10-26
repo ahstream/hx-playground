@@ -1,0 +1,25 @@
+{
+  "modified": 1698351237822,
+  "value": {
+    "address": "0x0649cffa638931612649dface45bc8554e1be176",
+    "contractMetadata": {
+      "name": "Decal by Andy Shaw",
+      "symbol": "DECAL",
+      "totalSupply": "100",
+      "tokenType": "ERC721",
+      "contractDeployer": "0x70feeec90d37dc73d9ded8cfafd7ede3f697b70b",
+      "deployedBlockNumber": 18079807,
+      "openSea": {
+        "floorPrice": 0.0299,
+        "collectionName": "Decal by Andy Shaw",
+        "collectionSlug": "decal-by-andy-shaw",
+        "safelistRequestStatus": "not_requested",
+        "imageUrl": "https://i.seadn.io/gcs/files/a9424b2fac4f3ef8f4c6c7477922312e.jpg?w=500&auto=format",
+        "description": "An interpretation of the Decal by Andy Shaw. A symbol of permissionless creativity. Series Twenty Five.",
+        "externalUrl": "http://deca.art/decals",
+        "bannerImageUrl": "https://i.seadn.io/gcs/files/a67e4850065458d227afd7215e6cb9e9.png?w=500&auto=format",
+        "lastIngestedAt": "2023-10-26T03:20:09.000Z"
+      }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "modified": 1698333278712,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xf1f476f144df01480297dca47efca565e8b0c9f1",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xf1f476f144df01480297dca47efca565e8b0c9f1"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl4vc697o064809meb6xqfxbk",
+    "username": "Vic1989",
+    "createdAt": "2022-06-26T13:17:54.084Z"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "modified": 1698334438117,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x4dd5a4d1fcb6f8938aa8ad070aefe1b19e8f9c0c",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x0dac0d611db5955bbe881cf8d75d4c80271cae83",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xd59c88ab107d1e13b773aa63865382e5bbfb1fd4",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1gX3AFuw9ysHJeWwT4LgrSiN2AEhxkrvjM",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "tz1gmR7ZFLynw8hYkgr8jjfFZpsnav5EqVrV",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0x4dd5a4d1fcb6f8938aa8ad070aefe1b19e8f9c0c",
+      "0x0dac0d611db5955bbe881cf8d75d4c80271cae83",
+      "0xd59c88ab107d1e13b773aa63865382e5bbfb1fd4"
+    ],
+    "walletsTez": [
+      "tz1gX3AFuw9ysHJeWwT4LgrSiN2AEhxkrvjM",
+      "tz1gmR7ZFLynw8hYkgr8jjfFZpsnav5EqVrV"
+    ],
+    "walletsOther": [],
+    "id": "cl6fdo0v6029109mkc4abdf4v",
+    "username": "Pinku",
+    "createdAt": "2022-08-04T18:34:48.546Z"
+  }
+}

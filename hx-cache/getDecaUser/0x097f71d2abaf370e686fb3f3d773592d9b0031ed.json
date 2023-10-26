@@ -1,0 +1,31 @@
+{
+  "modified": 1698332482332,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x097f71d2abaf370e686fb3f3d773592d9b0031ed",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1dXEk6xAiYuzXCagLmDu14pfEni7Axaqgg",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0xb8cE4646A6Fc3d306B7dD8f9ad4beb8Aa68F2feF",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x097f71d2abaf370e686fb3f3d773592d9b0031ed",
+      "0xb8cE4646A6Fc3d306B7dD8f9ad4beb8Aa68F2feF"
+    ],
+    "walletsTez": [
+      "tz1dXEk6xAiYuzXCagLmDu14pfEni7Axaqgg"
+    ],
+    "walletsOther": [],
+    "id": "cl3ul7qhq1073609jj2uqjai71",
+    "username": "2RipsGawd",
+    "createdAt": "2022-05-31T20:03:31.166Z"
+  }
+}

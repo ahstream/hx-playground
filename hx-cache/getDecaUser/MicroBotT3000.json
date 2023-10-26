@@ -1,0 +1,20 @@
+{
+  "modified": 1698333944881,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x7a634184b66f1e1fc0e11e6fa80b87718bedb326",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x7a634184b66f1e1fc0e11e6fa80b87718bedb326"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5boa68p580509ju26oduppv",
+    "username": "MicroBotT3000",
+    "createdAt": "2022-07-07T23:41:11.065Z"
+  }
+}

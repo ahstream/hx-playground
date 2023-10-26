@@ -1,0 +1,26 @@
+{
+  "modified": 1698333977219,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x5bad9e7daee7f009d2076605b0cc85e6c824405e",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1ewdXFD39PixdgENu7nknT7sWcJutmaM4o",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0x5bad9e7daee7f009d2076605b0cc85e6c824405e"
+    ],
+    "walletsTez": [
+      "tz1ewdXFD39PixdgENu7nknT7sWcJutmaM4o"
+    ],
+    "walletsOther": [],
+    "id": "cl3ikn06s172209jturaghbd3",
+    "username": "Golbarg",
+    "createdAt": "2022-05-23T10:14:09.844Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "modified": 1698332855816,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x72fe3c398c9a030b9b2be1fe1ff07701167571d4",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1TrZe5zvnEJvA18GrtEUWL9pEpF3TBxjaf",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0xe97a848dfe6945633108368cb2157edae483a9c8",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x72fe3c398c9a030b9b2be1fe1ff07701167571d4",
+      "0xe97a848dfe6945633108368cb2157edae483a9c8"
+    ],
+    "walletsTez": [
+      "tz1TrZe5zvnEJvA18GrtEUWL9pEpF3TBxjaf"
+    ],
+    "walletsOther": [],
+    "id": "cl3av3fss031309msg4l7xvn8",
+    "username": "Quixuote",
+    "createdAt": "2022-05-18T00:44:43.324Z"
+  }
+}

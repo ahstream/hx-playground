@@ -1,0 +1,19 @@
+{
+  "modified": 1698332465749,
+  "value": {
+    "address": "0xd7dad0754e3e1129f84612ade8ffa8c38f551b0a",
+    "lastUpdated": 1697453029,
+    "name": "Decal by Gabriella Morton",
+    "owner": "0x70feeec90d37dc73d9ded8cfafd7ede3f697b70b",
+    "price": false,
+    "symbol": "DECAL",
+    "totalSupply": "100",
+    "transfersCount": 0,
+    "txsCount": 136,
+    "issuancesCount": 0,
+    "holdersCount": 88,
+    "ethTransfersCount": 0,
+    "decimals": "0",
+    "countOps": 0
+  }
+}

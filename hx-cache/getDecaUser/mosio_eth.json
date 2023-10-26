@@ -1,0 +1,20 @@
+{
+  "modified": 1698333955333,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xefc78d365c0f78b1454732f789ea5762c901c0ed",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xefc78d365c0f78b1454732f789ea5762c901c0ed"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "clnhsro120000jh0fgl6de17y",
+    "username": "mosio_eth",
+    "createdAt": "2023-10-08T18:28:04.838Z"
+  }
+}

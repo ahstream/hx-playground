@@ -1,0 +1,25 @@
+{
+  "modified": 1698351243680,
+  "value": {
+    "address": "0x2b656d331607e2bd6f75b6af309d0ad76f8ff03b",
+    "contractMetadata": {
+      "name": "Decal by Rata",
+      "symbol": "DECAL",
+      "totalSupply": "100",
+      "tokenType": "ERC721",
+      "contractDeployer": "0x70feeec90d37dc73d9ded8cfafd7ede3f697b70b",
+      "deployedBlockNumber": 15950562,
+      "openSea": {
+        "floorPrice": 0.087,
+        "collectionName": "Decal by Rata",
+        "collectionSlug": "decal-by-rata",
+        "safelistRequestStatus": "not_requested",
+        "imageUrl": "https://i.seadn.io/gcs/files/030d14ae4e9d16dd1782a2e9e38d8138.png?w=500&auto=format",
+        "description": "An interpretation of the Decal by Rata. A symbol of permissionless creativity. Series Eight.",
+        "externalUrl": "http://deca.art/decal",
+        "bannerImageUrl": "https://i.seadn.io/gcs/files/ac1d43b17c32e6b31fbfe9b79f1b418b.png?w=500&auto=format",
+        "lastIngestedAt": "2023-10-17T20:40:53.000Z"
+      }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "modified": 1698334152435,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x48b4650aa5519d41bcd4bc39b81fb92b0e30d706",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x48b4650aa5519d41bcd4bc39b81fb92b0e30d706"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5crpryq543106mkss431nav",
+    "username": "TttJacob",
+    "createdAt": "2022-07-08T18:05:04.082Z"
+  }
+}

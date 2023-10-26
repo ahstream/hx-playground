@@ -1,0 +1,26 @@
+{
+  "modified": 1698332784308,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xef9e25dc37cc61ca49a07d0394db5d86078c01cf",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1YZ977TwGJJ5Cr3YTLsPK7416BinAnsUW4",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0xef9e25dc37cc61ca49a07d0394db5d86078c01cf"
+    ],
+    "walletsTez": [
+      "tz1YZ977TwGJJ5Cr3YTLsPK7416BinAnsUW4"
+    ],
+    "walletsOther": [],
+    "id": "cl4v6qtym163209l69fxztj37",
+    "username": "govi_un_deca",
+    "createdAt": "2022-06-26T10:45:56.398Z"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "modified": 1698332539011,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xc9a693b5e1c8b3a46528be8e1ac912932bf2788c",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1XQ9wLep4ABRKr9TJ2nE3KvYhQfV83mNNp",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0xc9a693b5e1c8b3a46528be8e1ac912932bf2788c"
+    ],
+    "walletsTez": [
+      "tz1XQ9wLep4ABRKr9TJ2nE3KvYhQfV83mNNp"
+    ],
+    "walletsOther": [],
+    "id": "cl3ayvx8t053209mktmpkdoho",
+    "username": "burgoon",
+    "createdAt": "2022-05-18T02:30:51.149Z"
+  }
+}

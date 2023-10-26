@@ -1,0 +1,20 @@
+{
+  "modified": 1698333153956,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xdbc416d8a787cbcee7fe1bd76b68b6adc61d7ae8",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xdbc416d8a787cbcee7fe1bd76b68b6adc61d7ae8"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "clcarpgoq001tl60fui3pzq5f",
+    "username": "BillyWhistler",
+    "createdAt": "2022-12-30T17:07:13.405Z"
+  }
+}

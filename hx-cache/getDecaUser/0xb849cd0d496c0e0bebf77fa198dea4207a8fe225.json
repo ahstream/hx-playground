@@ -1,0 +1,20 @@
+{
+  "modified": 1698332776123,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xb849cd0d496c0e0bebf77fa198dea4207a8fe225",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xb849cd0d496c0e0bebf77fa198dea4207a8fe225"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5kuboax004009labnelviht",
+    "username": "VBryce",
+    "createdAt": "2022-07-14T09:40:14.409Z"
+  }
+}

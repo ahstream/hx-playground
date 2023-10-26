@@ -1,0 +1,23 @@
+{
+  "modified": 1698350128815,
+  "value": {
+    "address": "0x53dcb3f5f3973a93ccb6f55d090f6ecf0c687b64",
+    "contractMetadata": {
+      "name": "1/1s by Hafftka",
+      "symbol": "HAFFTKA1",
+      "tokenType": "ERC721",
+      "contractDeployer": "0x208833804d09cf965023f2bdb03d78e3056b4767",
+      "deployedBlockNumber": 17860477,
+      "openSea": {
+        "floorPrice": 0,
+        "collectionName": "1/1s by Hafftka",
+        "collectionSlug": "1-1s-by-hafftka",
+        "safelistRequestStatus": "not_requested",
+        "imageUrl": "https://i.seadn.io/gcs/files/05c22062adcaf6854730f70f3e5be517.jpg?w=500&auto=format",
+        "description": "",
+        "bannerImageUrl": "https://i.seadn.io/gcs/files/6b9f2ac2d00bd5e208885098636e83b0.jpg?w=500&auto=format",
+        "lastIngestedAt": "2023-10-24T13:25:52.000Z"
+      }
+    }
+  }
+}

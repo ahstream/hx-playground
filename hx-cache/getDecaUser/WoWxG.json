@@ -1,0 +1,20 @@
+{
+  "modified": 1698333930767,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x837f37a9b853a40eb9afdca4263887d1f475124e",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x837f37a9b853a40eb9afdca4263887d1f475124e"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3e6a6f5328909mgj9iziuxn",
+    "username": "WoWxG",
+    "createdAt": "2022-05-20T08:21:12.065Z"
+  }
+}

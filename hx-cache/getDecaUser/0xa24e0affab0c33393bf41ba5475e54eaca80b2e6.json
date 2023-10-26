@@ -1,0 +1,20 @@
+{
+  "modified": 1698332956026,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xa24e0affab0c33393bf41ba5475e54eaca80b2e6",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xa24e0affab0c33393bf41ba5475e54eaca80b2e6"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3xnhbjj616109js8dxcgs66",
+    "username": "moksblac",
+    "createdAt": "2022-06-02T23:30:16.112Z"
+  }
+}

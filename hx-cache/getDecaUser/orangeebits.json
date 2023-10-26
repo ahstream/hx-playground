@@ -1,0 +1,31 @@
+{
+  "modified": 1698334027509,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x06227dc7a9d227c3a206724c036962261551740d",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1ZXcjbrXWP1wSrGAgbvWdBN1VU1sQu3K9W",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0xbf9c6788bfd20ca7920ad503f063457a5f287d05",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x06227dc7a9d227c3a206724c036962261551740d",
+      "0xbf9c6788bfd20ca7920ad503f063457a5f287d05"
+    ],
+    "walletsTez": [
+      "tz1ZXcjbrXWP1wSrGAgbvWdBN1VU1sQu3K9W"
+    ],
+    "walletsOther": [],
+    "id": "cl5s0v41m101909mv7vr1m8kb",
+    "username": "orangeebits",
+    "createdAt": "2022-07-19T10:17:42.202Z"
+  }
+}

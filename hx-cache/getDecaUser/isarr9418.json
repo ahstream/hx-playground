@@ -1,0 +1,20 @@
+{
+  "modified": 1698333939262,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x93a5e5a05cb13eefa92cfc15a409aa316b473710",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x93a5e5a05cb13eefa92cfc15a409aa316b473710"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl4tkup19104609mlsrv957d8",
+    "username": "isarr9418",
+    "createdAt": "2022-06-25T07:45:18.909Z"
+  }
+}

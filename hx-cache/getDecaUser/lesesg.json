@@ -1,0 +1,20 @@
+{
+  "modified": 1698333925372,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x110dc9ebfc37f7e054b387b63b250dcbeffdf47f",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x110dc9ebfc37f7e054b387b63b250dcbeffdf47f"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl4md81vx020209mbhw2iqk6b",
+    "username": "lesesg",
+    "createdAt": "2022-06-20T06:37:21.933Z"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "modified": 1698334136152,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xd5419112302db715875157b869f831983d4f2fb6",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xd5419112302db715875157b869f831983d4f2fb6"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5cn2fdm614509ihcl8pcefp",
+    "username": "gbeef9",
+    "createdAt": "2022-07-08T15:54:56.218Z"
+  }
+}

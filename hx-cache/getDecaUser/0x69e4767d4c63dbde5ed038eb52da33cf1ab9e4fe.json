@@ -1,0 +1,25 @@
+{
+  "modified": 1698333225387,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x69e4767d4c63dbde5ed038eb52da33cf1ab9e4fe",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xc8331023f93517708ab2e7b3e4462a046b94605d",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x69e4767d4c63dbde5ed038eb52da33cf1ab9e4fe",
+      "0xc8331023f93517708ab2e7b3e4462a046b94605d"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3un7v7c537809mk07arqicn",
+    "username": "lamadame",
+    "createdAt": "2022-05-31T20:59:36.504Z"
+  }
+}

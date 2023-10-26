@@ -1,0 +1,25 @@
+{
+  "modified": 1698334223462,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x64c0be5f58b4da7253463043359432e032e3edcc",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xb4aa88aa72fe079e9dd49bce4828ffd6cb395e89",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x64c0be5f58b4da7253463043359432e032e3edcc",
+      "0xb4aa88aa72fe079e9dd49bce4828ffd6cb395e89"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3ybkkpo319909mn3532cuno",
+    "username": "chimpish",
+    "createdAt": "2022-06-03T10:44:38.748Z"
+  }
+}

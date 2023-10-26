@@ -1,0 +1,20 @@
+{
+  "modified": 1698334163212,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xe77e6594706a08177f4212217d46a13561bf5dcd",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xe77e6594706a08177f4212217d46a13561bf5dcd"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl56g6b6d220709ma6j315omd",
+    "username": "Machiyo",
+    "createdAt": "2022-07-04T07:55:23.029Z"
+  }
+}

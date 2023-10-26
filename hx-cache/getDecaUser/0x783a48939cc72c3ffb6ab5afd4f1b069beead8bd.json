@@ -1,0 +1,25 @@
+{
+  "modified": 1698332928603,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x5e7d2bdbffd95ceed9615711c7295d49609a9a75",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x783a48939cc72c3ffb6ab5afd4f1b069beead8bd",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x5e7d2bdbffd95ceed9615711c7295d49609a9a75",
+      "0x783a48939cc72c3ffb6ab5afd4f1b069beead8bd"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5wphtrm142509l3l210y7iz",
+    "username": "Kid_Galore",
+    "createdAt": "2022-07-22T16:58:17.458Z"
+  }
+}

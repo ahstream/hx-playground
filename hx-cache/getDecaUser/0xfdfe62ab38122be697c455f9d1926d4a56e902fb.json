@@ -1,0 +1,20 @@
+{
+  "modified": 1698332785778,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xfdfe62ab38122be697c455f9d1926d4a56e902fb",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xfdfe62ab38122be697c455f9d1926d4a56e902fb"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl407hx46093709ku1nlj0yth",
+    "username": "yylove",
+    "createdAt": "2022-06-04T18:26:08.742Z"
+  }
+}

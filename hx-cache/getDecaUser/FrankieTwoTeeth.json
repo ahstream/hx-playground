@@ -1,0 +1,20 @@
+{
+  "modified": 1698334006800,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xf57bf9697c4620ab96870d2829110abff1ec551d",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xf57bf9697c4620ab96870d2829110abff1ec551d"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "clbwayj510002js0f24wjmyei",
+    "username": "FrankieTwoTeeth",
+    "createdAt": "2022-12-20T14:09:36.590Z"
+  }
+}

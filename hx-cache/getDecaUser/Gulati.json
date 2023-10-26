@@ -1,0 +1,25 @@
+{
+  "modified": 1698334446440,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x19d4ccaedd75ef32ba76430af03e27cee010606a",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x1a6f0dddb884854355023a2dfe26e9174f8e0290",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x19d4ccaedd75ef32ba76430af03e27cee010606a",
+      "0x1a6f0dddb884854355023a2dfe26e9174f8e0290"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3uq4iw5515609ikbyihvbjs",
+    "username": "Gulati",
+    "createdAt": "2022-05-31T22:20:59.429Z"
+  }
+}

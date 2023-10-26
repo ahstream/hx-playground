@@ -1,0 +1,20 @@
+{
+  "modified": 1698332758559,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x3245938d5c684301d60275426447a860392072ec",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x3245938d5c684301d60275426447a860392072ec"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl45i2p2i758309l6ewbwfolj",
+    "username": "fellas",
+    "createdAt": "2022-06-08T11:21:05.130Z"
+  }
+}

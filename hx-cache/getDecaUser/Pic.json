@@ -1,0 +1,26 @@
+{
+  "modified": 1698334176111,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x3f3a25f1fd0c7f6f0b31679090fd3cf8cf8d81ee",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1bRqUkHBpqWmaN8t11oei2d8QK5yToRbBo",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0x3f3a25f1fd0c7f6f0b31679090fd3cf8cf8d81ee"
+    ],
+    "walletsTez": [
+      "tz1bRqUkHBpqWmaN8t11oei2d8QK5yToRbBo"
+    ],
+    "walletsOther": [],
+    "id": "cl56borrt018209m7uar0bas2",
+    "username": "Pic",
+    "createdAt": "2022-07-04T05:49:46.265Z"
+  }
+}

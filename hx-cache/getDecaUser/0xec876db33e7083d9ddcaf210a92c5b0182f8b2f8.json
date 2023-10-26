@@ -1,0 +1,25 @@
+{
+  "modified": 1698333058575,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xaf77e6ce8fef4b096e909ebe6c475cb991c27675",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xec876db33e7083d9ddcaf210a92c5b0182f8b2f8",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xaf77e6ce8fef4b096e909ebe6c475cb991c27675",
+      "0xec876db33e7083d9ddcaf210a92c5b0182f8b2f8"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3uqxkvn641609jxbo4t0m7z",
+    "username": "Suerte",
+    "createdAt": "2022-05-31T22:43:35.027Z"
+  }
+}

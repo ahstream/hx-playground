@@ -1,0 +1,30 @@
+{
+  "modified": 1698334420891,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x189d98f9aa1c464b2e91c3f11c4a1fe31f6c4374",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xdE3c597480051d659a3611569a3AffA367000D0D",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xE0b8293D1C3B9bBf2AF7289eb8910BBa41DB432c",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x189d98f9aa1c464b2e91c3f11c4a1fe31f6c4374",
+      "0xdE3c597480051d659a3611569a3AffA367000D0D",
+      "0xE0b8293D1C3B9bBf2AF7289eb8910BBa41DB432c"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5ajxwxo012909l71grzy6xz",
+    "username": "ugruthehodler",
+    "createdAt": "2022-07-07T04:51:54.492Z"
+  }
+}

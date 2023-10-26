@@ -1,0 +1,20 @@
+{
+  "modified": 1698332499016,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x3b99cc55c357829fa8ac9bd21ab2ce43f4b56a9c",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x3b99cc55c357829fa8ac9bd21ab2ce43f4b56a9c"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl431dm5h027709mkbprbiuan",
+    "username": "skate",
+    "createdAt": "2022-06-06T17:58:08.741Z"
+  }
+}

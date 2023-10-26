@@ -1,0 +1,20 @@
+{
+  "modified": 1698332948358,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x5fec75b1bb760232813de14a9c4170590da94aed",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x5fec75b1bb760232813de14a9c4170590da94aed"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cln7v00dy0001mh0f8jb4cn5t",
+    "username": "Fidgetty",
+    "createdAt": "2023-10-01T19:32:51.293Z"
+  }
+}

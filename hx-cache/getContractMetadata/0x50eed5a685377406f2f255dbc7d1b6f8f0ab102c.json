@@ -1,0 +1,25 @@
+{
+  "modified": 1698351243301,
+  "value": {
+    "address": "0x50eed5a685377406f2f255dbc7d1b6f8f0ab102c",
+    "contractMetadata": {
+      "name": "Decal by TJ Thorne",
+      "symbol": "DECAL",
+      "totalSupply": "100",
+      "tokenType": "ERC721",
+      "contractDeployer": "0x70feeec90d37dc73d9ded8cfafd7ede3f697b70b",
+      "deployedBlockNumber": 16002502,
+      "openSea": {
+        "floorPrice": 0.069,
+        "collectionName": "Decal by TJ Thorne",
+        "collectionSlug": "decal-by-tj-thorne",
+        "safelistRequestStatus": "not_requested",
+        "imageUrl": "https://i.seadn.io/gcs/files/50215262dec2270e118d82fe8cdd09b1.jpg?w=500&auto=format",
+        "description": "An interpretation of the Decal by TJ Thorne. A symbol of permissionless creativity. Series Nine.",
+        "externalUrl": "https://deca.art/decal",
+        "bannerImageUrl": "https://i.seadn.io/gcs/files/15e16e9b5947c692f280d0f0c1490e23.png?w=500&auto=format",
+        "lastIngestedAt": "2023-10-22T18:25:18.000Z"
+      }
+    }
+  }
+}

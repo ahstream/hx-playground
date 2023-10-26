@@ -1,0 +1,26 @@
+{
+  "modified": 1698333984933,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xf138984bd659edd8de38fb2febedae8bed5e0255",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz2ThvRTrsGvssCbEYFrGPEGsPynjCPdmsZ4",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0xf138984bd659edd8de38fb2febedae8bed5e0255"
+    ],
+    "walletsTez": [
+      "tz2ThvRTrsGvssCbEYFrGPEGsPynjCPdmsZ4"
+    ],
+    "walletsOther": [],
+    "id": "cl6g4k5rh1103709l73bixop0r",
+    "username": "arnab14",
+    "createdAt": "2022-08-05T07:07:37.901Z"
+  }
+}

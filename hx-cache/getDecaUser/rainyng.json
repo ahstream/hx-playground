@@ -1,0 +1,20 @@
+{
+  "modified": 1698334325425,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xc3fd76f0e4a8c9723127bf35a6ac54f45e504f34",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xc3fd76f0e4a8c9723127bf35a6ac54f45e504f34"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5z0iky8425409m9j8exl9gy",
+    "username": "rainyng",
+    "createdAt": "2022-07-24T07:42:20.816Z"
+  }
+}

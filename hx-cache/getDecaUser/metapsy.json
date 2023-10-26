@@ -1,0 +1,25 @@
+{
+  "modified": 1698334457920,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x62d4377141e0a4a6eaab3167e0ffa4bc037db3a5",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x5B6F36473aEA942C3DbCEdE8fB2a9C645fe75fD1",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x62d4377141e0a4a6eaab3167e0ffa4bc037db3a5",
+      "0x5B6F36473aEA942C3DbCEdE8fB2a9C645fe75fD1"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "clcvwob8m000bie0fefmick2f",
+    "username": "metapsy",
+    "createdAt": "2023-01-14T12:09:27.518Z"
+  }
+}

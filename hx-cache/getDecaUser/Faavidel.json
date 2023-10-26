@@ -1,0 +1,31 @@
+{
+  "modified": 1698334179052,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "tz1XWjwZAJti79N6ATrHwNozh9FAUSadn6cf",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0xa7c1c7e8cdc9a58845ac298a8e48a888b74206af",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xa611de28d0a57d435e83dda353f5fb164cb2c9cf",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xa7c1c7e8cdc9a58845ac298a8e48a888b74206af",
+      "0xa611de28d0a57d435e83dda353f5fb164cb2c9cf"
+    ],
+    "walletsTez": [
+      "tz1XWjwZAJti79N6ATrHwNozh9FAUSadn6cf"
+    ],
+    "walletsOther": [],
+    "id": "cl6tfro5e14970gl71tuo29iu",
+    "username": "Faavidel",
+    "createdAt": "2022-08-14T14:42:24.386Z"
+  }
+}

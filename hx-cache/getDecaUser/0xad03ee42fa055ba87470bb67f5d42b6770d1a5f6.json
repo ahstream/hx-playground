@@ -1,0 +1,20 @@
+{
+  "modified": 1698332904927,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xad03ee42fa055ba87470bb67f5d42b6770d1a5f6",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xad03ee42fa055ba87470bb67f5d42b6770d1a5f6"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3uue6291360009lhvdgzsj81",
+    "username": "JpegJockey",
+    "createdAt": "2022-06-01T00:20:27.825Z"
+  }
+}

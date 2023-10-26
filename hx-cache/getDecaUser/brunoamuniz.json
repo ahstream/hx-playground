@@ -1,0 +1,20 @@
+{
+  "modified": 1698334426657,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x280fd04ec953ebc75a3e70793dcb2745f0646366",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x280fd04ec953ebc75a3e70793dcb2745f0646366"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl80699ag19800al955minl2b",
+    "username": "brunoamuniz",
+    "createdAt": "2022-09-13T12:30:14.344Z"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "modified": 1698334067517,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x6d635d98e37c9b8436525be3b16f929df0c0914c",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x75596088ef809f8b6e28d6d35aa1105768785d58",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x6d635d98e37c9b8436525be3b16f929df0c0914c",
+      "0x75596088ef809f8b6e28d6d35aa1105768785d58"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "clmntqmbc0001lf0faegjc0rf",
+    "username": "Quentix",
+    "createdAt": "2023-09-17T19:02:10.047Z"
+  }
+}

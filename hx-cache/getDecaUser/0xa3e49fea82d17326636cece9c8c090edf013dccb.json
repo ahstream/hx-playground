@@ -1,0 +1,41 @@
+{
+  "modified": 1698333175092,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xa3e49fea82d17326636cece9c8c090edf013dccb",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x4c8d78e6ca5c0d3e3d93620a68dc03b022de8ef5",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1QZvXgDdYDShCQMuALMMnaxq2d8wTqiHU6",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0x2c32933ee53497506f37fa4015ec7732aa23682c",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x6cb575052aa5c146de209ab813c3f6ab82424bcb",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xa3e49fea82d17326636cece9c8c090edf013dccb",
+      "0x4c8d78e6ca5c0d3e3d93620a68dc03b022de8ef5",
+      "0x2c32933ee53497506f37fa4015ec7732aa23682c",
+      "0x6cb575052aa5c146de209ab813c3f6ab82424bcb"
+    ],
+    "walletsTez": [
+      "tz1QZvXgDdYDShCQMuALMMnaxq2d8wTqiHU6"
+    ],
+    "walletsOther": [],
+    "id": "cl3uhkqj2227709mlxcmab71h",
+    "username": "motzko",
+    "createdAt": "2022-05-31T18:21:39.278Z"
+  }
+}

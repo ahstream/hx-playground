@@ -1,0 +1,21 @@
+{
+  "modified": 1698351238547,
+  "value": {
+    "address": "0x3758e3d6fa6e373156bf7155571ba306d83f0c77",
+    "contractMetadata": {
+      "name": "Decal by Andrew Mitchell",
+      "symbol": "DECAL",
+      "totalSupply": "100",
+      "tokenType": "ERC721",
+      "contractDeployer": "0x70feeec90d37dc73d9ded8cfafd7ede3f697b70b",
+      "deployedBlockNumber": 17588898,
+      "openSea": {
+        "floorPrice": 0,
+        "collectionName": "Decal by Andrew Mitchell",
+        "collectionSlug": "decal-by-andrew-mitchell",
+        "safelistRequestStatus": "not_requested",
+        "lastIngestedAt": "2023-10-18T06:23:27.000Z"
+      }
+    }
+  }
+}

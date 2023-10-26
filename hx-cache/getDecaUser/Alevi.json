@@ -1,0 +1,20 @@
+{
+  "modified": 1698333891641,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xc7ae335f22d7d3f01c97458a1082bef06b831545",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xc7ae335f22d7d3f01c97458a1082bef06b831545"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl4wkoon7547309mjvfy1myhs",
+    "username": "Alevi",
+    "createdAt": "2022-06-27T10:03:56.995Z"
+  }
+}

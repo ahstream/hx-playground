@@ -1,0 +1,20 @@
+{
+  "modified": 1698334360349,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xf60d429cc376172446357dc5f36da677bf6bd5a5",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xf60d429cc376172446357dc5f36da677bf6bd5a5"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3y79xxq302109mjdmjlijyw",
+    "username": "0xLynx",
+    "createdAt": "2022-06-03T08:44:24.206Z"
+  }
+}

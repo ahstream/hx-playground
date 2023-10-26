@@ -1,0 +1,26 @@
+{
+  "modified": 1698333959723,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x06c00ec56c165da0ef0149bf3ed83385c59b5592",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1Qs3qT1ABZGuTZ8gX5g35bwSbqRaZb1VT7",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0x06c00ec56c165da0ef0149bf3ed83385c59b5592"
+    ],
+    "walletsTez": [
+      "tz1Qs3qT1ABZGuTZ8gX5g35bwSbqRaZb1VT7"
+    ],
+    "walletsOther": [],
+    "id": "cla1b1lxc380008mq7kgcj1hc",
+    "username": "LoveFromGaia",
+    "createdAt": "2022-11-03T16:51:26.400Z"
+  }
+}

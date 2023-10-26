@@ -1,0 +1,20 @@
+{
+  "modified": 1698334270413,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x8b8e2571ebc7ed75dd89509881f725b76e01e1c9",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x8b8e2571ebc7ed75dd89509881f725b76e01e1c9"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3uk893z429309lge65eidks",
+    "username": "TheeIronBlue",
+    "createdAt": "2022-05-31T19:35:55.679Z"
+  }
+}

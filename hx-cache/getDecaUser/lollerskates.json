@@ -1,0 +1,31 @@
+{
+  "modified": 1698334369995,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x1134528d239cf419f9081ceebc3430ac191c318f",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xC6A636bfd9aEb615D5c0760Be14484375FF2C083",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1M8wziEJEBpeYzaCP87ETZqKgK73nnrVK9",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0x1134528d239cf419f9081ceebc3430ac191c318f",
+      "0xC6A636bfd9aEb615D5c0760Be14484375FF2C083"
+    ],
+    "walletsTez": [
+      "tz1M8wziEJEBpeYzaCP87ETZqKgK73nnrVK9"
+    ],
+    "walletsOther": [],
+    "id": "cl3bfs2jh008609l2vf70fq9u",
+    "username": "lollerskates",
+    "createdAt": "2022-05-18T10:23:44.861Z"
+  }
+}

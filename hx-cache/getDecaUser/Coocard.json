@@ -1,0 +1,20 @@
+{
+  "modified": 1698334154364,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x3875b00379aea3dbe094681b0bc2cc65c3b718f9",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x3875b00379aea3dbe094681b0bc2cc65c3b718f9"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5au91vr038009k0jc9mhfbu",
+    "username": "Coocard",
+    "createdAt": "2022-07-07T09:40:30.279Z"
+  }
+}

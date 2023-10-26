@@ -1,0 +1,20 @@
+{
+  "modified": 1698332554053,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xf33b55c5c0e7bb08679ed4d712d7cec38f3d19e4",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xf33b55c5c0e7bb08679ed4d712d7cec38f3d19e4"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl81kgw02751309l3n3vl8shj",
+    "username": "Kermagod",
+    "createdAt": "2022-09-14T11:55:51.170Z"
+  }
+}

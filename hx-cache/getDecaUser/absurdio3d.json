@@ -1,0 +1,26 @@
+{
+  "modified": 1698334053105,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x357f908FEB5cCC3572657E515f6D05a28530F3Dc",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1WqS94rRcR4xjwdSVk23YH9tjsE4teqb5m",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0x357f908FEB5cCC3572657E515f6D05a28530F3Dc"
+    ],
+    "walletsTez": [
+      "tz1WqS94rRcR4xjwdSVk23YH9tjsE4teqb5m"
+    ],
+    "walletsOther": [],
+    "id": "cli5yuvdu0001l60h93h1aace",
+    "username": "absurdio3d",
+    "createdAt": "2023-05-27T12:26:46.242Z"
+  }
+}

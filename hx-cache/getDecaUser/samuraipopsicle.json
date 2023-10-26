@@ -1,0 +1,46 @@
+{
+  "modified": 1698334046610,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x5316909738e83c293b2f8cb445a4ec5e9550bece",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1TUTKBGLPW96ptSYRf3aE22Ge7SSzZD35Y",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0x469407e75879d4d1364e6c8f19ea4a6091aeb640",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xefb9a89531ef330725b341f59f193728a78ca7ad",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x5872ed0281e893af2dcfd57fd411b96876abcc98",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xba35451d676ec569aa0c8f38860cc1749ab2c786",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x5316909738e83c293b2f8cb445a4ec5e9550bece",
+      "0x469407e75879d4d1364e6c8f19ea4a6091aeb640",
+      "0xefb9a89531ef330725b341f59f193728a78ca7ad",
+      "0x5872ed0281e893af2dcfd57fd411b96876abcc98",
+      "0xba35451d676ec569aa0c8f38860cc1749ab2c786"
+    ],
+    "walletsTez": [
+      "tz1TUTKBGLPW96ptSYRf3aE22Ge7SSzZD35Y"
+    ],
+    "walletsOther": [],
+    "id": "ckuaa873q002709jptt6xwzgn",
+    "username": "samuraipopsicle",
+    "createdAt": "2021-11-13T04:59:47.612Z"
+  }
+}

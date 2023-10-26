@@ -1,0 +1,20 @@
+{
+  "modified": 1698333845069,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xdb4bea246c20926507c9d7be0d685848880a34de",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xdb4bea246c20926507c9d7be0d685848880a34de"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3yj1y3l175709mdmhov7hk6",
+    "username": "Samir",
+    "createdAt": "2022-06-03T14:14:06.561Z"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "modified": 1698334127445,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x2d508ce848cde2062a99b2852ed88173b383f19b",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x2d508ce848cde2062a99b2852ed88173b383f19b"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl58xfgd9066709jlil9n07q1",
+    "username": "Tiny-_-DuDu",
+    "createdAt": "2022-07-06T01:33:55.485Z"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "modified": 1698334043836,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x03f7868c050133769856bfb08399432928e4f064",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xf541fef211ad5c0a2c12bf65e725ceb65da6eb7c",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x03f7868c050133769856bfb08399432928e4f064",
+      "0xf541fef211ad5c0a2c12bf65e725ceb65da6eb7c"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5xqioho151809mpyrof5vqa",
+    "username": "Ariky",
+    "createdAt": "2022-07-23T10:14:43.068Z"
+  }
+}

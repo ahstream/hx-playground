@@ -1,0 +1,20 @@
+{
+  "modified": 1698332829057,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xe6dcfdfa7667a6856d929e0ef980a22e2420c0ad",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xe6dcfdfa7667a6856d929e0ef980a22e2420c0ad"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3vko790734009l5psh4f0cl",
+    "username": "nymphadora",
+    "createdAt": "2022-06-01T12:36:05.940Z"
+  }
+}

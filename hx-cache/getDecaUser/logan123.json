@@ -1,0 +1,20 @@
+{
+  "modified": 1698334176843,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xf9e70b78b408f6596c742b16c913deea0043374e",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xf9e70b78b408f6596c742b16c913deea0043374e"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5b56h2b115709jt5jge77jz",
+    "username": "logan123",
+    "createdAt": "2022-07-07T14:46:25.763Z"
+  }
+}

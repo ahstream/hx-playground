@@ -1,0 +1,25 @@
+{
+  "modified": 1698334203076,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x94d76c7e9aaeaab19aabf2a97c242bdc4c4e1efa",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x8a97fb7bc17407d0703960b71ec3742d4b88d2b7",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x94d76c7e9aaeaab19aabf2a97c242bdc4c4e1efa",
+      "0x8a97fb7bc17407d0703960b71ec3742d4b88d2b7"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3h8hq4c009309mtiz4dq7zi",
+    "username": "Badalla",
+    "createdAt": "2022-05-22T11:46:21.948Z"
+  }
+}

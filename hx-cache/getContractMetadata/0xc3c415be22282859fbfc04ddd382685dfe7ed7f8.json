@@ -1,0 +1,25 @@
+{
+  "modified": 1698351246562,
+  "value": {
+    "address": "0xc3c415be22282859fbfc04ddd382685dfe7ed7f8",
+    "contractMetadata": {
+      "name": "Decal by Grant Yun",
+      "symbol": "DECAL",
+      "totalSupply": "100",
+      "tokenType": "ERC721",
+      "contractDeployer": "0x70feeec90d37dc73d9ded8cfafd7ede3f697b70b",
+      "deployedBlockNumber": 15411921,
+      "openSea": {
+        "floorPrice": 0.429,
+        "collectionName": "Decal by Grant Yun",
+        "collectionSlug": "decal-by-grant-yun",
+        "safelistRequestStatus": "not_requested",
+        "imageUrl": "https://i.seadn.io/gcs/files/c275e28ae7c883c550f0b6ee0954e8be.jpg?w=500&auto=format",
+        "description": "An interpretation of the Decal by Grant Yun. A symbol of permissionless creativity. Series Two.",
+        "externalUrl": "https://deca.art/decal",
+        "bannerImageUrl": "https://i.seadn.io/gcs/files/918f3d4bdf77f83575f4e0b9d438ff46.png?w=500&auto=format",
+        "lastIngestedAt": "2023-10-19T12:35:08.000Z"
+      }
+    }
+  }
+}

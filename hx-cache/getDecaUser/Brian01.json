@@ -1,0 +1,25 @@
+{
+  "modified": 1698334199397,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x321084b52747479cd847fd44ca465f0b49b6652d",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xf3e50143c151817a983c6d751c0111feca021c6f",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x321084b52747479cd847fd44ca465f0b49b6652d",
+      "0xf3e50143c151817a983c6d751c0111feca021c6f"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3h8hpmv005009mtqsmqwlbu",
+    "username": "Brian01",
+    "createdAt": "2022-05-22T11:46:21.319Z"
+  }
+}

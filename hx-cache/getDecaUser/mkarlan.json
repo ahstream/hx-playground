@@ -1,0 +1,41 @@
+{
+  "modified": 1698333864970,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xec9e512fe7e90134d8ca7295329ccb0a57c91ecb",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz2VB1QqivcRRTC2pBdZgmgd1Ew3D6Ztnup9",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0xfdb6dae2791921aeb1aaadfd0ce766225029e3e5",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x80cE7206dA1eD2804D645a91705212Ed742f285D",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x619E034af10Af2ec3Fbd7498b380B52eA380fA3A",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xec9e512fe7e90134d8ca7295329ccb0a57c91ecb",
+      "0xfdb6dae2791921aeb1aaadfd0ce766225029e3e5",
+      "0x80cE7206dA1eD2804D645a91705212Ed742f285D",
+      "0x619E034af10Af2ec3Fbd7498b380B52eA380fA3A"
+    ],
+    "walletsTez": [
+      "tz2VB1QqivcRRTC2pBdZgmgd1Ew3D6Ztnup9"
+    ],
+    "walletsOther": [],
+    "id": "cl4907fgq082109l89lcubj1q",
+    "username": "mkarlan",
+    "createdAt": "2022-06-10T22:11:57.578Z"
+  }
+}

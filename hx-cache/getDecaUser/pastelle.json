@@ -1,0 +1,31 @@
+{
+  "modified": 1698333880772,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x9631d389a1fa14996d93d3bd1948a4e844eecad7",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1YS56LdD3eu78fwWv2XKMZxv5A7Bi2Eh43",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0x01876c26c13b9916853b97033f89f4ab0b5001ca",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x9631d389a1fa14996d93d3bd1948a4e844eecad7",
+      "0x01876c26c13b9916853b97033f89f4ab0b5001ca"
+    ],
+    "walletsTez": [
+      "tz1YS56LdD3eu78fwWv2XKMZxv5A7Bi2Eh43"
+    ],
+    "walletsOther": [],
+    "id": "cl3kgpyql049809mmcw4ozl0x",
+    "username": "pastelle",
+    "createdAt": "2022-05-24T18:00:01.821Z"
+  }
+}

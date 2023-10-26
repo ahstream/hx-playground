@@ -1,0 +1,23 @@
+{
+  "modified": 1698350264290,
+  "value": {
+    "address": "0x4365b5313efbff83e8e112a8519998e6677ebb70",
+    "contractMetadata": {
+      "tokenType": "ERC1155",
+      "contractDeployer": "0x208833804d09cf965023f2bdb03d78e3056b4767",
+      "deployedBlockNumber": 15369508,
+      "openSea": {
+        "floorPrice": 0.39,
+        "collectionName": "Hafftka's Bullpen",
+        "collectionSlug": "hafftkas-bullpen",
+        "safelistRequestStatus": "approved",
+        "imageUrl": "https://i.seadn.io/gcs/files/325ef7e24d47a18533455a55f17540fe.jpg?w=500&auto=format",
+        "description": "Editions by Hafftka",
+        "externalUrl": "http://hafftka.com",
+        "twitterUsername": "hafftka",
+        "bannerImageUrl": "https://i.seadn.io/gcs/files/68698b70cc596e57d5ef5cc3892bb1ea.jpg?w=500&auto=format",
+        "lastIngestedAt": "2023-10-20T09:28:52.000Z"
+      }
+    }
+  }
+}

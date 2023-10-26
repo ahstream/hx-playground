@@ -1,0 +1,36 @@
+{
+  "modified": 1698333911822,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x739b39fc23f8d0576aa97065b0be45bd9ae126e4",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1aCn4HgS1s1MkdBpN644RLQbZdSqSbNu3P",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0x16f2f6eb3afd95ce06ed9b700ec7d44faf380c8a",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1YE8Lky7SziqVvQ8mfNxsJgwzqwszrZjGs",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0x739b39fc23f8d0576aa97065b0be45bd9ae126e4",
+      "0x16f2f6eb3afd95ce06ed9b700ec7d44faf380c8a"
+    ],
+    "walletsTez": [
+      "tz1aCn4HgS1s1MkdBpN644RLQbZdSqSbNu3P",
+      "tz1YE8Lky7SziqVvQ8mfNxsJgwzqwszrZjGs"
+    ],
+    "walletsOther": [],
+    "id": "cl3d001qt049009l5qq09c6rb",
+    "username": "OCDAnalysis",
+    "createdAt": "2022-05-19T12:37:35.573Z"
+  }
+}

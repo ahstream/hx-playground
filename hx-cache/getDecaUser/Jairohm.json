@@ -1,0 +1,26 @@
+{
+  "modified": 1698333877177,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x32e263cb9003f7fef329080bdcbc82f5cfd6c02f",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1TDrGhzGmKUQkjPTq6zjL1rKArVxRv7PMk",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0x32e263cb9003f7fef329080bdcbc82f5cfd6c02f"
+    ],
+    "walletsTez": [
+      "tz1TDrGhzGmKUQkjPTq6zjL1rKArVxRv7PMk"
+    ],
+    "walletsOther": [],
+    "id": "cku9j8jwv002708mkmgyvgm1g",
+    "username": "Jairohm",
+    "createdAt": "2021-11-13T04:59:47.612Z"
+  }
+}

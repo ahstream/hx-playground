@@ -1,0 +1,19 @@
+{
+  "modified": 1698335277163,
+  "value": {
+    "address": "0xbce570f5717a2945ed8e57aa1ddd0439037d2cca",
+    "name": "Dreams and Revolutions",
+    "owner": "0x208833804d09cf965023f2bdb03d78e3056b4767",
+    "symbol": "HAFFTKADREV",
+    "totalSupply": "6",
+    "transfersCount": 0,
+    "txsCount": 15,
+    "issuancesCount": 0,
+    "lastUpdated": 1683810285,
+    "price": false,
+    "holdersCount": 1,
+    "ethTransfersCount": 0,
+    "decimals": "0",
+    "countOps": 0
+  }
+}

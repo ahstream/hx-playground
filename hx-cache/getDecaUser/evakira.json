@@ -1,0 +1,20 @@
+{
+  "modified": 1698334168546,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x4d746dce99eec8b48459a8b758eeb5edbcecc818",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x4d746dce99eec8b48459a8b758eeb5edbcecc818"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3v443mn073409lcyl1qow3o",
+    "username": "evakira",
+    "createdAt": "2022-06-01T04:52:34.271Z"
+  }
+}

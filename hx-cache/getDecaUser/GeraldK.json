@@ -1,0 +1,20 @@
+{
+  "modified": 1698334132745,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xc7a8ccba01cc19758dc9c98f168c883049b248d4",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xc7a8ccba01cc19758dc9c98f168c883049b248d4"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5cn93mc005709mo6s337ndk",
+    "username": "GeraldK",
+    "createdAt": "2022-07-08T16:00:07.572Z"
+  }
+}

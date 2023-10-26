@@ -1,0 +1,26 @@
+{
+  "modified": 1698332542159,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xd7b77b0a69308392ef13db63a412df391146d434",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1UwwR1WKWuTVjNtUc2ewPNUbSW4rVV2fBH",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0xd7b77b0a69308392ef13db63a412df391146d434"
+    ],
+    "walletsTez": [
+      "tz1UwwR1WKWuTVjNtUc2ewPNUbSW4rVV2fBH"
+    ],
+    "walletsOther": [],
+    "id": "cl59dvd8j305509msjywf0lg4",
+    "username": "vortac",
+    "createdAt": "2022-07-06T09:14:11.779Z"
+  }
+}

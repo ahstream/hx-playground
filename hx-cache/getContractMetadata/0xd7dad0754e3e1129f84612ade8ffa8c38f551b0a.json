@@ -1,0 +1,17 @@
+{
+  "modified": 1698351238188,
+  "value": {
+    "address": "0xd7dad0754e3e1129f84612ade8ffa8c38f551b0a",
+    "contractMetadata": {
+      "name": "Decal by Gabriella Morton",
+      "symbol": "DECAL",
+      "totalSupply": "100",
+      "tokenType": "ERC721",
+      "contractDeployer": "0x70feeec90d37dc73d9ded8cfafd7ede3f697b70b",
+      "deployedBlockNumber": 18022971,
+      "openSea": {
+        "lastIngestedAt": "2023-10-17T06:59:02.000Z"
+      }
+    }
+  }
+}

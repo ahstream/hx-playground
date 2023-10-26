@@ -1,0 +1,25 @@
+{
+  "modified": 1698332624493,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x1b6265a40839a331ace2d81bc82b6104703c0426",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x09c52c99e701304332b5998227f07d2648e8a72c",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x1b6265a40839a331ace2d81bc82b6104703c0426",
+      "0x09c52c99e701304332b5998227f07d2648e8a72c"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3x0znft766709mcbwf7ls67",
+    "username": "chagozzino",
+    "createdAt": "2022-06-02T13:00:40.169Z"
+  }
+}

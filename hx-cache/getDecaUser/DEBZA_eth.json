@@ -1,0 +1,20 @@
+{
+  "modified": 1698333888013,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x7520d9165e197d32d434162ad235a15197114167",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x7520d9165e197d32d434162ad235a15197114167"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl72flppz179509mf9y26ludm",
+    "username": "DEBZA_eth",
+    "createdAt": "2022-08-20T21:47:42.071Z"
+  }
+}

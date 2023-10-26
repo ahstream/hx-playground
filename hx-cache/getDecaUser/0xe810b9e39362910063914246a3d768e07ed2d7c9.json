@@ -1,0 +1,20 @@
+{
+  "modified": 1698333085119,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xe810b9e39362910063914246a3d768e07ed2d7c9",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xe810b9e39362910063914246a3d768e07ed2d7c9"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl4tuuut0308309kznq3slf5l",
+    "username": "Maesther",
+    "createdAt": "2022-06-25T12:25:22.548Z"
+  }
+}

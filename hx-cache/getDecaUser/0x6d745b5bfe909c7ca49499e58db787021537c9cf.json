@@ -1,0 +1,20 @@
+{
+  "modified": 1698333096653,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x6d745b5bfe909c7ca49499e58db787021537c9cf",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x6d745b5bfe909c7ca49499e58db787021537c9cf"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl60ttvtp040409mhxlous53a",
+    "username": "astamvault",
+    "createdAt": "2022-07-25T14:10:43.165Z"
+  }
+}

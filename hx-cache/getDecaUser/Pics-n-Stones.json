@@ -1,0 +1,46 @@
+{
+  "modified": 1698334401752,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xc8301c772bc161d261acca1de406012afbbcf854",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x11a6b21ff6b09d4ace4ba0e39e8638c4c5bfa93a",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x8168a6b3f15af3204873b46edb9d80be4bcc6170",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xcb7fe3ef56ffe4ab3482293ef6a4e18d09e90ac0",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1WUcr2T8ewFbgcBaAkqQH5RFb1XcxNEqrs",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0xeda93ed49031392f22fd1150b766869091de09a4",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xc8301c772bc161d261acca1de406012afbbcf854",
+      "0x11a6b21ff6b09d4ace4ba0e39e8638c4c5bfa93a",
+      "0x8168a6b3f15af3204873b46edb9d80be4bcc6170",
+      "0xcb7fe3ef56ffe4ab3482293ef6a4e18d09e90ac0",
+      "0xeda93ed49031392f22fd1150b766869091de09a4"
+    ],
+    "walletsTez": [
+      "tz1WUcr2T8ewFbgcBaAkqQH5RFb1XcxNEqrs"
+    ],
+    "walletsOther": [],
+    "id": "cl6rsiwxb07500gmkf1616r5n",
+    "username": "Pics-n-Stones",
+    "createdAt": "2022-08-13T11:03:58.511Z"
+  }
+}

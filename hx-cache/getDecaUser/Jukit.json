@@ -1,0 +1,41 @@
+{
+  "modified": 1698334039656,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "tz1e9QN25AuzipwZkhCcWGC4wC2ywgi1kVa1",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0x530ffffffb7e4a601628f7b12f807583a41c9476",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xe7d0ea2014336c5c0b4dc01a54b2f27616331de6",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xc372ab26081a13a0aab7e45c88e4bc0227730742",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x35f2d7cba7bb1264ce6e87ade80c99970df5b035",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x530ffffffb7e4a601628f7b12f807583a41c9476",
+      "0xe7d0ea2014336c5c0b4dc01a54b2f27616331de6",
+      "0xc372ab26081a13a0aab7e45c88e4bc0227730742",
+      "0x35f2d7cba7bb1264ce6e87ade80c99970df5b035"
+    ],
+    "walletsTez": [
+      "tz1e9QN25AuzipwZkhCcWGC4wC2ywgi1kVa1"
+    ],
+    "walletsOther": [],
+    "id": "cl4vq6vuu706709ml7cvaomdm",
+    "username": "Jukit",
+    "createdAt": "2022-06-26T19:50:18.054Z"
+  }
+}

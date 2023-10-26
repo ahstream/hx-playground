@@ -1,0 +1,20 @@
+{
+  "modified": 1698334149431,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x077ae4ba389e1beff2c63a1b7e971e74cea6a13c",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x077ae4ba389e1beff2c63a1b7e971e74cea6a13c"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5cn2w7z762209kyucklxfsy",
+    "username": "gonetowi",
+    "createdAt": "2022-07-08T15:55:18.047Z"
+  }
+}

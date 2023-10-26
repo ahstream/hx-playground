@@ -1,0 +1,41 @@
+{
+  "modified": 1698334262551,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x98e88379fcf948b2a47d62ebe00effe272e3dee1",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x112ba7ffaf1f8434ae922e6a69be2f865af7cc5d",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1TdtWi9mFiEFGsNmrXUBLEQGnAZNTeqdyJ",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0xff915045dd04514cdc7fc5519786957cd59d282b",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x84a5139d9c2ce0435ff582b5cd19d3ac26658392",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x98e88379fcf948b2a47d62ebe00effe272e3dee1",
+      "0x112ba7ffaf1f8434ae922e6a69be2f865af7cc5d",
+      "0xff915045dd04514cdc7fc5519786957cd59d282b",
+      "0x84a5139d9c2ce0435ff582b5cd19d3ac26658392"
+    ],
+    "walletsTez": [
+      "tz1TdtWi9mFiEFGsNmrXUBLEQGnAZNTeqdyJ"
+    ],
+    "walletsOther": [],
+    "id": "cl3wsogst151809ml4s6obrbj",
+    "username": "KunTa",
+    "createdAt": "2022-06-02T09:08:01.421Z"
+  }
+}

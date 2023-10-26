@@ -1,0 +1,36 @@
+{
+  "modified": 1698332626753,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x23a650462c3502a03e58192c9253437705140f8b",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xa230d3d35600e66ef9c087bfd7c588e0f4e1d545",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xd110032dcff87884bc3a8500cf2d4ee3b23243f6",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1aFgKjAr68pa4BxNvQeknw5hWaywTEuNXQ",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0x23a650462c3502a03e58192c9253437705140f8b",
+      "0xa230d3d35600e66ef9c087bfd7c588e0f4e1d545",
+      "0xd110032dcff87884bc3a8500cf2d4ee3b23243f6"
+    ],
+    "walletsTez": [
+      "tz1aFgKjAr68pa4BxNvQeknw5hWaywTEuNXQ"
+    ],
+    "walletsOther": [],
+    "id": "cl3weurkd056509kwkkrbjjfd",
+    "username": "Lavadong",
+    "createdAt": "2022-06-02T02:41:00.685Z"
+  }
+}

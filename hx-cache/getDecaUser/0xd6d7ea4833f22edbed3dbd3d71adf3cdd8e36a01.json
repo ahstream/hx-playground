@@ -1,0 +1,20 @@
+{
+  "modified": 1698333152493,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xd6d7ea4833f22edbed3dbd3d71adf3cdd8e36a01",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xd6d7ea4833f22edbed3dbd3d71adf3cdd8e36a01"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl6il2vng184670hl52653ofre",
+    "username": "mikoto",
+    "createdAt": "2022-08-07T00:25:37.468Z"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "modified": 1698333036065,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x0f1e018871858d6148a20bf3770196da32f76938",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x0f1e018871858d6148a20bf3770196da32f76938"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3av76c7268309l9l16t4h2p",
+    "username": "Null4t",
+    "createdAt": "2022-05-18T00:47:37.687Z"
+  }
+}

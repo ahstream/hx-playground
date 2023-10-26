@@ -1,0 +1,26 @@
+{
+  "modified": 1698334431846,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xc2d437f70633b2965afe1d16afd314e3b79a3940",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1ix6di2hXEJj4yjryoW7yyzzVNr8C9HzGE",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0xc2d437f70633b2965afe1d16afd314e3b79a3940"
+    ],
+    "walletsTez": [
+      "tz1ix6di2hXEJj4yjryoW7yyzzVNr8C9HzGE"
+    ],
+    "walletsOther": [],
+    "id": "cl8hggbyb038409mfi5wkk0fs",
+    "username": "thecultureproject",
+    "createdAt": "2022-09-25T14:47:45.539Z"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "modified": 1698333043512,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x4c1ce1d7e7dbedaee20201f609e1d7172315ea67",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x9fb81308315d56fe710efb3e0037d53cf983e720",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xe36f91732c2b470e4396fc6d15660c2aa5b21f0e",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xde534e8e9102676308400bf5a492f1fca98de79c",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x4c1ce1d7e7dbedaee20201f609e1d7172315ea67",
+      "0x9fb81308315d56fe710efb3e0037d53cf983e720",
+      "0xe36f91732c2b470e4396fc6d15660c2aa5b21f0e",
+      "0xde534e8e9102676308400bf5a492f1fca98de79c"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5j3sgj0764309mfbyo71szg",
+    "username": "David2",
+    "createdAt": "2022-07-13T04:29:41.676Z"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "modified": 1698334421603,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x55c8ddb3f486d9f434da6bc24bc756d8d81b2a7b",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1cFLG5Uk1gpQL4evYhd2QFxCR2vYDBMjNq",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0x368dc50bbb5928fc72847af3bf10ba5e4a9b322f",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x5eb47798578e24caac3a52e71d3c6c43eb043aad",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x55c8ddb3f486d9f434da6bc24bc756d8d81b2a7b",
+      "0x368dc50bbb5928fc72847af3bf10ba5e4a9b322f",
+      "0x5eb47798578e24caac3a52e71d3c6c43eb043aad"
+    ],
+    "walletsTez": [
+      "tz1cFLG5Uk1gpQL4evYhd2QFxCR2vYDBMjNq"
+    ],
+    "walletsOther": [],
+    "id": "cl4vmnlz1763709mljye8eseu",
+    "username": "sagepo",
+    "createdAt": "2022-06-26T18:11:19.933Z"
+  }
+}

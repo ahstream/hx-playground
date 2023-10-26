@@ -1,0 +1,31 @@
+{
+  "modified": 1698334481096,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x3cbcb57a9400e4e044aef68ac6148dd90aa08542",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x9380da47618d355a9eec7a2ec37e50c2df9bca6b",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1aG9U7RnjZatqNJvfB8ihwQg4b5kScpcku",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0x3cbcb57a9400e4e044aef68ac6148dd90aa08542",
+      "0x9380da47618d355a9eec7a2ec37e50c2df9bca6b"
+    ],
+    "walletsTez": [
+      "tz1aG9U7RnjZatqNJvfB8ihwQg4b5kScpcku"
+    ],
+    "walletsOther": [],
+    "id": "cl3uon5u3034909mjdb2afft6",
+    "username": "KREG",
+    "createdAt": "2022-05-31T21:39:29.739Z"
+  }
+}

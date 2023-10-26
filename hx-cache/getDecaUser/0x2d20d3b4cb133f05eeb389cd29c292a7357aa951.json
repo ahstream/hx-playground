@@ -1,0 +1,36 @@
+{
+  "modified": 1698332667174,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x06497d5c9f9f4939bb7871f36a1560528601655c",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x5e0e408d38ebd85b54caaebd9e01a4985b7a9099",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1eCfnyRvuSuBVQyeLNxfLWSQ56wEGKTaWo",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0x2D20d3B4cB133f05EEB389CD29c292A7357aA951",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x06497d5c9f9f4939bb7871f36a1560528601655c",
+      "0x5e0e408d38ebd85b54caaebd9e01a4985b7a9099",
+      "0x2D20d3B4cB133f05EEB389CD29c292A7357aA951"
+    ],
+    "walletsTez": [
+      "tz1eCfnyRvuSuBVQyeLNxfLWSQ56wEGKTaWo"
+    ],
+    "walletsOther": [],
+    "id": "ckunkwzjk004409l99cb7dsbc",
+    "username": "Toni_Marinara",
+    "createdAt": "2021-11-13T04:59:47.612Z"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "modified": 1698334062715,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x971d3b14ff5a1bd467a86616f90cd34f3c65d477",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x971d3b14ff5a1bd467a86616f90cd34f3c65d477"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "clnkso2m30002ml0fxfxdfkva",
+    "username": "tindh",
+    "createdAt": "2023-10-10T20:48:35.278Z"
+  }
+}

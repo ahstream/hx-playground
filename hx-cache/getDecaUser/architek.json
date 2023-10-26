@@ -1,0 +1,20 @@
+{
+  "modified": 1698333879341,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xfe3dcd19d699d49ca1033bb3977814ec32d9fa4b",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xfe3dcd19d699d49ca1033bb3977814ec32d9fa4b"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3g6d4yl194409liqjbbypek",
+    "username": "architek",
+    "createdAt": "2022-05-21T17:59:02.493Z"
+  }
+}

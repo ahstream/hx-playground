@@ -1,0 +1,20 @@
+{
+  "modified": 1698334083003,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xc399c827850219b64d0548aa4db1963d991c5983",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xc399c827850219b64d0548aa4db1963d991c5983"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl4393crs322509mfb64mxfli",
+    "username": "dinotango1",
+    "createdAt": "2022-06-06T21:34:06.952Z"
+  }
+}

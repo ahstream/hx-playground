@@ -1,0 +1,20 @@
+{
+  "modified": 1698332861234,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x25e12fddebc79898e7d022d552bc5254fbb05aeb",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x25e12fddebc79898e7d022d552bc5254fbb05aeb"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3wu67es1143809jr9oql1yn1",
+    "username": "Simmens7419",
+    "createdAt": "2022-06-02T09:49:48.676Z"
+  }
+}

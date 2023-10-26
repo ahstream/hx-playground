@@ -1,0 +1,20 @@
+{
+  "modified": 1698334293289,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xa3bfaaaafe441b8300779308864846b9628ae29c",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xa3bfaaaafe441b8300779308864846b9628ae29c"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5z08kh3117109jryz7gk0rd",
+    "username": "bushi",
+    "createdAt": "2022-07-24T07:34:33.639Z"
+  }
+}

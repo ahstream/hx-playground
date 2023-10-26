@@ -1,0 +1,20 @@
+{
+  "modified": 1698333844293,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x5ec93f6a3526a30bfbaffcbd226c0063fea3a8bd",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x5ec93f6a3526a30bfbaffcbd226c0063fea3a8bd"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3vpew4o181509mnku3d0itf",
+    "username": "mark",
+    "createdAt": "2022-06-01T14:48:49.704Z"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "modified": 1698334023717,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x1809754df5ac133a1cc7d4eaf45ed38cf9b39ec8",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x1809754df5ac133a1cc7d4eaf45ed38cf9b39ec8"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3x8s22u012909l3s600q3kh",
+    "username": "semoh",
+    "createdAt": "2022-06-02T16:38:42.822Z"
+  }
+}

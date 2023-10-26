@@ -1,0 +1,20 @@
+{
+  "modified": 1698333895389,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xbf66c15df760677cc76e2babd68164f8332d5d4e",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xbf66c15df760677cc76e2babd68164f8332d5d4e"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "clnozhgkh0000l80ftdr5mh7i",
+    "username": "freyja",
+    "createdAt": "2023-10-13T19:10:29.154Z"
+  }
+}

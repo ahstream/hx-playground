@@ -1,0 +1,20 @@
+{
+  "modified": 1698333184538,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xfa2bba206b63c795c2a480151ba98c16761dae77",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xfa2bba206b63c795c2a480151ba98c16761dae77"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "claeaznyw0006jo08ywj2tlp8",
+    "username": "Bratovanov",
+    "createdAt": "2022-11-12T19:10:56.009Z"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "modified": 1698334169576,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xe96f77895224149f520264e3410a9242a19fcf93",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xe96f77895224149f520264e3410a9242a19fcf93"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5wuvg8x127909l3rjb66ygf",
+    "username": "Erysha",
+    "createdAt": "2022-07-22T19:28:51.201Z"
+  }
+}

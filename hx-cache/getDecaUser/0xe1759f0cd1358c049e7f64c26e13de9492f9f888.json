@@ -1,0 +1,30 @@
+{
+  "modified": 1698333057817,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xe1759f0cd1358c049e7f64c26e13de9492f9f888",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x64f980beab955fce3125e047310e7749b85269c4",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x9B7f14a2014A05AE3BFa36D81c8BbFc50568a3A3",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xe1759f0cd1358c049e7f64c26e13de9492f9f888",
+      "0x64f980beab955fce3125e047310e7749b85269c4",
+      "0x9B7f14a2014A05AE3BFa36D81c8BbFc50568a3A3"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3ya6j8k086609moovkznsx5",
+    "username": "NicholasColeman",
+    "createdAt": "2022-06-03T10:05:44.036Z"
+  }
+}

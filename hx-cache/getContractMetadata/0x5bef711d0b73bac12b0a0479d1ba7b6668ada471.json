@@ -1,0 +1,25 @@
+{
+  "modified": 1698351238910,
+  "value": {
+    "address": "0x5bef711d0b73bac12b0a0479d1ba7b6668ada471",
+    "contractMetadata": {
+      "name": "Decal by Panter Xhita",
+      "symbol": "DECAL",
+      "totalSupply": "100",
+      "tokenType": "ERC721",
+      "contractDeployer": "0x70feeec90d37dc73d9ded8cfafd7ede3f697b70b",
+      "deployedBlockNumber": 17722596,
+      "openSea": {
+        "floorPrice": 0.038,
+        "collectionName": "Decal by Panter Xhita",
+        "collectionSlug": "decal-by-panter-xhita",
+        "safelistRequestStatus": "not_requested",
+        "imageUrl": "https://i.seadn.io/gcs/files/ca1ab1ecfab84712b1b92dad89b4b147.png?w=500&auto=format",
+        "description": "An interpretation of the Decal by Panter Xhita. A symbol of permissionless creativity. Series Twenty Two.",
+        "externalUrl": "http://deca.art/decals",
+        "bannerImageUrl": "https://i.seadn.io/gcs/files/2113d5ce42fee891ee6ad687818b481c.png?w=500&auto=format",
+        "lastIngestedAt": "2023-10-24T10:43:39.000Z"
+      }
+    }
+  }
+}

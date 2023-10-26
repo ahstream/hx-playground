@@ -1,0 +1,20 @@
+{
+  "modified": 1698333867884,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x270b43c8e8f1082f9784e9046d4db50d55d64eeb",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x270b43c8e8f1082f9784e9046d4db50d55d64eeb"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3ax2vke066209mgjq29rps8",
+    "username": "Fuzzy",
+    "createdAt": "2022-05-18T01:40:16.334Z"
+  }
+}

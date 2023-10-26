@@ -1,0 +1,26 @@
+{
+  "modified": 1698334123410,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x0af5cfecd1b1be7cd808bf466470db20cb65c51d",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1WkRJANBKKKAbNMx4G7jub2HdN9NUtdprh",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0x0af5cfecd1b1be7cd808bf466470db20cb65c51d"
+    ],
+    "walletsTez": [
+      "tz1WkRJANBKKKAbNMx4G7jub2HdN9NUtdprh"
+    ],
+    "walletsOther": [],
+    "id": "cl3d3smtu099509mp9lvxya9a",
+    "username": "MaximusDecMer",
+    "createdAt": "2022-05-19T14:23:48.114Z"
+  }
+}

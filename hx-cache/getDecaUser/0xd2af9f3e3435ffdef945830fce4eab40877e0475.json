@@ -1,0 +1,36 @@
+{
+  "modified": 1698332880836,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "tz1YHsinBJHMj1YFN7UrCsVAgTcaJCH86PjK",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0xd2af9f3e3435ffdef945830fce4eab40877e0475",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x1ccd2496090c53687572edc2b62c3b58b6799bbd",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x533f02b7eecc179eedb4f25b29bfd5596598eea0",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xd2af9f3e3435ffdef945830fce4eab40877e0475",
+      "0x1ccd2496090c53687572edc2b62c3b58b6799bbd",
+      "0x533f02b7eecc179eedb4f25b29bfd5596598eea0"
+    ],
+    "walletsTez": [
+      "tz1YHsinBJHMj1YFN7UrCsVAgTcaJCH86PjK"
+    ],
+    "walletsOther": [],
+    "id": "cl022swx3036409m40gu28wrh",
+    "username": "rudxane",
+    "createdAt": "2022-02-25T07:11:26.631Z"
+  }
+}

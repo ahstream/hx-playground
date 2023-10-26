@@ -1,0 +1,20 @@
+{
+  "modified": 1698332899707,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x873440b72f96d02cf2b80890f111546416b8aeac",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x873440b72f96d02cf2b80890f111546416b8aeac"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cljrfu3qo000eia0g5mj28673",
+    "username": "Art_NFT_lover",
+    "createdAt": "2023-07-06T17:44:55.920Z"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "modified": 1698333166362,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x18e0f9aadde970d74430cc8636a381ccfcd1f559",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x18e0f9aadde970d74430cc8636a381ccfcd1f559"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3kjlllr008209mniutrqs5c",
+    "username": "implantsanta",
+    "createdAt": "2022-05-24T19:20:37.023Z"
+  }
+}

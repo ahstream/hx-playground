@@ -1,0 +1,20 @@
+{
+  "modified": 1698334162265,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xfb41e7401c712e8e7cc94b7bef9b9dc2f8715514",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xfb41e7401c712e8e7cc94b7bef9b9dc2f8715514"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5au8ygz057909l5rjc7i3g2",
+    "username": "Silld",
+    "createdAt": "2022-07-07T09:40:25.859Z"
+  }
+}

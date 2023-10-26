@@ -1,0 +1,25 @@
+{
+  "modified": 1698351241817,
+  "value": {
+    "address": "0x2f0117c38f1027d7f7a87d1f0483899eb393a14e",
+    "contractMetadata": {
+      "name": "Decal by AD_AD",
+      "symbol": "DECAL",
+      "totalSupply": "100",
+      "tokenType": "ERC721",
+      "contractDeployer": "0x70feeec90d37dc73d9ded8cfafd7ede3f697b70b",
+      "deployedBlockNumber": 16689679,
+      "openSea": {
+        "floorPrice": 0.054,
+        "collectionName": "Decal by AD_AD",
+        "collectionSlug": "decal-by-ad-ad",
+        "safelistRequestStatus": "not_requested",
+        "imageUrl": "https://i.seadn.io/gcs/files/6e578f4efe50b32f360e58c6e727dc30.png?w=500&auto=format",
+        "description": "An interpretation of the Decal by AD_AD. A symbol of permissionless creativity. Series Fourteen.",
+        "externalUrl": "http://deca.art/decal",
+        "bannerImageUrl": "https://i.seadn.io/gcs/files/246b87327cbef7f4d314d335331f39da.png?w=500&auto=format",
+        "lastIngestedAt": "2023-10-20T07:16:16.000Z"
+      }
+    }
+  }
+}

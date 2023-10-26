@@ -1,0 +1,31 @@
+{
+  "modified": 1698332871805,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x7e874922303cf8a978ba7e88d4be459289c63b55",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x2ad16eda0c41cdead6aa13290711697578192d00",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1gjteFHFZru9tyvymnRawc9W6F7yefwGcM",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0x7e874922303cf8a978ba7e88d4be459289c63b55",
+      "0x2ad16eda0c41cdead6aa13290711697578192d00"
+    ],
+    "walletsTez": [
+      "tz1gjteFHFZru9tyvymnRawc9W6F7yefwGcM"
+    ],
+    "walletsOther": [],
+    "id": "cl3azmycu027909l1oc1yxfpb",
+    "username": "Collectorscorner",
+    "createdAt": "2022-05-18T02:51:52.302Z"
+  }
+}

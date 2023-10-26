@@ -1,0 +1,20 @@
+{
+  "modified": 1698332951395,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x82023a7bf582e1c772a1bcd749e10c0afd7ab04e",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x82023a7bf582e1c772a1bcd749e10c0afd7ab04e"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3v5al60008409l6txh86frf",
+    "username": "SimVault",
+    "createdAt": "2022-06-01T05:25:36.552Z"
+  }
+}

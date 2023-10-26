@@ -1,0 +1,20 @@
+{
+  "modified": 1698334160042,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x951f62002e411e15cc9a4c5cdbbf77a9877ee82d",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x951f62002e411e15cc9a4c5cdbbf77a9877ee82d"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5au91dy062409l5nd97asxb",
+    "username": "BeerBar",
+    "createdAt": "2022-07-07T09:40:29.638Z"
+  }
+}

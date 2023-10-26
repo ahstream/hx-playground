@@ -1,0 +1,20 @@
+{
+  "modified": 1698334151377,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xd42d742ae4235a60a86dbb916286a1d48a9d15a7",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xd42d742ae4235a60a86dbb916286a1d48a9d15a7"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5cnb9y6071809mq36g52mtm",
+    "username": "Justinn1",
+    "createdAt": "2022-07-08T16:01:49.085Z"
+  }
+}

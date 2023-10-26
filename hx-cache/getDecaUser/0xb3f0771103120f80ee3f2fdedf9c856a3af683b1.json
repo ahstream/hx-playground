@@ -1,0 +1,26 @@
+{
+  "modified": 1698332999753,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xb3f0771103120f80ee3f2fdedf9c856a3af683b1",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1RX9GWY9mUToTdcanKy6rgLc4TsgnqUYUt",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0xb3f0771103120f80ee3f2fdedf9c856a3af683b1"
+    ],
+    "walletsTez": [
+      "tz1RX9GWY9mUToTdcanKy6rgLc4TsgnqUYUt"
+    ],
+    "walletsOther": [],
+    "id": "cl3d0ma3r082609ml5yqk2qs0",
+    "username": "skomra",
+    "createdAt": "2022-05-19T12:54:52.839Z"
+  }
+}

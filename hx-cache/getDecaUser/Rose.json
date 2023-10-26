@@ -1,0 +1,20 @@
+{
+  "modified": 1698334288573,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x9a19c154faab5fb600f4b4a28c5a15302fc4cec6",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x9a19c154faab5fb600f4b4a28c5a15302fc4cec6"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl4zkhi0b1542009jpdr54zuo6",
+    "username": "Rose",
+    "createdAt": "2022-06-29T12:21:40.331Z"
+  }
+}

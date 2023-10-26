@@ -1,0 +1,26 @@
+{
+  "modified": 1698332912283,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xe79c263403b0071093bd7968ad1b6ea94d3bcf1c",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1aqGqCEJTX9xbcjVp1nn71U94YmFMcob8P",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0xe79c263403b0071093bd7968ad1b6ea94d3bcf1c"
+    ],
+    "walletsTez": [
+      "tz1aqGqCEJTX9xbcjVp1nn71U94YmFMcob8P"
+    ],
+    "walletsOther": [],
+    "id": "cl3h3ve0h038809jzdy8oxb8v",
+    "username": "Carballeira",
+    "createdAt": "2022-05-22T09:37:01.361Z"
+  }
+}

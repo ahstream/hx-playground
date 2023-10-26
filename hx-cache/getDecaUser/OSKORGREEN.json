@@ -1,0 +1,20 @@
+{
+  "modified": 1698334009665,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x3eee990fb514a831888eeb44d61075efc7a4f5f8",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x3eee990fb514a831888eeb44d61075efc7a4f5f8"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl6um5yob48530gmk3o7dhq3k",
+    "username": "OSKORGREEN",
+    "createdAt": "2022-08-15T10:29:15.083Z"
+  }
+}

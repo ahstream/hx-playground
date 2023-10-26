@@ -1,0 +1,30 @@
+{
+  "modified": 1698333038366,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x271ee7e1815d21b990b73f02ec9f1f03a10d4d21",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x28a56375b8c711344da96cc890dec888638683f7",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x48d85219ec26ae1f4e8b1048f2ef65f6a6007551",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x271ee7e1815d21b990b73f02ec9f1f03a10d4d21",
+      "0x28a56375b8c711344da96cc890dec888638683f7",
+      "0x48d85219ec26ae1f4e8b1048f2ef65f6a6007551"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5j0vsai1100909mjr5uda75b",
+    "username": "YUISD",
+    "createdAt": "2022-07-13T03:08:18.042Z"
+  }
+}

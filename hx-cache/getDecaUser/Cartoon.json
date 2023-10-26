@@ -1,0 +1,26 @@
+{
+  "modified": 1698334451696,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x7797a063c4222714867ee97e61f53cc93e54fb60",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1bKg2uibHrtn2jGWKXBG7rv8f6tuh5TeVJ",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0x7797a063c4222714867ee97e61f53cc93e54fb60"
+    ],
+    "walletsTez": [
+      "tz1bKg2uibHrtn2jGWKXBG7rv8f6tuh5TeVJ"
+    ],
+    "walletsOther": [],
+    "id": "cl62cd6tx149609mmeny2ur9z",
+    "username": "Cartoon",
+    "createdAt": "2022-07-26T15:37:23.157Z"
+  }
+}

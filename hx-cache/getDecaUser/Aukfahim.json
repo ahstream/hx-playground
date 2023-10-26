@@ -1,0 +1,30 @@
+{
+  "modified": 1698334454535,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x041256890392a21242ed03b43791390de4fd538f",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xbb3624f6d161a486ba935c38bccdefad881d6563",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x42145e3193367e9bb1960fb881838d1060466e9a",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x041256890392a21242ed03b43791390de4fd538f",
+      "0xbb3624f6d161a486ba935c38bccdefad881d6563",
+      "0x42145e3193367e9bb1960fb881838d1060466e9a"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl46yq631041209jqy2j2viqx",
+    "username": "Aukfahim",
+    "createdAt": "2022-06-09T11:55:00.301Z"
+  }
+}

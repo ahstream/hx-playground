@@ -1,0 +1,30 @@
+{
+  "modified": 1698334241322,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xc09e28a9f0a7144de10adeb4eac4901a62373442",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x03aca8ad0bb87eb40b6bfdedae858005c2682c0f",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x6618fc5adcbd7384cb992d5e07e14b885ad93721",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xc09e28a9f0a7144de10adeb4eac4901a62373442",
+      "0x03aca8ad0bb87eb40b6bfdedae858005c2682c0f",
+      "0x6618fc5adcbd7384cb992d5e07e14b885ad93721"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3bmt2ej010709ma80cf8gai",
+    "username": "JR",
+    "createdAt": "2022-05-18T13:40:28.651Z"
+  }
+}

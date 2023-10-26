@@ -1,0 +1,31 @@
+{
+  "modified": 1698333898711,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "tz2FsA93XsovbPwPJY88mJ3Zg6PsYoeERaM1",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0x1741408981b2975280df121dab76547ac1d443f2",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xe1d565dae1556099cf1c0737a3f0d72621f80cea",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x1741408981b2975280df121dab76547ac1d443f2",
+      "0xe1d565dae1556099cf1c0737a3f0d72621f80cea"
+    ],
+    "walletsTez": [
+      "tz2FsA93XsovbPwPJY88mJ3Zg6PsYoeERaM1"
+    ],
+    "walletsOther": [],
+    "id": "cl0tytyew005809l3ahnyuviq",
+    "username": "rodrigoplant",
+    "createdAt": "2022-03-16T19:37:49.688Z"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "modified": 1698334200120,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x36121fa20a89964fd25954bf8b76249133c1673a",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xe2e6495d9741b76b2936a990600e17c6d9db126c",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x36121fa20a89964fd25954bf8b76249133c1673a",
+      "0xe2e6495d9741b76b2936a990600e17c6d9db126c"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5dki1y5196109mpibz1ecuy",
+    "username": "BlendinaFar",
+    "createdAt": "2022-07-09T07:30:52.637Z"
+  }
+}

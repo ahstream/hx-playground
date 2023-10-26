@@ -1,0 +1,20 @@
+{
+  "modified": 1698334236090,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x9eb2dd513b007646b10a019f11481f9eb69db77c",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x9eb2dd513b007646b10a019f11481f9eb69db77c"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5ti87cf152409mm2r85er6d",
+    "username": "ToudeMoune",
+    "createdAt": "2022-07-20T11:11:32.655Z"
+  }
+}

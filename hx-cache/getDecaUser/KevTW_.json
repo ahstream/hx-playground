@@ -1,0 +1,20 @@
+{
+  "modified": 1698333966583,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xb400026cb5321b57e3aec8406d4f2e5fcdc5a580",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xb400026cb5321b57e3aec8406d4f2e5fcdc5a580"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3v0nzpd018609i7kz9vv2u1",
+    "username": "KevTW_",
+    "createdAt": "2022-06-01T03:16:03.841Z"
+  }
+}

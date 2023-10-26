@@ -1,0 +1,20 @@
+{
+  "modified": 1698334144280,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xac93f07057a8b0eb5b45cea5b94a82d2de340a50",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xac93f07057a8b0eb5b45cea5b94a82d2de340a50"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5b32oid316609mj36wo5ta6",
+    "username": "dmuuc",
+    "createdAt": "2022-07-07T13:47:29.557Z"
+  }
+}

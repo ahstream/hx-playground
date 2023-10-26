@@ -1,0 +1,20 @@
+{
+  "modified": 1698334192959,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xc0a163e3952017d4bb3e78df4cc8d35f64b1762e",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xc0a163e3952017d4bb3e78df4cc8d35f64b1762e"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5b4cvor021909mgdnaklwj4",
+    "username": "wobistdu",
+    "createdAt": "2022-07-07T14:23:25.035Z"
+  }
+}

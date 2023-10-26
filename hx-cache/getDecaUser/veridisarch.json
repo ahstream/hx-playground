@@ -1,0 +1,26 @@
+{
+  "modified": 1698334026753,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xd1db29a61ffefe30efadf735a2324242844e10f1",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1Y8YZcKZ637PrroDCjbDyrxD4d8LpDtSuw",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0xd1db29a61ffefe30efadf735a2324242844e10f1"
+    ],
+    "walletsTez": [
+      "tz1Y8YZcKZ637PrroDCjbDyrxD4d8LpDtSuw"
+    ],
+    "walletsOther": [],
+    "id": "cl62fzkcz121609l29t0llies",
+    "username": "veridisarch",
+    "createdAt": "2022-07-26T17:18:45.971Z"
+  }
+}

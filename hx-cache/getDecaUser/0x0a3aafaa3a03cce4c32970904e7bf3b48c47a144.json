@@ -1,0 +1,20 @@
+{
+  "modified": 1698333187816,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x0a3aafaa3a03cce4c32970904e7bf3b48c47a144",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x0a3aafaa3a03cce4c32970904e7bf3b48c47a144"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl548yg67727009mczq6nzot1",
+    "username": "LUXNFT",
+    "createdAt": "2022-07-02T18:57:46.591Z"
+  }
+}

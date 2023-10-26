@@ -1,0 +1,31 @@
+{
+  "modified": 1698332931070,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "tz1ejur4dogDQqdhWM1zPzngQcEyz68YgGgu",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0x9e5289034c8dbd9977ba8e8a6b71c9bf7f27603a",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x865f4c1de45b074a58fea6dd109d278a5130dc22",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x9e5289034c8dbd9977ba8e8a6b71c9bf7f27603a",
+      "0x865f4c1de45b074a58fea6dd109d278a5130dc22"
+    ],
+    "walletsTez": [
+      "tz1ejur4dogDQqdhWM1zPzngQcEyz68YgGgu"
+    ],
+    "walletsOther": [],
+    "id": "cl3wj0vqx125009l6ny0jtdsa",
+    "username": "DrQueen",
+    "createdAt": "2022-06-02T04:37:44.505Z"
+  }
+}

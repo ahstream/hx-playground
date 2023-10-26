@@ -1,0 +1,25 @@
+{
+  "modified": 1698334207974,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xfc34ed4048cdf18407d5fa529f575f6efcd6b14b",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x57cef41753e0416b725c74a5a42cd74339d63095",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xfc34ed4048cdf18407d5fa529f575f6efcd6b14b",
+      "0x57cef41753e0416b725c74a5a42cd74339d63095"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl4kyfeb4020009l1acwitw6c",
+    "username": "Salvatore",
+    "createdAt": "2022-06-19T06:55:24.208Z"
+  }
+}

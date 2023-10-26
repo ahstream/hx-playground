@@ -1,0 +1,36 @@
+{
+  "modified": 1698334234664,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x8a32091692fc167e6bd4e7b7853c1e8caddd6fd4",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x3fddd438cfa00b50d39aec83399799161bb5c0fb",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xf7a77ca1806594a9df9484cd62da03f7ebdcb5e7",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1d4krcJ4GcRJPLwmvu9fZHyXHdf3Yzxb3C",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0x8a32091692fc167e6bd4e7b7853c1e8caddd6fd4",
+      "0x3fddd438cfa00b50d39aec83399799161bb5c0fb",
+      "0xf7a77ca1806594a9df9484cd62da03f7ebdcb5e7"
+    ],
+    "walletsTez": [
+      "tz1d4krcJ4GcRJPLwmvu9fZHyXHdf3Yzxb3C"
+    ],
+    "walletsOther": [],
+    "id": "clkr3bt3k0001mi0g578cyzjy",
+    "username": "mookarty",
+    "createdAt": "2023-07-31T16:34:29.163Z"
+  }
+}

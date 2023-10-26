@@ -1,0 +1,20 @@
+{
+  "modified": 1698334121705,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xdaa958f3964f81e3a992c973cd8266fe817f9074",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xdaa958f3964f81e3a992c973cd8266fe817f9074"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl63b07v5112309l0n7ssjgik",
+    "username": "sscoinsMI",
+    "createdAt": "2022-07-27T07:47:04.529Z"
+  }
+}

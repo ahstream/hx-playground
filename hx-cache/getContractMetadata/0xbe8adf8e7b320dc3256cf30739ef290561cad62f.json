@@ -1,0 +1,25 @@
+{
+  "modified": 1698350263201,
+  "value": {
+    "address": "0xbe8adf8e7b320dc3256cf30739ef290561cad62f",
+    "contractMetadata": {
+      "name": "Hafftka Stories",
+      "symbol": "HAFST",
+      "totalSupply": "2",
+      "tokenType": "ERC721",
+      "contractDeployer": "0x208833804d09cf965023f2bdb03d78e3056b4767",
+      "deployedBlockNumber": 15621490,
+      "openSea": {
+        "floorPrice": 0,
+        "collectionName": "Hafftka Stories",
+        "collectionSlug": "hafftka-stories",
+        "safelistRequestStatus": "approved",
+        "imageUrl": "https://i.seadn.io/gcs/files/4b4eca5c4374a23b750fe33be19e30f3.jpg?w=500&auto=format",
+        "description": "",
+        "twitterUsername": "hafftka",
+        "bannerImageUrl": "https://i.seadn.io/gcs/files/97288250ce4c139be29c76ed3ecca8bf.png?w=500&auto=format",
+        "lastIngestedAt": "2023-10-19T11:40:38.000Z"
+      }
+    }
+  }
+}

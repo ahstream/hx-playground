@@ -1,0 +1,26 @@
+{
+  "modified": 1698333972701,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xfcf886cb6528a1c6b7d19bf041750d78d5034f0f",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1ixQ3mxFvCABx96PNauFoSu9Dcm3xFFAPe",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0xfcf886cb6528a1c6b7d19bf041750d78d5034f0f"
+    ],
+    "walletsTez": [
+      "tz1ixQ3mxFvCABx96PNauFoSu9Dcm3xFFAPe"
+    ],
+    "walletsOther": [],
+    "id": "cl58g6arw162509mrqopuuxfk",
+    "username": "maryart-eth",
+    "createdAt": "2022-07-05T17:30:54.860Z"
+  }
+}

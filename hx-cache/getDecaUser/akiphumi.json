@@ -1,0 +1,26 @@
+{
+  "modified": 1698333903137,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x95045076fc93a14a4e9b576599479cb4f58a1b11",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1Zwsx4jK1z2QkcpDbym9mb4jHzWLCpWNXT",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0x95045076fc93a14a4e9b576599479cb4f58a1b11"
+    ],
+    "walletsTez": [
+      "tz1Zwsx4jK1z2QkcpDbym9mb4jHzWLCpWNXT"
+    ],
+    "walletsOther": [],
+    "id": "cl3y4yfsm392409l6dwy734lz",
+    "username": "akiphumi",
+    "createdAt": "2022-06-03T07:39:28.246Z"
+  }
+}

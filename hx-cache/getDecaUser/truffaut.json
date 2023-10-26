@@ -1,0 +1,20 @@
+{
+  "modified": 1698334302882,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x910828156e116e083380575525838a6e1273d0ec",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x910828156e116e083380575525838a6e1273d0ec"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl6f6y4tx570209mm267wuhi6",
+    "username": "truffaut",
+    "createdAt": "2022-08-04T15:26:42.933Z"
+  }
+}

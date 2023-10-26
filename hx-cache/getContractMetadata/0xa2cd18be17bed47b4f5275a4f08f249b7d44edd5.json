@@ -1,0 +1,23 @@
+{
+  "modified": 1698350128396,
+  "value": {
+    "address": "0xa2cd18be17bed47b4f5275a4f08f249b7d44edd5",
+    "contractMetadata": {
+      "tokenType": "ERC1155",
+      "contractDeployer": "0x208833804d09cf965023f2bdb03d78e3056b4767",
+      "deployedBlockNumber": 15777105,
+      "openSea": {
+        "floorPrice": 0.008,
+        "collectionName": "Hafftka Fake Rare",
+        "collectionSlug": "hafftka-fakerare",
+        "safelistRequestStatus": "disabled_top_trending",
+        "imageUrl": "https://i.seadn.io/gcs/files/f61f766a387ece1d0168212493db8391.gif?w=500&auto=format",
+        "description": "For the culture",
+        "externalUrl": "http://hafftka.com",
+        "twitterUsername": "hafftka",
+        "bannerImageUrl": "https://i.seadn.io/gcs/files/c231500600d2fc0523bf4320d74a6df9.png?w=500&auto=format",
+        "lastIngestedAt": "2023-10-19T05:06:34.000Z"
+      }
+    }
+  }
+}

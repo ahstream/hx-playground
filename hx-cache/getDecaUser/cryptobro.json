@@ -1,0 +1,20 @@
+{
+  "modified": 1698334477487,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x41ead9351e2b1eab2a8bd5272e5ba992b8b0871a",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x41ead9351e2b1eab2a8bd5272e5ba992b8b0871a"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl8179u0w404009mj2hh72wkh",
+    "username": "cryptobro",
+    "createdAt": "2022-09-14T05:46:27.008Z"
+  }
+}

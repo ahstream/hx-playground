@@ -1,0 +1,20 @@
+{
+  "modified": 1698333856748,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x2ae7ac4d95e1bfe1172fae1c8efe9097119216cf",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x2ae7ac4d95e1bfe1172fae1c8efe9097119216cf"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl6kwvc8135640gmmspf2gfuu",
+    "username": "DrenFX",
+    "createdAt": "2022-08-08T15:31:13.441Z"
+  }
+}

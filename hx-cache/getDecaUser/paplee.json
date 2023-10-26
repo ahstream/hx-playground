@@ -1,0 +1,20 @@
+{
+  "modified": 1698333870687,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x9e602c1920443f01cb100a57a7f894df8eb42f66",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x9e602c1920443f01cb100a57a7f894df8eb42f66"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3iyreir014009ibrjz75gg9",
+    "username": "paplee",
+    "createdAt": "2022-05-23T16:49:29.667Z"
+  }
+}

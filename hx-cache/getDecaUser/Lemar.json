@@ -1,0 +1,20 @@
+{
+  "modified": 1698333971922,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x8fe2b6767fe54836c223b10178146fbf791a7318",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x8fe2b6767fe54836c223b10178146fbf791a7318"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3e6bhcf733309kuya0vq3dx",
+    "username": "Lemar",
+    "createdAt": "2022-05-20T08:22:12.879Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "modified": 1698333019950,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x3242743ce82db40511bcb7fee58464a8a7706f67",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz2DJjp7qLW7UdtvaVChWeZLz1n5fz3R9swv",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0x8b7e3036d0f6d606ebbc596df0f8b253789ea84a",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x3242743ce82db40511bcb7fee58464a8a7706f67",
+      "0x8b7e3036d0f6d606ebbc596df0f8b253789ea84a"
+    ],
+    "walletsTez": [
+      "tz2DJjp7qLW7UdtvaVChWeZLz1n5fz3R9swv"
+    ],
+    "walletsOther": [],
+    "id": "clau4nqmh0001l108yc0je3md",
+    "username": "zhenkadaplug",
+    "createdAt": "2022-11-23T20:58:00.609Z"
+  }
+}

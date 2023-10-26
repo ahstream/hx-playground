@@ -1,0 +1,20 @@
+{
+  "modified": 1698332670872,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x3fb9c8e2840c4f93cbbebb8b73bb6bfa6cf73d64",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x3fb9c8e2840c4f93cbbebb8b73bb6bfa6cf73d64"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl4z67mj8158609laf3nquhho",
+    "username": "Barondroid",
+    "createdAt": "2022-06-29T05:42:05.012Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "modified": 1698334405331,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xba64444d6d16d3661644464140d2dec3708ad332",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xbc79d431bb438fc67b9ee150fa07b8c313c52d2d",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1iU3RX5fGdfKBBLjCXF2mXS5XzH6t2nSiz",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0xba64444d6d16d3661644464140d2dec3708ad332",
+      "0xbc79d431bb438fc67b9ee150fa07b8c313c52d2d"
+    ],
+    "walletsTez": [
+      "tz1iU3RX5fGdfKBBLjCXF2mXS5XzH6t2nSiz"
+    ],
+    "walletsOther": [],
+    "id": "cl3d01570006709mpke6hnl6w",
+    "username": "JPGS",
+    "createdAt": "2022-05-19T12:38:26.700Z"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "modified": 1698334037941,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x56668d5f73538033466acce4b5b9c04b384b2e41",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x56668d5f73538033466acce4b5b9c04b384b2e41"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl0u2s7ch060109l8ijgta5hf",
+    "username": "X020_NFT",
+    "createdAt": "2022-03-16T21:28:26.417Z"
+  }
+}

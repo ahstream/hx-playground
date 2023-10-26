@@ -1,0 +1,20 @@
+{
+  "modified": 1698334125501,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x788a33b2f241a27b19edecfce312ddbab7587c63",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x788a33b2f241a27b19edecfce312ddbab7587c63"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "clb8cpu9h0001k008uivpv1h6",
+    "username": "dowork",
+    "createdAt": "2022-12-03T19:52:22.121Z"
+  }
+}

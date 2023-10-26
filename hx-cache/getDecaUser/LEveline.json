@@ -1,0 +1,20 @@
+{
+  "modified": 1698334116005,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xa53cb1aea9d66539458d12d55c38d12c7ca8fd05",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xa53cb1aea9d66539458d12d55c38d12c7ca8fd05"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5cna09t063509l28lvn2dwm",
+    "username": "LEveline",
+    "createdAt": "2022-07-08T16:00:49.889Z"
+  }
+}

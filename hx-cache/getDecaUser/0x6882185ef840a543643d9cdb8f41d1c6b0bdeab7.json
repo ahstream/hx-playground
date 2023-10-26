@@ -1,0 +1,20 @@
+{
+  "modified": 1698333070471,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x6882185ef840a543643d9cdb8f41d1c6b0bdeab7",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x6882185ef840a543643d9cdb8f41d1c6b0bdeab7"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl41lxxgy420309lhiypireq2",
+    "username": "jaapy",
+    "createdAt": "2022-06-05T17:58:16.498Z"
+  }
+}

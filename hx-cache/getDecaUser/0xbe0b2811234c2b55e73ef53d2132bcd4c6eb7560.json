@@ -1,0 +1,20 @@
+{
+  "modified": 1698333103272,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xbe0b2811234c2b55e73ef53d2132bcd4c6eb7560",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xbe0b2811234c2b55e73ef53d2132bcd4c6eb7560"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl69s1emz147209kzsuak7zz7",
+    "username": "web3female",
+    "createdAt": "2022-07-31T20:30:30.491Z"
+  }
+}

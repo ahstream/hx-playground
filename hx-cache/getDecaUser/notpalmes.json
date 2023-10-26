@@ -1,0 +1,20 @@
+{
+  "modified": 1698334484727,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x8485867178fde14abad7ebfaedac46e50fa41288",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x8485867178fde14abad7ebfaedac46e50fa41288"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl4v9yfo3157309l9uc2fc8fj",
+    "username": "notpalmes",
+    "createdAt": "2022-06-26T12:15:49.971Z"
+  }
+}

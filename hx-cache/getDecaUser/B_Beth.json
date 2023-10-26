@@ -1,0 +1,20 @@
+{
+  "modified": 1698334385491,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xc229b2c7648cb9b9c0722e76dd7ff3b2de65334b",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xc229b2c7648cb9b9c0722e76dd7ff3b2de65334b"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3x60svz445309mfq61qmzz7",
+    "username": "B_Beth",
+    "createdAt": "2022-06-02T15:21:31.967Z"
+  }
+}

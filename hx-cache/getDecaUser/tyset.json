@@ -1,0 +1,20 @@
+{
+  "modified": 1698334300776,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x95413a0c0792cb97731bd024087b2f370740c01a",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x95413a0c0792cb97731bd024087b2f370740c01a"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5z069fp396209mo8tvg6s49",
+    "username": "tyset",
+    "createdAt": "2022-07-24T07:32:46.021Z"
+  }
+}

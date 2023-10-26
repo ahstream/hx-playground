@@ -1,0 +1,20 @@
+{
+  "modified": 1698334387746,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x3a4e30ccd548b54d59ee5267bb15c92a97aba165",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x3a4e30ccd548b54d59ee5267bb15c92a97aba165"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5bkm6zc187909l8vyalpmhc",
+    "username": "EpicToneDogg",
+    "createdAt": "2022-07-07T21:58:33.432Z"
+  }
+}

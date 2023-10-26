@@ -1,0 +1,20 @@
+{
+  "modified": 1698334238270,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x4fc06231d9bb175dacf6b482ea236d5de1101317",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x4fc06231d9bb175dacf6b482ea236d5de1101317"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3dd0l7w023309mpv05qqy7f",
+    "username": "pangyu",
+    "createdAt": "2022-05-19T18:41:55.820Z"
+  }
+}

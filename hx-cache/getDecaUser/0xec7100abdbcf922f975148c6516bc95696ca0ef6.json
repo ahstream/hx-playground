@@ -1,0 +1,20 @@
+{
+  "modified": 1698332707481,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xec7100abdbcf922f975148c6516bc95696ca0ef6",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xec7100abdbcf922f975148c6516bc95696ca0ef6"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl69o1dy4131606mozy10lbgv",
+    "username": "Ccw_RRMaxi",
+    "createdAt": "2022-07-31T18:38:31.132Z"
+  }
+}

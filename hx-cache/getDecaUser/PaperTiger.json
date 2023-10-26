@@ -1,0 +1,20 @@
+{
+  "modified": 1698334419403,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xa1c6b7d556bb56408bb3991d29a5e574e10dfe48",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xa1c6b7d556bb56408bb3991d29a5e574e10dfe48"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3x579pz387709l5sypq6uh6",
+    "username": "PaperTiger",
+    "createdAt": "2022-06-02T14:58:34.103Z"
+  }
+}

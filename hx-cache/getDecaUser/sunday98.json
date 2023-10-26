@@ -1,0 +1,20 @@
+{
+  "modified": 1698333863899,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x7bb8fec0bd8559e8fd99972990352b6e10461bab",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x7bb8fec0bd8559e8fd99972990352b6e10461bab"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3av97s1057609l3vikxuwu8",
+    "username": "sunday98",
+    "createdAt": "2022-05-18T00:49:12.865Z"
+  }
+}

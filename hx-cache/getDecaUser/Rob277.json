@@ -1,0 +1,20 @@
+{
+  "modified": 1698333961144,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xbc56f43098e07fa18dcc4d5064eda629f2c67a22",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xbc56f43098e07fa18dcc4d5064eda629f2c67a22"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl7346q3b162509kxa6fxyjrr",
+    "username": "Rob277",
+    "createdAt": "2022-08-21T09:15:53.111Z"
+  }
+}

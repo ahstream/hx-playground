@@ -1,0 +1,40 @@
+{
+  "modified": 1698333148209,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xc6400a5584db71e41b0e5dfbdc769b54b91256cd",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x8ba68cfe71550efc8988d81d040473709b7f9218",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xE77266595F97D6b6f08216cE8687F1Bf38620474",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xa743c8c57c425B84Cb2eD18C6B9ae3aD21629Cb5",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0xbdFAAeb52668D513eeFdebfb3AdE6E54159A361B",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xc6400a5584db71e41b0e5dfbdc769b54b91256cd",
+      "0x8ba68cfe71550efc8988d81d040473709b7f9218",
+      "0xE77266595F97D6b6f08216cE8687F1Bf38620474",
+      "0xa743c8c57c425B84Cb2eD18C6B9ae3aD21629Cb5",
+      "0xbdFAAeb52668D513eeFdebfb3AdE6E54159A361B"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cky4pgb6b015908kx55k807js",
+    "username": "punk6529",
+    "createdAt": "2022-01-07T18:01:37.427Z"
+  }
+}

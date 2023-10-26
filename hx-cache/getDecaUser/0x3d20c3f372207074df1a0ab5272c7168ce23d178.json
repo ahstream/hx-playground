@@ -1,0 +1,20 @@
+{
+  "modified": 1698333042049,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x3d20c3f372207074df1a0ab5272c7168ce23d178",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x3d20c3f372207074df1a0ab5272c7168ce23d178"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl6rmy8ar210280gl9nsjfp77f",
+    "username": "Metagon",
+    "createdAt": "2022-08-13T08:27:55.395Z"
+  }
+}

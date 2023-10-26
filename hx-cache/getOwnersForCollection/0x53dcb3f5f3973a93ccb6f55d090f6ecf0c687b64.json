@@ -1,0 +1,43 @@
+{
+  "modified": 1698335274240,
+  "value": {
+    "ownerAddresses": [
+      {
+        "ownerAddress": "0x208833804d09cf965023f2bdb03d78e3056b4767",
+        "tokenBalances": [
+          {
+            "tokenId": "0x0000000000000000000000000000000000000000000000000000000000000003",
+            "balance": 1
+          }
+        ]
+      },
+      {
+        "ownerAddress": "0x3fc145ea0fa4290ff0304c689f78dc8fc69788f7",
+        "tokenBalances": [
+          {
+            "tokenId": "0x0000000000000000000000000000000000000000000000000000000000000004",
+            "balance": 1
+          }
+        ]
+      },
+      {
+        "ownerAddress": "0xce90a7949bb78892f159f428d0dc23a8e3584d75",
+        "tokenBalances": [
+          {
+            "tokenId": "0x0000000000000000000000000000000000000000000000000000000000000002",
+            "balance": 1
+          }
+        ]
+      },
+      {
+        "ownerAddress": "0xe6ca11a7b413866c6b9b284b5f3af3061aedf785",
+        "tokenBalances": [
+          {
+            "tokenId": "0x0000000000000000000000000000000000000000000000000000000000000001",
+            "balance": 1
+          }
+        ]
+      }
+    ]
+  }
+}

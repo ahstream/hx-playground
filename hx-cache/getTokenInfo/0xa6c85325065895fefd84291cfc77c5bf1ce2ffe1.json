@@ -1,0 +1,19 @@
+{
+  "modified": 1698332477679,
+  "value": {
+    "address": "0xa6c85325065895fefd84291cfc77c5bf1ce2ffe1",
+    "name": "Decal by tjo",
+    "owner": "0x70feeec90d37dc73d9ded8cfafd7ede3f697b70b",
+    "symbol": "DECAL",
+    "totalSupply": "100",
+    "transfersCount": 0,
+    "txsCount": 331,
+    "issuancesCount": 0,
+    "lastUpdated": 1698314388,
+    "price": false,
+    "holdersCount": 70,
+    "ethTransfersCount": 0,
+    "decimals": "0",
+    "countOps": 0
+  }
+}

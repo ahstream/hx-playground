@@ -1,0 +1,20 @@
+{
+  "modified": 1698334449544,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x64a597f2d9f96b1bb3bed725d97b1005f2aba95d",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x64a597f2d9f96b1bb3bed725d97b1005f2aba95d"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3uucsjw141509l44i4yzffg",
+    "username": "OlgaFreeman",
+    "createdAt": "2022-06-01T00:19:23.660Z"
+  }
+}

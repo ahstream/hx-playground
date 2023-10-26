@@ -1,0 +1,36 @@
+{
+  "modified": 1698333914092,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x9241abc7091807fbd601593d6ff9e54ab20ffdac",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1ZmLCnKRm9ifqw97vWJwfRfV1jbypd8osJ",
+        "blockchain": "tezos"
+      },
+      {
+        "address": "0xc4397ea15ee4f238fb7e8e5bdb8f926d069589fa",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1gmuHngu6XPGZFB8RuskHAEJzn5pcZrjbh",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0x9241abc7091807fbd601593d6ff9e54ab20ffdac",
+      "0xc4397ea15ee4f238fb7e8e5bdb8f926d069589fa"
+    ],
+    "walletsTez": [
+      "tz1ZmLCnKRm9ifqw97vWJwfRfV1jbypd8osJ",
+      "tz1gmuHngu6XPGZFB8RuskHAEJzn5pcZrjbh"
+    ],
+    "walletsOther": [],
+    "id": "cl4m31sdz048209l2mcgmqod2",
+    "username": "Synkitty",
+    "createdAt": "2022-06-20T01:52:33.527Z"
+  }
+}

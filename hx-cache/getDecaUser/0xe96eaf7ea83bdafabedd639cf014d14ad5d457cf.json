@@ -1,0 +1,26 @@
+{
+  "modified": 1698332912999,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xe96eaf7ea83bdafabedd639cf014d14ad5d457cf",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz2JJ4QJUAEVNV7hkrKjPU53jbnfGc2w6qQV",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0xe96eaf7ea83bdafabedd639cf014d14ad5d457cf"
+    ],
+    "walletsTez": [
+      "tz2JJ4QJUAEVNV7hkrKjPU53jbnfGc2w6qQV"
+    ],
+    "walletsOther": [],
+    "id": "cl4urlof4054909ikj9vgnpht",
+    "username": "Shinto",
+    "createdAt": "2022-06-26T03:42:01.696Z"
+  }
+}

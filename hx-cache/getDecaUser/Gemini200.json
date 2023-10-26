@@ -1,0 +1,30 @@
+{
+  "modified": 1698334275003,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x01f05317f94e206ed36d8bfb331d3e68c31e0b71",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x852857c907bc434d341f6483bcd10c9cd4cb5ac2",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x365f45d467bee73cef4434ead0c62e7dcc227a4f",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x01f05317f94e206ed36d8bfb331d3e68c31e0b71",
+      "0x852857c907bc434d341f6483bcd10c9cd4cb5ac2",
+      "0x365f45d467bee73cef4434ead0c62e7dcc227a4f"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "clb0ssson0001la08ibp8vvwl",
+    "username": "Gemini200",
+    "createdAt": "2022-11-28T13:00:24.301Z"
+  }
+}

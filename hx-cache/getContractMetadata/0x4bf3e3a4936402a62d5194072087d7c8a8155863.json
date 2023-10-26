@@ -1,0 +1,25 @@
+{
+  "modified": 1698350129555,
+  "value": {
+    "address": "0x4bf3e3a4936402a62d5194072087d7c8a8155863",
+    "contractMetadata": {
+      "name": "Incisions by Hafftka",
+      "symbol": "HAFFIN",
+      "tokenType": "ERC721",
+      "contractDeployer": "0x208833804d09cf965023f2bdb03d78e3056b4767",
+      "deployedBlockNumber": 16721804,
+      "openSea": {
+        "floorPrice": 0,
+        "collectionName": "Incisions by Hafftka",
+        "collectionSlug": "incisions-by-hafftka",
+        "safelistRequestStatus": "not_requested",
+        "imageUrl": "https://i.seadn.io/gcs/files/051171486e49924919be962d3a10f8c9.jpg?w=500&auto=format",
+        "description": "These 10 animations are based on a series of etchings that is in the collections of the MOMA in NY and the British Museum in London. The etchings are monotypes (each of the 10 etchings is printed differently in each series). They are meant to be kept together.",
+        "externalUrl": "http://hafftka.com",
+        "twitterUsername": "hafftka",
+        "bannerImageUrl": "https://i.seadn.io/gcs/files/051171486e49924919be962d3a10f8c9.jpg?w=500&auto=format",
+        "lastIngestedAt": "2023-10-20T04:44:11.000Z"
+      }
+    }
+  }
+}

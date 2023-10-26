@@ -1,0 +1,20 @@
+{
+  "modified": 1698332909343,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xdc03cd71ff703c2e72e769dccaffe838d4b4ab6b",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xdc03cd71ff703c2e72e769dccaffe838d4b4ab6b"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl4a8fdul233409mbqctxtj9l",
+    "username": "Kosy",
+    "createdAt": "2022-06-11T18:49:51.837Z"
+  }
+}

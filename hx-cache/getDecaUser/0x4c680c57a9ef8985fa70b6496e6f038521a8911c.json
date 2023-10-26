@@ -1,0 +1,20 @@
+{
+  "modified": 1698332865674,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x4c680c57a9ef8985fa70b6496e6f038521a8911c",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x4c680c57a9ef8985fa70b6496e6f038521a8911c"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl6ns5dt601680hjovu7tbkaa",
+    "username": "SV-ON",
+    "createdAt": "2022-08-10T15:42:22.506Z"
+  }
+}

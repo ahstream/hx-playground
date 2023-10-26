@@ -1,0 +1,20 @@
+{
+  "modified": 1698334136992,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x517b1e92cd64bdb256390fa00d58eb90d83c4397",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x517b1e92cd64bdb256390fa00d58eb90d83c4397"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5b3143q048109l5eygmi9qz",
+    "username": "jeamOrc",
+    "createdAt": "2022-07-07T13:46:16.454Z"
+  }
+}

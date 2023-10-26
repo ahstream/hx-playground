@@ -1,0 +1,25 @@
+{
+  "modified": 1698334220402,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x2079cfbd7d6525863a47bd8c36a3afd9184302ad",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x0a538c840ca1879ac1185af5266810d51cf67321",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x2079cfbd7d6525863a47bd8c36a3afd9184302ad",
+      "0x0a538c840ca1879ac1185af5266810d51cf67321"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5dkfie1283609mlqhe4a2mp",
+    "username": "RealSun",
+    "createdAt": "2022-07-09T07:28:53.977Z"
+  }
+}

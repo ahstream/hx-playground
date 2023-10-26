@@ -1,0 +1,20 @@
+{
+  "modified": 1698333953744,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x0b5fb9a22e7ef12c5f4120d2f68ba57bcea307b3",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x0b5fb9a22e7ef12c5f4120d2f68ba57bcea307b3"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl4tnarek193809l23d7g43fh",
+    "username": "dorugwa",
+    "createdAt": "2022-06-25T08:53:47.708Z"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "modified": 1698334225023,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x94396de23a41bf9e3ecbaf9ba232508e9d68b060",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x94396de23a41bf9e3ecbaf9ba232508e9d68b060"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl85ms74f277409lfrdavyobn",
+    "username": "desperatehousewives",
+    "createdAt": "2022-09-17T08:11:42.735Z"
+  }
+}

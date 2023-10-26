@@ -1,0 +1,26 @@
+{
+  "modified": 1698333221755,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x0c71db5adab6631b8511862ab923b27fe331b25e",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1UszoGTYFvfusbE56XFuppmgQepzaAwbW2",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0x0c71db5adab6631b8511862ab923b27fe331b25e"
+    ],
+    "walletsTez": [
+      "tz1UszoGTYFvfusbE56XFuppmgQepzaAwbW2"
+    ],
+    "walletsOther": [],
+    "id": "cl3md5hf3046709l6id0e6pkn",
+    "username": "NFTalkies",
+    "createdAt": "2022-05-26T01:55:39.759Z"
+  }
+}

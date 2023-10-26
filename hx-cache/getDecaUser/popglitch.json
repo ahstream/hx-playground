@@ -1,0 +1,26 @@
+{
+  "modified": 1698334429659,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x648e71b3586a5d594157456c9de3df614a524086",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1MuiWjgV3AVvsqo5ZmHnwghKg61uEA1cfb",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0x648e71b3586a5d594157456c9de3df614a524086"
+    ],
+    "walletsTez": [
+      "tz1MuiWjgV3AVvsqo5ZmHnwghKg61uEA1cfb"
+    ],
+    "walletsOther": [],
+    "id": "cl4gs8lix040609mh9el8fv0c",
+    "username": "popglitch",
+    "createdAt": "2022-06-16T08:51:04.569Z"
+  }
+}

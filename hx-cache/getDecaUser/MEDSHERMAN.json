@@ -1,0 +1,20 @@
+{
+  "modified": 1698334399629,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x9cda4188918896c41dd7277fe3d969b7a79285da",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x9cda4188918896c41dd7277fe3d969b7a79285da"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl72b6wdp029309l6n2khiooc",
+    "username": "MEDSHERMAN",
+    "createdAt": "2022-08-20T19:44:12.397Z"
+  }
+}

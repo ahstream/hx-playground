@@ -1,0 +1,20 @@
+{
+  "modified": 1698333936214,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x5fd0fc0a9cbd30808319ac3a11da46aa1543cbef",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x5fd0fc0a9cbd30808319ac3a11da46aa1543cbef"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl4tse96o017009l3dn2m7kub",
+    "username": "lzamj",
+    "createdAt": "2022-06-25T11:16:28.800Z"
+  }
+}

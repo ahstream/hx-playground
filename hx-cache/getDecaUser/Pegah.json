@@ -1,0 +1,26 @@
+{
+  "modified": 1698333944142,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x2ec27add2e66a82a3c8b21c26450ef8b3f1295ba",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "tz1gTanZ7DWZGMn94M1U4ge5MuB5xwDEUE64",
+        "blockchain": "tezos"
+      }
+    ],
+    "walletsEth": [
+      "0x2ec27add2e66a82a3c8b21c26450ef8b3f1295ba"
+    ],
+    "walletsTez": [
+      "tz1gTanZ7DWZGMn94M1U4ge5MuB5xwDEUE64"
+    ],
+    "walletsOther": [],
+    "id": "cl5b2lo9m157509jj5fl04obp",
+    "username": "Pegah",
+    "createdAt": "2022-07-07T13:34:16.089Z"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "modified": 1698334330505,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x06ac3826c858c64b5755e292d17477090d3d2149",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x06ac3826c858c64b5755e292d17477090d3d2149"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl3x5ilyt173809l4c6fa7bxf",
+    "username": "degen319",
+    "createdAt": "2022-06-02T15:07:23.189Z"
+  }
+}

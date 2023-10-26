@@ -1,0 +1,25 @@
+{
+  "modified": 1698333223935,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xd7ec88416e5e248e36734ce5292d10a57528df4a",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x4cf01a807af3fbb5fd29a5da34136ba3df0f932a",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xd7ec88416e5e248e36734ce5292d10a57528df4a",
+      "0x4cf01a807af3fbb5fd29a5da34136ba3df0f932a"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl6t30x0p26450gic7jz3473o",
+    "username": "Fignuts2088",
+    "createdAt": "2022-08-14T08:45:40.777Z"
+  }
+}

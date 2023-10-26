@@ -1,0 +1,25 @@
+{
+  "modified": 1698334029775,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0x878a3da86070dfc19f94dfdb931102101f46b92b",
+        "blockchain": "ethereum"
+      },
+      {
+        "address": "0x419cd7046f3def749b24a57ae92419f69dfa0dee",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0x878a3da86070dfc19f94dfdb931102101f46b92b",
+      "0x419cd7046f3def749b24a57ae92419f69dfa0dee"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5xqiohm086209l31o2ozqkj",
+    "username": "swert",
+    "createdAt": "2022-07-23T10:14:43.066Z"
+  }
+}

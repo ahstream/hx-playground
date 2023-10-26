@@ -1,0 +1,20 @@
+{
+  "modified": 1698332878563,
+  "value": {
+    "profile": null,
+    "wallets": [
+      {
+        "address": "0xbccc968eeebffc2586a50eef0ee1cf12273c9604",
+        "blockchain": "ethereum"
+      }
+    ],
+    "walletsEth": [
+      "0xbccc968eeebffc2586a50eef0ee1cf12273c9604"
+    ],
+    "walletsTez": [],
+    "walletsOther": [],
+    "id": "cl5zzkg5x053609mknafxc8vz",
+    "username": "Ashaverse",
+    "createdAt": "2022-07-25T00:03:34.485Z"
+  }
+}
